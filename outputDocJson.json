@@ -1,0 +1,2684 @@
+{
+    "documenti": [
+        {
+            "documento": "A01",
+            "tipoData": "from",
+            "dataDocumento": "1288-09-24"
+        },
+        {
+            "documento": "B02",
+            "tipoData": "from",
+            "dataDocumento": "1289-09-24"
+        },
+        {
+            "documento": "C03",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C04",
+            "tipoData": "from",
+            "dataDocumento": "1279-12-12"
+        },
+        {
+            "documento": "C05",
+            "tipoData": "from",
+            "dataDocumento": "1275-05-14"
+        },
+        {
+            "documento": "C06",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C07",
+            "tipoData": "when",
+            "dataDocumento": "1225-10-16"
+        },
+        {
+            "documento": "C08",
+            "tipoData": "when",
+            "dataDocumento": "1225-10-16"
+        },
+        {
+            "documento": "C09",
+            "tipoData": "when",
+            "dataDocumento": "1222-01-28"
+        },
+        {
+            "documento": "C10",
+            "tipoData": "from",
+            "dataDocumento": "1275-01-01"
+        },
+        {
+            "documento": "C11",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C12",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C13",
+            "tipoData": "when",
+            "dataDocumento": "1272-04-03"
+        },
+        {
+            "documento": "C14",
+            "tipoData": "when",
+            "dataDocumento": "1277-08-08"
+        },
+        {
+            "documento": "C15",
+            "tipoData": "when",
+            "dataDocumento": "1277-08-08"
+        },
+        {
+            "documento": "C16",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C17",
+            "tipoData": "when",
+            "dataDocumento": "1279-11"
+        },
+        {
+            "documento": "C18",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C19",
+            "tipoData": "from",
+            "dataDocumento": "1273-04-25"
+        },
+        {
+            "documento": "C20",
+            "tipoData": "when",
+            "dataDocumento": "1285-10"
+        },
+        {
+            "documento": "C21",
+            "tipoData": "when",
+            "dataDocumento": "1276-10-16"
+        },
+        {
+            "documento": "C22",
+            "tipoData": "when",
+            "dataDocumento": "1276-10-16"
+        },
+        {
+            "documento": "C23",
+            "tipoData": "none",
+            "dataDocumento": "none"
+        },
+        {
+            "documento": "C24",
+            "tipoData": "when",
+            "dataDocumento": "1274-06-22"
+        },
+        {
+            "documento": "C25",
+            "tipoData": "from",
+            "dataDocumento": "1252-07-30"
+        },
+        {
+            "documento": "C26",
+            "tipoData": "from",
+            "dataDocumento": "1287-12-12"
+        },
+        {
+            "documento": "CCCCIIII_365",
+            "tipoData": "when",
+            "dataDocumento": "1263-02-06"
+        },
+        {
+            "documento": "CCCCIII_364",
+            "tipoData": "when",
+            "dataDocumento": "1283-07-20"
+        },
+        {
+            "documento": "CCCCII_363",
+            "tipoData": "when",
+            "dataDocumento": "1283-07-20"
+        },
+        {
+            "documento": "CCCCI_362",
+            "tipoData": "when",
+            "dataDocumento": "1235-01-07"
+        },
+        {
+            "documento": "CCCCLIIII_415",
+            "tipoData": "when",
+            "dataDocumento": "1212-04-03"
+        },
+        {
+            "documento": "CCCCLIII_414",
+            "tipoData": "when",
+            "dataDocumento": "1234-11-29"
+        },
+        {
+            "documento": "CCCCLII_413",
+            "tipoData": "when",
+            "dataDocumento": "1208-07-17"
+        },
+        {
+            "documento": "CCCCLI_412",
+            "tipoData": "when",
+            "dataDocumento": "1241-07-14"
+        },
+        {
+            "documento": "CCCCLVIIII_420",
+            "tipoData": "when",
+            "dataDocumento": "1255-05-12"
+        },
+        {
+            "documento": "CCCCLVIII_419",
+            "tipoData": "when",
+            "dataDocumento": "1255-05-12"
+        },
+        {
+            "documento": "CCCCLVII_418",
+            "tipoData": "when",
+            "dataDocumento": "1253-10-08"
+        },
+        {
+            "documento": "CCCCLVI_417",
+            "tipoData": "when",
+            "dataDocumento": "1202-06-04"
+        },
+        {
+            "documento": "CCCCLV_416",
+            "tipoData": "when",
+            "dataDocumento": "1236-08-26"
+        },
+        {
+            "documento": "CCCCLXIIII_425",
+            "tipoData": "when",
+            "dataDocumento": "1235-07-15"
+        },
+        {
+            "documento": "CCCCLXIII_424",
+            "tipoData": "when",
+            "dataDocumento": "1237-08-01"
+        },
+        {
+            "documento": "CCCCLXII_423",
+            "tipoData": "when",
+            "dataDocumento": "1203-05-13"
+        },
+        {
+            "documento": "CCCCLXI_422",
+            "tipoData": "when",
+            "dataDocumento": "1255-02-09"
+        },
+        {
+            "documento": "CCCCLXVbis_427",
+            "tipoData": "when",
+            "dataDocumento": "1253-03-25"
+        },
+        {
+            "documento": "CCCCLXVIIII_431",
+            "tipoData": "when",
+            "dataDocumento": "1240-06-26"
+        },
+        {
+            "documento": "CCCCLXVIII_430",
+            "tipoData": "when",
+            "dataDocumento": "1235-06-16"
+        },
+        {
+            "documento": "CCCCLXVII_429",
+            "tipoData": "when",
+            "dataDocumento": "1225-09-16"
+        },
+        {
+            "documento": "CCCCLXVI_428",
+            "tipoData": "when",
+            "dataDocumento": "1253-03-25"
+        },
+        {
+            "documento": "CCCCLXV_426",
+            "tipoData": "when",
+            "dataDocumento": "1214-09-01"
+        },
+        {
+            "documento": "CCCCLXXIIII_436",
+            "tipoData": "when",
+            "dataDocumento": "1221-08-02"
+        },
+        {
+            "documento": "CCCCLXXIII_435",
+            "tipoData": "when",
+            "dataDocumento": "1222-01-25"
+        },
+        {
+            "documento": "CCCCLXXII_434",
+            "tipoData": "when",
+            "dataDocumento": "1218-08-06"
+        },
+        {
+            "documento": "CCCCLXXI_433",
+            "tipoData": "from",
+            "dataDocumento": "1182-01-07"
+        },
+        {
+            "documento": "CCCCLXXVIIII_441",
+            "tipoData": "when",
+            "dataDocumento": "1252-10-06"
+        },
+        {
+            "documento": "CCCCLXXVIII_440",
+            "tipoData": "when",
+            "dataDocumento": "1229-05-22"
+        },
+        {
+            "documento": "CCCCLXXVII_439",
+            "tipoData": "when",
+            "dataDocumento": "1221-08-02"
+        },
+        {
+            "documento": "CCCCLXXVI_438",
+            "tipoData": "when",
+            "dataDocumento": "1229-05-20"
+        },
+        {
+            "documento": "CCCCLXXV_437",
+            "tipoData": "when",
+            "dataDocumento": "1221-08-01"
+        },
+        {
+            "documento": "CCCCLXXXIIII_446",
+            "tipoData": "from",
+            "dataDocumento": "1278-11-01"
+        },
+        {
+            "documento": "CCCCLXXXIII_435",
+            "tipoData": "when",
+            "dataDocumento": "1222-01-25"
+        },
+        {
+            "documento": "CCCCLXXXIII_445",
+            "tipoData": "when",
+            "dataDocumento": "1269-01-17"
+        },
+        {
+            "documento": "CCCCLXXXII_444",
+            "tipoData": "when",
+            "dataDocumento": "1269-01-17"
+        },
+        {
+            "documento": "CCCCLXXXI_443",
+            "tipoData": "when",
+            "dataDocumento": "1261-12-24"
+        },
+        {
+            "documento": "CCCCLXXXVeCCCCLXXXVI_447",
+            "tipoData": "when",
+            "dataDocumento": "1254-11-17"
+        },
+        {
+            "documento": "CCCCLXXXVIIII_450",
+            "tipoData": "when",
+            "dataDocumento": "1285-04-29"
+        },
+        {
+            "documento": "CCCCLXXXVIII_449",
+            "tipoData": "when",
+            "dataDocumento": "1039-09-04"
+        },
+        {
+            "documento": "CCCCLXXXVIII_450",
+            "tipoData": "when",
+            "dataDocumento": "1285-04-29"
+        },
+        {
+            "documento": "CCCCLXXXVII_448",
+            "tipoData": "when",
+            "dataDocumento": "1277-01-18"
+        },
+        {
+            "documento": "CCCCLXXXXIIII_455",
+            "tipoData": "when",
+            "dataDocumento": "1257-08-12"
+        },
+        {
+            "documento": "CCCCLXXXXIII_454",
+            "tipoData": "when",
+            "dataDocumento": "1218-03-24"
+        },
+        {
+            "documento": "CCCCLXXXXII_453",
+            "tipoData": "when",
+            "dataDocumento": "1217-07-26"
+        },
+        {
+            "documento": "CCCCLXXXXI_452",
+            "tipoData": "when",
+            "dataDocumento": "1196-02-05"
+        },
+        {
+            "documento": "CCCCLXXXXVIIII_460",
+            "tipoData": "when",
+            "dataDocumento": "1186-05-16"
+        },
+        {
+            "documento": "CCCCLXXXXVIII_459",
+            "tipoData": "when",
+            "dataDocumento": "1186-03-28"
+        },
+        {
+            "documento": "CCCCLXXXXVII_458",
+            "tipoData": "when",
+            "dataDocumento": "1285-02-09"
+        },
+        {
+            "documento": "CCCCLXXXXVI_457",
+            "tipoData": "when",
+            "dataDocumento": "1285-01-03"
+        },
+        {
+            "documento": "CCCCLXXXXV_456",
+            "tipoData": "when",
+            "dataDocumento": "1259-10-27"
+        },
+        {
+            "documento": "CCCCLXXXX_451",
+            "tipoData": "when",
+            "dataDocumento": "1285-02-09"
+        },
+        {
+            "documento": "CCCCLXXX_442",
+            "tipoData": "when",
+            "dataDocumento": "1254-07-29"
+        },
+        {
+            "documento": "CCCCLXX_432-1",
+            "tipoData": "when",
+            "dataDocumento": "1240-06-26"
+        },
+        {
+            "documento": "CCCCLXX_432",
+            "tipoData": "when",
+            "dataDocumento": "1240-06-26"
+        },
+        {
+            "documento": "CCCCLX_421",
+            "tipoData": "when",
+            "dataDocumento": "1255-02-09"
+        },
+        {
+            "documento": "CCCCL_411",
+            "tipoData": "when",
+            "dataDocumento": "1241-07-14"
+        },
+        {
+            "documento": "CCCCVIIII_370",
+            "tipoData": "when",
+            "dataDocumento": "1075-09-03"
+        },
+        {
+            "documento": "CCCCVIII_369",
+            "tipoData": "when",
+            "dataDocumento": "1255-01-29"
+        },
+        {
+            "documento": "CCCCVII_368",
+            "tipoData": "when",
+            "dataDocumento": "1279-07-30"
+        },
+        {
+            "documento": "CCCCVI_367",
+            "tipoData": "when",
+            "dataDocumento": "1198-08-24"
+        },
+        {
+            "documento": "CCCCV_366",
+            "tipoData": "when",
+            "dataDocumento": "1257-04-10"
+        },
+        {
+            "documento": "CCCCXIIII_375",
+            "tipoData": "when",
+            "dataDocumento": "1256-09-02"
+        },
+        {
+            "documento": "CCCCXIII_374",
+            "tipoData": "when",
+            "dataDocumento": "1227-03-14"
+        },
+        {
+            "documento": "CCCCXII_373",
+            "tipoData": "when",
+            "dataDocumento": "1204-07-09"
+        },
+        {
+            "documento": "CCCCXI_372",
+            "tipoData": "when",
+            "dataDocumento": "1202-06-09"
+        },
+        {
+            "documento": "CCCCXLIIII_405",
+            "tipoData": "when",
+            "dataDocumento": "1255-03-05"
+        },
+        {
+            "documento": "CCCCXLI_402",
+            "tipoData": "when",
+            "dataDocumento": "0950-01"
+        },
+        {
+            "documento": "CCCCXLVIIII_410",
+            "tipoData": "when",
+            "dataDocumento": "1237-12-22"
+        },
+        {
+            "documento": "CCCCXLVIII_409",
+            "tipoData": "when",
+            "dataDocumento": "1235-05-31"
+        },
+        {
+            "documento": "CCCCXL_401",
+            "tipoData": "when",
+            "dataDocumento": "1230-04-30"
+        },
+        {
+            "documento": "CCCCXVIIII_380",
+            "tipoData": "when",
+            "dataDocumento": "1255-09-21"
+        },
+        {
+            "documento": "CCCCXVIII_379",
+            "tipoData": "when",
+            "dataDocumento": "1255-09-21"
+        },
+        {
+            "documento": "CCCCXVII_378",
+            "tipoData": "when",
+            "dataDocumento": "1256-06-04"
+        },
+        {
+            "documento": "CCCCXVI_377",
+            "tipoData": "when",
+            "dataDocumento": "1256-06-04"
+        },
+        {
+            "documento": "CCCCXV_376",
+            "tipoData": "when",
+            "dataDocumento": "1256-09-02"
+        },
+        {
+            "documento": "CCCCXXIIII_385",
+            "tipoData": "when",
+            "dataDocumento": "1257-02-13"
+        },
+        {
+            "documento": "CCCCXXIII_384",
+            "tipoData": "when",
+            "dataDocumento": "1257-04-06"
+        },
+        {
+            "documento": "CCCCXXII_383",
+            "tipoData": "when",
+            "dataDocumento": "1257-04-06"
+        },
+        {
+            "documento": "CCCCXXI_382",
+            "tipoData": "when",
+            "dataDocumento": "1257-02-13"
+        },
+        {
+            "documento": "CCCCXXVIIII_390",
+            "tipoData": "when",
+            "dataDocumento": "1266-06-13"
+        },
+        {
+            "documento": "CCCCXXVIII_389",
+            "tipoData": "when",
+            "dataDocumento": "1266-08-22"
+        },
+        {
+            "documento": "CCCCXXVII_388",
+            "tipoData": "when",
+            "dataDocumento": "1266-07-15"
+        },
+        {
+            "documento": "CCCCXXVI_387",
+            "tipoData": "when",
+            "dataDocumento": "1257-01-15"
+        },
+        {
+            "documento": "CCCCXXV_386",
+            "tipoData": "when",
+            "dataDocumento": "1257-05-21"
+        },
+        {
+            "documento": "CCCCXXXIIII_394",
+            "tipoData": "when",
+            "dataDocumento": "1269-06-18"
+        },
+        {
+            "documento": "CCCCXXXIIII_395",
+            "tipoData": "when",
+            "dataDocumento": "1257-06-08"
+        },
+        {
+            "documento": "CCCCXXXIII_394",
+            "tipoData": "when",
+            "dataDocumento": "1269-06-18"
+        },
+        {
+            "documento": "CCCCXXXII_393",
+            "tipoData": "when",
+            "dataDocumento": "1259-01-18"
+        },
+        {
+            "documento": "CCCCXXXI_392",
+            "tipoData": "when",
+            "dataDocumento": "1235-06-03"
+        },
+        {
+            "documento": "CCCCXXXVIIII_400",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-09"
+        },
+        {
+            "documento": "CCCCXXXVIII_399",
+            "tipoData": "when",
+            "dataDocumento": "1203-08-17"
+        },
+        {
+            "documento": "CCCCXXXVII_398",
+            "tipoData": "when",
+            "dataDocumento": "1230-06-20"
+        },
+        {
+            "documento": "CCCCXXXVI_397",
+            "tipoData": "when",
+            "dataDocumento": "1257-01-23"
+        },
+        {
+            "documento": "CCCCXXXV_396",
+            "tipoData": "when",
+            "dataDocumento": "1257-01-23"
+        },
+        {
+            "documento": "CCCCXXXXIII_404",
+            "tipoData": "when",
+            "dataDocumento": "1237-01-30"
+        },
+        {
+            "documento": "CCCCXXXXII_403",
+            "tipoData": "when",
+            "dataDocumento": "1230-07-21"
+        },
+        {
+            "documento": "CCCCXXXXVII_408",
+            "tipoData": "when",
+            "dataDocumento": "1235-06-20"
+        },
+        {
+            "documento": "CCCCXXXXVI_407",
+            "tipoData": "when",
+            "dataDocumento": "1220-03-20"
+        },
+        {
+            "documento": "CCCCXXXXV_406",
+            "tipoData": "when",
+            "dataDocumento": "1255-03-21"
+        },
+        {
+            "documento": "CCCCXXX_391",
+            "tipoData": "when",
+            "dataDocumento": "1224-09-21"
+        },
+        {
+            "documento": "CCCCXX_381",
+            "tipoData": "when",
+            "dataDocumento": "1257-02-17"
+        },
+        {
+            "documento": "CCCCX_371",
+            "tipoData": "when",
+            "dataDocumento": "1197-01-23"
+        },
+        {
+            "documento": "CCCC_361",
+            "tipoData": "when",
+            "dataDocumento": "1235-08-15"
+        },
+        {
+            "documento": "CCCIIII_266",
+            "tipoData": "when",
+            "dataDocumento": "1168-02-24"
+        },
+        {
+            "documento": "CCCIII_265",
+            "tipoData": "from",
+            "dataDocumento": "1141-09-24"
+        },
+        {
+            "documento": "CCCII_264",
+            "tipoData": "when",
+            "dataDocumento": "1283-09-12"
+        },
+        {
+            "documento": "CCCI_263",
+            "tipoData": "from",
+            "dataDocumento": "1180-01-01"
+        },
+        {
+            "documento": "CCCLIIII_316",
+            "tipoData": "when",
+            "dataDocumento": "1151-12-03"
+        },
+        {
+            "documento": "CCCLIII_315",
+            "tipoData": "when",
+            "dataDocumento": "1271-06-10"
+        },
+        {
+            "documento": "CCCLII_314",
+            "tipoData": "when",
+            "dataDocumento": "1240-08-07"
+        },
+        {
+            "documento": "CCCLI_313",
+            "tipoData": "when",
+            "dataDocumento": "1230-10-13"
+        },
+        {
+            "documento": "CCCLVIIII_321",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-19"
+        },
+        {
+            "documento": "CCCLVIII_320",
+            "tipoData": "when",
+            "dataDocumento": "1232-11-30"
+        },
+        {
+            "documento": "CCCLVII_319",
+            "tipoData": "when",
+            "dataDocumento": "1218-02-11"
+        },
+        {
+            "documento": "CCCLVI_318",
+            "tipoData": "when",
+            "dataDocumento": "1188-04-05"
+        },
+        {
+            "documento": "CCCLV_317",
+            "tipoData": "when",
+            "dataDocumento": "1269-04-23"
+        },
+        {
+            "documento": "CCCLXIIII_326",
+            "tipoData": "when",
+            "dataDocumento": "1204-04-15"
+        },
+        {
+            "documento": "CCCLXIII_325",
+            "tipoData": "when",
+            "dataDocumento": "1197-01-02"
+        },
+        {
+            "documento": "CCCLXII_324",
+            "tipoData": "when",
+            "dataDocumento": "1190-02-11"
+        },
+        {
+            "documento": "CCCLXI_323",
+            "tipoData": "when",
+            "dataDocumento": "1189-03-20"
+        },
+        {
+            "documento": "CCCLXVIIII_331",
+            "tipoData": "when",
+            "dataDocumento": "1183-06-30"
+        },
+        {
+            "documento": "CCCLXVIII_330",
+            "tipoData": "when",
+            "dataDocumento": "1203-11-15"
+        },
+        {
+            "documento": "CCCLXVII_329",
+            "tipoData": "when",
+            "dataDocumento": "1202-06-05"
+        },
+        {
+            "documento": "CCCLXVI_328",
+            "tipoData": "when",
+            "dataDocumento": "1199-11-30"
+        },
+        {
+            "documento": "CCCLXV_327",
+            "tipoData": "when",
+            "dataDocumento": "1209-08-04"
+        },
+        {
+            "documento": "CCCLXXIIII_336",
+            "tipoData": "when",
+            "dataDocumento": "1197-05-13"
+        },
+        {
+            "documento": "CCCLXXIII_335",
+            "tipoData": "when",
+            "dataDocumento": "1198-02-12"
+        },
+        {
+            "documento": "CCCLXXII_334",
+            "tipoData": "when",
+            "dataDocumento": "1279-01-01"
+        },
+        {
+            "documento": "CCCLXXI_333",
+            "tipoData": "when",
+            "dataDocumento": "1277-08-09"
+        },
+        {
+            "documento": "CCCLXXVIIII_341",
+            "tipoData": "when",
+            "dataDocumento": "1237-01-26"
+        },
+        {
+            "documento": "CCCLXXVIII_340",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-18"
+        },
+        {
+            "documento": "CCCLXXVII_339",
+            "tipoData": "when",
+            "dataDocumento": "1232-06-06"
+        },
+        {
+            "documento": "CCCLXXVI_338",
+            "tipoData": "when",
+            "dataDocumento": "1189-11-11"
+        },
+        {
+            "documento": "CCCLXXV_337",
+            "tipoData": "notBefore",
+            "dataDocumento": "1199-01-01"
+        },
+        {
+            "documento": "CCCLXXXIIII_345",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-24"
+        },
+        {
+            "documento": "CCCLXXXIII_344",
+            "tipoData": "when",
+            "dataDocumento": "1255-10-22"
+        },
+        {
+            "documento": "CCCLXXXI_343",
+            "tipoData": "from",
+            "dataDocumento": "1253-12-25"
+        },
+        {
+            "documento": "CCCLXXXVIIII_350",
+            "tipoData": "when",
+            "dataDocumento": "1139-02"
+        },
+        {
+            "documento": "CCCLXXXVIII_349",
+            "tipoData": "when",
+            "dataDocumento": "1233-01-31"
+        },
+        {
+            "documento": "CCCLXXXVII_348",
+            "tipoData": "when",
+            "dataDocumento": "1235-03-25"
+        },
+        {
+            "documento": "CCCLXXXVI_347",
+            "tipoData": "when",
+            "dataDocumento": "1153-06-01"
+        },
+        {
+            "documento": "CCCLXXXV_346",
+            "tipoData": "when",
+            "dataDocumento": "1223-04-15"
+        },
+        {
+            "documento": "CCCLXXXXIIII_355",
+            "tipoData": "when",
+            "dataDocumento": "1219-10-20"
+        },
+        {
+            "documento": "CCCLXXXXIII_354",
+            "tipoData": "when",
+            "dataDocumento": "1226-01-31"
+        },
+        {
+            "documento": "CCCLXXXXII_353",
+            "tipoData": "when",
+            "dataDocumento": "1234-05-22"
+        },
+        {
+            "documento": "CCCLXXXXI_352",
+            "tipoData": "when",
+            "dataDocumento": "1200-06-03"
+        },
+        {
+            "documento": "CCCLXXXXVIIII_360",
+            "tipoData": "when",
+            "dataDocumento": "1235-06-19"
+        },
+        {
+            "documento": "CCCLXXXXVIII_359",
+            "tipoData": "when",
+            "dataDocumento": "1271-08-12"
+        },
+        {
+            "documento": "CCCLXXXXVII_358",
+            "tipoData": "when",
+            "dataDocumento": "1260-11-29"
+        },
+        {
+            "documento": "CCCLXXXXVI_357",
+            "tipoData": "when",
+            "dataDocumento": "1236-02-28"
+        },
+        {
+            "documento": "CCCLXXXXVI_357xml",
+            "tipoData": "when",
+            "dataDocumento": "1236-02-28"
+        },
+        {
+            "documento": "CCCLXXXXV_356",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-02"
+        },
+        {
+            "documento": "CCCLXXXX_351",
+            "tipoData": "when",
+            "dataDocumento": "1195-12-24"
+        },
+        {
+            "documento": "CCCLXXX_342",
+            "tipoData": "when",
+            "dataDocumento": "1233-01-12"
+        },
+        {
+            "documento": "CCCLXX_332",
+            "tipoData": "when",
+            "dataDocumento": "1144-03-23"
+        },
+        {
+            "documento": "CCCLX_322",
+            "tipoData": "when",
+            "dataDocumento": "1261-02-28"
+        },
+        {
+            "documento": "CCCL_312",
+            "tipoData": "when",
+            "dataDocumento": "1140-11"
+        },
+        {
+            "documento": "CCCVIIII_271",
+            "tipoData": "when",
+            "dataDocumento": "1205-03-24"
+        },
+        {
+            "documento": "CCCVIII_270",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-10"
+        },
+        {
+            "documento": "CCCVII_269",
+            "tipoData": "when",
+            "dataDocumento": "1214-03-20"
+        },
+        {
+            "documento": "CCCVI_268",
+            "tipoData": "when",
+            "dataDocumento": "1235-12-21"
+        },
+        {
+            "documento": "CCCV_267",
+            "tipoData": "when",
+            "dataDocumento": "1234-03-26"
+        },
+        {
+            "documento": "CCCXIIII_276",
+            "tipoData": "when",
+            "dataDocumento": "1180-11-12"
+        },
+        {
+            "documento": "CCCXIII_275",
+            "tipoData": "when",
+            "dataDocumento": "1260-05-29"
+        },
+        {
+            "documento": "CCCXII_274",
+            "tipoData": "when",
+            "dataDocumento": "1235-05-22"
+        },
+        {
+            "documento": "CCCXI_273",
+            "tipoData": "when",
+            "dataDocumento": "1235-01-14"
+        },
+        {
+            "documento": "CCCXLIIII_306",
+            "tipoData": "when",
+            "dataDocumento": "1198-06-01"
+        },
+        {
+            "documento": "CCCXLIII_305",
+            "tipoData": "when",
+            "dataDocumento": "1146-03-09"
+        },
+        {
+            "documento": "CCCXLII_304",
+            "tipoData": "when",
+            "dataDocumento": "1232-10-26"
+        },
+        {
+            "documento": "CCCXLI_303",
+            "tipoData": "when",
+            "dataDocumento": "1253-11-07"
+        },
+        {
+            "documento": "CCCXLVIIII_311",
+            "tipoData": "notBefore",
+            "dataDocumento": "1150-01-01"
+        },
+        {
+            "documento": "CCCXLVIII_310",
+            "tipoData": "when",
+            "dataDocumento": "1235-06-09"
+        },
+        {
+            "documento": "CCCXLVII_309",
+            "tipoData": "when",
+            "dataDocumento": "1215-02-24"
+        },
+        {
+            "documento": "CCCXLVI_308",
+            "tipoData": "notBefore",
+            "dataDocumento": "1200-01-01"
+        },
+        {
+            "documento": "CCCXLV_307",
+            "tipoData": "when",
+            "dataDocumento": "1215-07-23"
+        },
+        {
+            "documento": "CCCXL_302",
+            "tipoData": "when",
+            "dataDocumento": "1271-06-10"
+        },
+        {
+            "documento": "CCCXVIIII_281",
+            "tipoData": "when",
+            "dataDocumento": "1231-12-14"
+        },
+        {
+            "documento": "CCCXVIII_280",
+            "tipoData": "when",
+            "dataDocumento": "1271-06-10"
+        },
+        {
+            "documento": "CCCXVII_279",
+            "tipoData": "when",
+            "dataDocumento": "1186-03-29"
+        },
+        {
+            "documento": "CCCXVI_278",
+            "tipoData": "when",
+            "dataDocumento": "1230-06-01"
+        },
+        {
+            "documento": "CCCXV_277",
+            "tipoData": "when",
+            "dataDocumento": "1255-09-09"
+        },
+        {
+            "documento": "CCCXXIIII_286",
+            "tipoData": "when",
+            "dataDocumento": "1070-03-08"
+        },
+        {
+            "documento": "CCCXXIII_285",
+            "tipoData": "when",
+            "dataDocumento": "1270-03-15"
+        },
+        {
+            "documento": "CCCXXIII_285_old",
+            "tipoData": "when",
+            "dataDocumento": "1270-03-15"
+        },
+        {
+            "documento": "CCCXXII_284",
+            "tipoData": "when",
+            "dataDocumento": "1268-12-18"
+        },
+        {
+            "documento": "CCCXXI_283",
+            "tipoData": "when",
+            "dataDocumento": "1252-02-11"
+        },
+        {
+            "documento": "CCCXXVIIII_291",
+            "tipoData": "when",
+            "dataDocumento": "1260-03-13"
+        },
+        {
+            "documento": "CCCXXVIII_290",
+            "tipoData": "when",
+            "dataDocumento": "1217-10-27"
+        },
+        {
+            "documento": "CCCXXVII_289",
+            "tipoData": "when",
+            "dataDocumento": "1217-10-27"
+        },
+        {
+            "documento": "CCCXXVI_288",
+            "tipoData": "when",
+            "dataDocumento": "1151-12-03"
+        },
+        {
+            "documento": "CCCXXV_287",
+            "tipoData": "when",
+            "dataDocumento": "1178-10"
+        },
+        {
+            "documento": "CCCXXXIIII_296",
+            "tipoData": "when",
+            "dataDocumento": "1234-01-22"
+        },
+        {
+            "documento": "CCCXXXIII_295",
+            "tipoData": "when",
+            "dataDocumento": "1233-04-06"
+        },
+        {
+            "documento": "CCCXXXII_294",
+            "tipoData": "when",
+            "dataDocumento": "1233-04-06"
+        },
+        {
+            "documento": "CCCXXXI_293",
+            "tipoData": "when",
+            "dataDocumento": "1233-04-06"
+        },
+        {
+            "documento": "CCCXXXVIIII_301",
+            "tipoData": "when",
+            "dataDocumento": "1235-02-19"
+        },
+        {
+            "documento": "CCCXXXVIII_300",
+            "tipoData": "when",
+            "dataDocumento": "1253-12-23"
+        },
+        {
+            "documento": "CCCXXXVII_299",
+            "tipoData": "when",
+            "dataDocumento": "1234-01-22"
+        },
+        {
+            "documento": "CCCXXXVI_298",
+            "tipoData": "when",
+            "dataDocumento": "1234-01-22"
+        },
+        {
+            "documento": "CCCXXXV_297",
+            "tipoData": "when",
+            "dataDocumento": "1234-01-22"
+        },
+        {
+            "documento": "CCCXXX_292",
+            "tipoData": "when",
+            "dataDocumento": "1233-04-06"
+        },
+        {
+            "documento": "CCCXX_282",
+            "tipoData": "when",
+            "dataDocumento": "1273-05-08"
+        },
+        {
+            "documento": "CCCX_272",
+            "tipoData": "when",
+            "dataDocumento": "1217-10-24"
+        },
+        {
+            "documento": "CCC_262",
+            "tipoData": "when",
+            "dataDocumento": "1226-12-13"
+        },
+        {
+            "documento": "CCLIIII_215",
+            "tipoData": "when",
+            "dataDocumento": "1232-09-10"
+        },
+        {
+            "documento": "CCLIII_214",
+            "tipoData": "when",
+            "dataDocumento": "1232-09-10"
+        },
+        {
+            "documento": "CCLII_213",
+            "tipoData": "when",
+            "dataDocumento": "1231-05-11"
+        },
+        {
+            "documento": "CCLI_212",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-12"
+        },
+        {
+            "documento": "CCLVIIII_220",
+            "tipoData": "when",
+            "dataDocumento": "1231-09-05"
+        },
+        {
+            "documento": "CCLVIII_219",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-11"
+        },
+        {
+            "documento": "CCLVII_218",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-12"
+        },
+        {
+            "documento": "CCLVI_217",
+            "tipoData": "when",
+            "dataDocumento": "1197-11-06"
+        },
+        {
+            "documento": "CCLV_216",
+            "tipoData": "from",
+            "dataDocumento": "1180-01-01"
+        },
+        {
+            "documento": "CCLXIIIIbis_226",
+            "tipoData": "when",
+            "dataDocumento": "1200-01-20"
+        },
+        {
+            "documento": "CCLXIIII_225",
+            "tipoData": "when",
+            "dataDocumento": "1202-12-03"
+        },
+        {
+            "documento": "CCLXIII_224",
+            "tipoData": "when",
+            "dataDocumento": "1202-04-27"
+        },
+        {
+            "documento": "CCLXII_223",
+            "tipoData": "when",
+            "dataDocumento": "1180-12-06"
+        },
+        {
+            "documento": "CCLXI_222",
+            "tipoData": "when",
+            "dataDocumento": "1187-11-13"
+        },
+        {
+            "documento": "CCLXVIIII_231",
+            "tipoData": "when",
+            "dataDocumento": "1184-04-03"
+        },
+        {
+            "documento": "CCLXVIII_230",
+            "tipoData": "when",
+            "dataDocumento": "1203-03-28"
+        },
+        {
+            "documento": "CCLXVII_229",
+            "tipoData": "when",
+            "dataDocumento": "1096-03"
+        },
+        {
+            "documento": "CCLXVI_228",
+            "tipoData": "when",
+            "dataDocumento": "1241-03-03"
+        },
+        {
+            "documento": "CCLXV_227",
+            "tipoData": "when",
+            "dataDocumento": "1265-09-08"
+        },
+        {
+            "documento": "CCLXXIIII_236",
+            "tipoData": "when",
+            "dataDocumento": "1244-12-21"
+        },
+        {
+            "documento": "CCLXXIII_235",
+            "tipoData": "when",
+            "dataDocumento": "1244-12-21"
+        },
+        {
+            "documento": "CCLXXII_234",
+            "tipoData": "when",
+            "dataDocumento": "1244-11-19"
+        },
+        {
+            "documento": "CCLXXI_233",
+            "tipoData": "when",
+            "dataDocumento": "1243-03-15"
+        },
+        {
+            "documento": "CCLXXVIIII_241",
+            "tipoData": "when",
+            "dataDocumento": "1200-03-20"
+        },
+        {
+            "documento": "CCLXXVIII_240",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-31"
+        },
+        {
+            "documento": "CCLXXVII_239",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-31"
+        },
+        {
+            "documento": "CCLXXVI_238",
+            "tipoData": "when",
+            "dataDocumento": "1209-03-05"
+        },
+        {
+            "documento": "CCLXXV_237",
+            "tipoData": "when",
+            "dataDocumento": "1209-03-05"
+        },
+        {
+            "documento": "CCLXXXIIII_246",
+            "tipoData": "when",
+            "dataDocumento": "1212-02-18"
+        },
+        {
+            "documento": "CCLXXXIII_245",
+            "tipoData": "when",
+            "dataDocumento": "1205-03-03"
+        },
+        {
+            "documento": "CCLXXXII_244",
+            "tipoData": "when",
+            "dataDocumento": "1265-05-31"
+        },
+        {
+            "documento": "CCLXXXI_243",
+            "tipoData": "when",
+            "dataDocumento": "1265-05-31"
+        },
+        {
+            "documento": "CCLXXXVIIII_251",
+            "tipoData": "when",
+            "dataDocumento": "1255-05-05"
+        },
+        {
+            "documento": "CCLXXXVIII_250",
+            "tipoData": "when",
+            "dataDocumento": "1236-01-19"
+        },
+        {
+            "documento": "CCLXXXVII_249",
+            "tipoData": "when",
+            "dataDocumento": "1237-01-26"
+        },
+        {
+            "documento": "CCLXXXVI_248",
+            "tipoData": "when",
+            "dataDocumento": "1236-08-18"
+        },
+        {
+            "documento": "CCLXXXV_247",
+            "tipoData": "when",
+            "dataDocumento": "1235-04-27"
+        },
+        {
+            "documento": "CCLXXXXIIII_256",
+            "tipoData": "when",
+            "dataDocumento": "1235-12-05"
+        },
+        {
+            "documento": "CCLXXXXIII_255",
+            "tipoData": "when",
+            "dataDocumento": "1235-04-09"
+        },
+        {
+            "documento": "CCLXXXXII_254",
+            "tipoData": "when",
+            "dataDocumento": "1258-05-05"
+        },
+        {
+            "documento": "CCLXXXXI_253",
+            "tipoData": "from",
+            "dataDocumento": "1180-01-01"
+        },
+        {
+            "documento": "CCLXXXXVIIII_261",
+            "tipoData": "when",
+            "dataDocumento": "1259-02-11"
+        },
+        {
+            "documento": "CCLXXXXVIII_260",
+            "tipoData": "when",
+            "dataDocumento": "1237-03"
+        },
+        {
+            "documento": "CCLXXXXVII_259",
+            "tipoData": "when",
+            "dataDocumento": "0998-03-30"
+        },
+        {
+            "documento": "CCLXXXXVI_258",
+            "tipoData": "when",
+            "dataDocumento": "1055-05-05"
+        },
+        {
+            "documento": "CCLXXXXV_257",
+            "tipoData": "when",
+            "dataDocumento": "1235-12-07"
+        },
+        {
+            "documento": "CCLXXXX_252",
+            "tipoData": "when",
+            "dataDocumento": "1255-06-05"
+        },
+        {
+            "documento": "CCLXXX_242",
+            "tipoData": "when",
+            "dataDocumento": "1253-12-02"
+        },
+        {
+            "documento": "CCLXX_232",
+            "tipoData": "when",
+            "dataDocumento": "1164-04-03"
+        },
+        {
+            "documento": "CCLX_221",
+            "tipoData": "when",
+            "dataDocumento": "1268-12-15"
+        },
+        {
+            "documento": "CCL_211",
+            "tipoData": "when",
+            "dataDocumento": "1231-09-05"
+        },
+        {
+            "documento": "CCXLIIII_205",
+            "tipoData": "when",
+            "dataDocumento": "1259-07-22"
+        },
+        {
+            "documento": "CCXLIII_204",
+            "tipoData": "when",
+            "dataDocumento": "1231-04-19"
+        },
+        {
+            "documento": "CCXLII_203",
+            "tipoData": "when",
+            "dataDocumento": "1219-01-16"
+        },
+        {
+            "documento": "CCXLI_202",
+            "tipoData": "when",
+            "dataDocumento": "1188-03-28"
+        },
+        {
+            "documento": "CCXLVIIII_210",
+            "tipoData": "when",
+            "dataDocumento": "1210-06-13"
+        },
+        {
+            "documento": "CCXLVIII_209",
+            "tipoData": "when",
+            "dataDocumento": "1225-03-06"
+        },
+        {
+            "documento": "CCXLVII_208",
+            "tipoData": "when",
+            "dataDocumento": "1280-03-15"
+        },
+        {
+            "documento": "CCXLVI_207",
+            "tipoData": "when",
+            "dataDocumento": "1278-03-16"
+        },
+        {
+            "documento": "CCXLV_206",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-12"
+        },
+        {
+            "documento": "CCXL_201",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-12"
+        },
+        {
+            "documento": "CCXVIIII_180",
+            "tipoData": "when",
+            "dataDocumento": "0998-10-14"
+        },
+        {
+            "documento": "CCXVIII_179",
+            "tipoData": "when",
+            "dataDocumento": "1236-05-25"
+        },
+        {
+            "documento": "CCXVII_178",
+            "tipoData": "when",
+            "dataDocumento": "1236-08-19"
+        },
+        {
+            "documento": "CCXVI_177",
+            "tipoData": "when",
+            "dataDocumento": "1277-02-12"
+        },
+        {
+            "documento": "CCXXIIII_185",
+            "tipoData": "when",
+            "dataDocumento": "0998-07-26"
+        },
+        {
+            "documento": "CCXXIII_184",
+            "tipoData": "when",
+            "dataDocumento": "1084-06"
+        },
+        {
+            "documento": "CCXXII_183",
+            "tipoData": "when",
+            "dataDocumento": "1255-04-15"
+        },
+        {
+            "documento": "CCXXI_182",
+            "tipoData": "when",
+            "dataDocumento": "1021-01"
+        },
+        {
+            "documento": "CCXXVIIII_190",
+            "tipoData": "when",
+            "dataDocumento": "1182-03-04"
+        },
+        {
+            "documento": "CCXXVIII_189",
+            "tipoData": "when",
+            "dataDocumento": "1188-02-27"
+        },
+        {
+            "documento": "CCXXVII_188",
+            "tipoData": "when",
+            "dataDocumento": "1189-05-01"
+        },
+        {
+            "documento": "CCXXVI_187",
+            "tipoData": "when",
+            "dataDocumento": "1078-06-14"
+        },
+        {
+            "documento": "CCXXV_186",
+            "tipoData": "when",
+            "dataDocumento": "1078-06-14"
+        },
+        {
+            "documento": "CCXXXIIII_195",
+            "tipoData": "when",
+            "dataDocumento": "1229-05-21"
+        },
+        {
+            "documento": "CCXXXIII_194",
+            "tipoData": "from",
+            "dataDocumento": "1214-02-26"
+        },
+        {
+            "documento": "CCXXXII_193",
+            "tipoData": "when",
+            "dataDocumento": "1269-02-13"
+        },
+        {
+            "documento": "CCXXXI_192",
+            "tipoData": "when",
+            "dataDocumento": "1269-02-13"
+        },
+        {
+            "documento": "CCXXXVIIII_200",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-11"
+        },
+        {
+            "documento": "CCXXXVIIII_200",
+            "tipoData": "when",
+            "dataDocumento": "1197-12-11"
+        },
+        {
+            "documento": "CCXXXVII_198",
+            "tipoData": "when",
+            "dataDocumento": "1229-06-13"
+        },
+        {
+            "documento": "CCXXXVI_197",
+            "tipoData": "when",
+            "dataDocumento": "1161-08-06"
+        },
+        {
+            "documento": "CCXXXV_196",
+            "tipoData": "when",
+            "dataDocumento": "1270-05-24"
+        },
+        {
+            "documento": "CCXXX_191",
+            "tipoData": "when",
+            "dataDocumento": "1269-02-12"
+        },
+        {
+            "documento": "CCXX_181",
+            "tipoData": "when",
+            "dataDocumento": "1021-01"
+        },
+        {
+            "documento": "CIII_120",
+            "tipoData": "when",
+            "dataDocumento": "1188-08-17"
+        },
+        {
+            "documento": "CII_119",
+            "tipoData": "when",
+            "dataDocumento": "1235-03-23"
+        },
+        {
+            "documento": "CIV_121",
+            "tipoData": "when",
+            "dataDocumento": "1222-05-15"
+        },
+        {
+            "documento": "CI_118",
+            "tipoData": "when",
+            "dataDocumento": "1212-04-03"
+        },
+        {
+            "documento": "CLIIII_172",
+            "tipoData": "when",
+            "dataDocumento": "1255-10-28"
+        },
+        {
+            "documento": "CLIII_171",
+            "tipoData": "when",
+            "dataDocumento": "1255-10-26"
+        },
+        {
+            "documento": "CLII_170",
+            "tipoData": "when",
+            "dataDocumento": "1255-10-25"
+        },
+        {
+            "documento": "CLI_169",
+            "tipoData": "when",
+            "dataDocumento": "1236-04-12"
+        },
+        {
+            "documento": "CLVIII_176",
+            "tipoData": "when",
+            "dataDocumento": "1253-08-22"
+        },
+        {
+            "documento": "CLVII_175",
+            "tipoData": "when",
+            "dataDocumento": "1275-08-26"
+        },
+        {
+            "documento": "CLVI_174",
+            "tipoData": "when",
+            "dataDocumento": "1262-06-04"
+        },
+        {
+            "documento": "CLV_173",
+            "tipoData": "when",
+            "dataDocumento": "1255-09-19"
+        },
+        {
+            "documento": "CLXIIII_522",
+            "tipoData": "when",
+            "dataDocumento": "1271-04-30"
+        },
+        {
+            "documento": "CLXIII_521",
+            "tipoData": "when",
+            "dataDocumento": "1271-02-22"
+        },
+        {
+            "documento": "CLXVIIII_527",
+            "tipoData": "when",
+            "dataDocumento": "1254-05-06"
+        },
+        {
+            "documento": "CLXVIII_526",
+            "tipoData": "when",
+            "dataDocumento": "1247-04-07"
+        },
+        {
+            "documento": "CLXVII_525",
+            "tipoData": "when",
+            "dataDocumento": "1255-03-04"
+        },
+        {
+            "documento": "CLXVI_524",
+            "tipoData": "when",
+            "dataDocumento": "1271-05-05"
+        },
+        {
+            "documento": "CLXV_523",
+            "tipoData": "when",
+            "dataDocumento": "1271-02-06"
+        },
+        {
+            "documento": "CL_168",
+            "tipoData": "when",
+            "dataDocumento": "1255-05-30"
+        },
+        {
+            "documento": "CVIIII_126",
+            "tipoData": "when",
+            "dataDocumento": "1232-10-24"
+        },
+        {
+            "documento": "CVIII_125",
+            "tipoData": "when",
+            "dataDocumento": "1235-07-01"
+        },
+        {
+            "documento": "CVII_124",
+            "tipoData": "when",
+            "dataDocumento": "1235-05-29"
+        },
+        {
+            "documento": "CVI_123",
+            "tipoData": "when",
+            "dataDocumento": "1269-08-30"
+        },
+        {
+            "documento": "CV_122",
+            "tipoData": "when",
+            "dataDocumento": "1232-09-13"
+        },
+        {
+            "documento": "CXIIII_131",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-14"
+        },
+        {
+            "documento": "CXIII_130",
+            "tipoData": "when",
+            "dataDocumento": "1237-03-22"
+        },
+        {
+            "documento": "CXII_129",
+            "tipoData": "when",
+            "dataDocumento": "1236-08-26"
+        },
+        {
+            "documento": "CXI_128",
+            "tipoData": "when",
+            "dataDocumento": "1233-07-18"
+        },
+        {
+            "documento": "CXLIbis_159",
+            "tipoData": "when",
+            "dataDocumento": "1267-11-30"
+        },
+        {
+            "documento": "CXLIIII_162",
+            "tipoData": "when",
+            "dataDocumento": "1255-12-04"
+        },
+        {
+            "documento": "CXLIII_161",
+            "tipoData": "when",
+            "dataDocumento": "1201-06-08"
+        },
+        {
+            "documento": "CXLII_160",
+            "tipoData": "when",
+            "dataDocumento": "1259-08-17"
+        },
+        {
+            "documento": "CXLI_158",
+            "tipoData": "when",
+            "dataDocumento": "1233-06-26"
+        },
+        {
+            "documento": "CXLVIIII_167",
+            "tipoData": "when",
+            "dataDocumento": "1224-07-14"
+        },
+        {
+            "documento": "CXLVIII_166",
+            "tipoData": "when",
+            "dataDocumento": "1234-08-24"
+        },
+        {
+            "documento": "CXLVII_165",
+            "tipoData": "when",
+            "dataDocumento": "1237-01-18"
+        },
+        {
+            "documento": "CXLVI_164",
+            "tipoData": "when",
+            "dataDocumento": "1198-02-11"
+        },
+        {
+            "documento": "CXLV_163",
+            "tipoData": "when",
+            "dataDocumento": "1232-09-29"
+        },
+        {
+            "documento": "CXL_157",
+            "tipoData": "from",
+            "dataDocumento": "1178-01-01"
+        },
+        {
+            "documento": "CXVIIII_136",
+            "tipoData": "when",
+            "dataDocumento": "1233-02-12"
+        },
+        {
+            "documento": "CXVIII_135",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-25"
+        },
+        {
+            "documento": "CXVII_134",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-22"
+        },
+        {
+            "documento": "CXVI_133",
+            "tipoData": "when",
+            "dataDocumento": "1235-04-02"
+        },
+        {
+            "documento": "CXV_132",
+            "tipoData": "when",
+            "dataDocumento": "1269-08-21"
+        },
+        {
+            "documento": "CXXIIII_141",
+            "tipoData": "when",
+            "dataDocumento": "1269-12-09"
+        },
+        {
+            "documento": "CXXIII_140",
+            "tipoData": "when",
+            "dataDocumento": "1269-05-30"
+        },
+        {
+            "documento": "CXXII_139",
+            "tipoData": "when",
+            "dataDocumento": "1269-08-21"
+        },
+        {
+            "documento": "CXXI_138",
+            "tipoData": "when",
+            "dataDocumento": "1232-11-15"
+        },
+        {
+            "documento": "CXXVIIII_146",
+            "tipoData": "when",
+            "dataDocumento": "1269-08-13"
+        },
+        {
+            "documento": "CXXVIII_145",
+            "tipoData": "when",
+            "dataDocumento": "1235-08-17"
+        },
+        {
+            "documento": "CXXVII_144",
+            "tipoData": "when",
+            "dataDocumento": "1235-08-18"
+        },
+        {
+            "documento": "CXXVI_143",
+            "tipoData": "when",
+            "dataDocumento": "1281-02-02"
+        },
+        {
+            "documento": "CXXV_142",
+            "tipoData": "when",
+            "dataDocumento": "1234-11-26"
+        },
+        {
+            "documento": "CXXXIIII_151",
+            "tipoData": "when",
+            "dataDocumento": "1230-11-02"
+        },
+        {
+            "documento": "CXXXIII_150",
+            "tipoData": "none",
+            "dataDocumento": "none"
+        },
+        {
+            "documento": "CXXXII_149",
+            "tipoData": "none",
+            "dataDocumento": "none"
+        },
+        {
+            "documento": "CXXXI_148",
+            "tipoData": "when",
+            "dataDocumento": "1140-02"
+        },
+        {
+            "documento": "CXXXVIIII_156",
+            "tipoData": "when",
+            "dataDocumento": "1260-04-21"
+        },
+        {
+            "documento": "CXXXVIII_155",
+            "tipoData": "when",
+            "dataDocumento": "1260-04-21"
+        },
+        {
+            "documento": "CXXXVII_154",
+            "tipoData": "when",
+            "dataDocumento": "1233-02-08"
+        },
+        {
+            "documento": "CXXXVI_153",
+            "tipoData": "when",
+            "dataDocumento": "1231-10-31"
+        },
+        {
+            "documento": "CXXXV_152",
+            "tipoData": "when",
+            "dataDocumento": "1238-05-04"
+        },
+        {
+            "documento": "CXXX_147",
+            "tipoData": "when",
+            "dataDocumento": "1233-02-08"
+        },
+        {
+            "documento": "CXX_137",
+            "tipoData": "when",
+            "dataDocumento": "1235-08-18"
+        },
+        {
+            "documento": "CX_127",
+            "tipoData": "when",
+            "dataDocumento": "1235-05-29"
+        },
+        {
+            "documento": "C_117",
+            "tipoData": "when",
+            "dataDocumento": "1285-02-12"
+        },
+        {
+            "documento": "D27",
+            "tipoData": "when",
+            "dataDocumento": "1297-11-10"
+        },
+        {
+            "documento": "DIIII_465",
+            "tipoData": "when",
+            "dataDocumento": "1211-08-08"
+        },
+        {
+            "documento": "DIII_464",
+            "tipoData": "when",
+            "dataDocumento": "1134-03-19"
+        },
+        {
+            "documento": "DII_463",
+            "tipoData": "when",
+            "dataDocumento": "1228-05-17"
+        },
+        {
+            "documento": "DI_462",
+            "tipoData": "when",
+            "dataDocumento": "1268-10-11"
+        },
+        {
+            "documento": "DLIIII_516",
+            "tipoData": "when",
+            "dataDocumento": "1257-12-29"
+        },
+        {
+            "documento": "DLIII_515",
+            "tipoData": "when",
+            "dataDocumento": "1241-10-21"
+        },
+        {
+            "documento": "DLII_514",
+            "tipoData": "when",
+            "dataDocumento": "1238-02-06"
+        },
+        {
+            "documento": "DLI_513",
+            "tipoData": "when",
+            "dataDocumento": "1240-05-04"
+        },
+        {
+            "documento": "DLVbis_518",
+            "tipoData": "when",
+            "dataDocumento": "1237-03-05"
+        },
+        {
+            "documento": "DLVIbis_520",
+            "tipoData": "from",
+            "dataDocumento": "1289-09-24"
+        },
+        {
+            "documento": "DLVI_519",
+            "tipoData": "when",
+            "dataDocumento": "1289-02-14"
+        },
+        {
+            "documento": "DLV_517",
+            "tipoData": "from",
+            "dataDocumento": "1238-12-18"
+        },
+        {
+            "documento": "DL_512",
+            "tipoData": "when",
+            "dataDocumento": "1240-05-04"
+        },
+        {
+            "documento": "DVIIII_470",
+            "tipoData": "when",
+            "dataDocumento": "1184-04-03"
+        },
+        {
+            "documento": "DVIII_469",
+            "tipoData": "when",
+            "dataDocumento": "1181-02-07"
+        },
+        {
+            "documento": "DVII_468",
+            "tipoData": "when",
+            "dataDocumento": "1181-03-07"
+        },
+        {
+            "documento": "DVI_467",
+            "tipoData": "when",
+            "dataDocumento": "1255-03-16"
+        },
+        {
+            "documento": "DV_466",
+            "tipoData": "when",
+            "dataDocumento": "1255-03-31"
+        },
+        {
+            "documento": "DXIIII_475",
+            "tipoData": "when",
+            "dataDocumento": "1262-10-02"
+        },
+        {
+            "documento": "DXIII_474",
+            "tipoData": "when",
+            "dataDocumento": "1233-07-31"
+        },
+        {
+            "documento": "DXII_473",
+            "tipoData": "when",
+            "dataDocumento": "1231-03-15"
+        },
+        {
+            "documento": "DXI_472",
+            "tipoData": "when",
+            "dataDocumento": "1197-07-15"
+        },
+        {
+            "documento": "DXLIIIIbis_506",
+            "tipoData": "when",
+            "dataDocumento": "1237-06-12"
+        },
+        {
+            "documento": "DXLIIII_505",
+            "tipoData": "when",
+            "dataDocumento": "1237-06-12"
+        },
+        {
+            "documento": "DXLIII_504",
+            "tipoData": "when",
+            "dataDocumento": "1237-06-12"
+        },
+        {
+            "documento": "DXLII_503",
+            "tipoData": "when",
+            "dataDocumento": "1176-02-02"
+        },
+        {
+            "documento": "DXLVIIII_511",
+            "tipoData": "when",
+            "dataDocumento": "1240-05-05"
+        },
+        {
+            "documento": "DXLVIII_510",
+            "tipoData": "when",
+            "dataDocumento": "1239-05-04"
+        },
+        {
+            "documento": "DXLVII_509",
+            "tipoData": "when",
+            "dataDocumento": "1239-06-29"
+        },
+        {
+            "documento": "DXLVI_508",
+            "tipoData": "when",
+            "dataDocumento": "1239-05-24"
+        },
+        {
+            "documento": "DXLV_507",
+            "tipoData": "when",
+            "dataDocumento": "1239-04-05"
+        },
+        {
+            "documento": "DXVIIII_480",
+            "tipoData": "when",
+            "dataDocumento": "1279-02-18"
+        },
+        {
+            "documento": "DXVIII_479",
+            "tipoData": "when",
+            "dataDocumento": "1279-02-17"
+        },
+        {
+            "documento": "DXVII_478",
+            "tipoData": "from",
+            "dataDocumento": "1181-10-17"
+        },
+        {
+            "documento": "DXVI_477",
+            "tipoData": "when",
+            "dataDocumento": "1160-01-26"
+        },
+        {
+            "documento": "DXV_476",
+            "tipoData": "from",
+            "dataDocumento": "1269-09-18"
+        },
+        {
+            "documento": "DXXIIII_485",
+            "tipoData": "when",
+            "dataDocumento": "1281-05-08"
+        },
+        {
+            "documento": "DXXIII_484",
+            "tipoData": "when",
+            "dataDocumento": "1281-05-06"
+        },
+        {
+            "documento": "DXXII_483",
+            "tipoData": "when",
+            "dataDocumento": "1279-02-21"
+        },
+        {
+            "documento": "DXXI_482",
+            "tipoData": "when",
+            "dataDocumento": "1279-02-21"
+        },
+        {
+            "documento": "DXXVIIII_490",
+            "tipoData": "when",
+            "dataDocumento": "1206-07-22"
+        },
+        {
+            "documento": "DXXVIII_489",
+            "tipoData": "when",
+            "dataDocumento": "1198-03-16"
+        },
+        {
+            "documento": "DXXVII_488",
+            "tipoData": "when",
+            "dataDocumento": "1181-04-16"
+        },
+        {
+            "documento": "DXXVI_487",
+            "tipoData": "from",
+            "dataDocumento": "1281-05-09"
+        },
+        {
+            "documento": "DXXV_486",
+            "tipoData": "from",
+            "dataDocumento": "1279-02-21"
+        },
+        {
+            "documento": "DXXXIIII_495",
+            "tipoData": "when",
+            "dataDocumento": "1184-12-22"
+        },
+        {
+            "documento": "DXXXIII_494",
+            "tipoData": "when",
+            "dataDocumento": "1174-02-11"
+        },
+        {
+            "documento": "DXXXII_493",
+            "tipoData": "when",
+            "dataDocumento": "1181-08-28"
+        },
+        {
+            "documento": "DXXXI_492",
+            "tipoData": "when",
+            "dataDocumento": "1181-04-17"
+        },
+        {
+            "documento": "DXXXVIIII_500",
+            "tipoData": "when",
+            "dataDocumento": "1201-02-23"
+        },
+        {
+            "documento": "DXXXVIII_499",
+            "tipoData": "when",
+            "dataDocumento": "1202-04-30"
+        },
+        {
+            "documento": "DXXXVII_498",
+            "tipoData": "when",
+            "dataDocumento": "1204-03-26"
+        },
+        {
+            "documento": "DXXXVI_497",
+            "tipoData": "when",
+            "dataDocumento": "1211-12-19"
+        },
+        {
+            "documento": "DXXXV_496",
+            "tipoData": "when",
+            "dataDocumento": "1187-02-26"
+        },
+        {
+            "documento": "DXXXV_496xml",
+            "tipoData": "when",
+            "dataDocumento": "1187-02-26"
+        },
+        {
+            "documento": "DXXXXI_502",
+            "tipoData": "when",
+            "dataDocumento": "1186-11-12"
+        },
+        {
+            "documento": "DXXXX_501",
+            "tipoData": "when",
+            "dataDocumento": "1202-05-31"
+        },
+        {
+            "documento": "DXXX_491",
+            "tipoData": "when",
+            "dataDocumento": "1185-07-29"
+        },
+        {
+            "documento": "DXX_481",
+            "tipoData": "when",
+            "dataDocumento": "1279-02-19"
+        },
+        {
+            "documento": "DX_471",
+            "tipoData": "when",
+            "dataDocumento": "1231-04-01"
+        },
+        {
+            "documento": "D_461",
+            "tipoData": "when",
+            "dataDocumento": "1184-04-04"
+        },
+        {
+            "documento": "E28",
+            "tipoData": "when",
+            "dataDocumento": "1487-08-09"
+        },
+        {
+            "documento": "F29",
+            "tipoData": "when",
+            "dataDocumento": "1287-12-12"
+        },
+        {
+            "documento": "G528",
+            "tipoData": "from",
+            "dataDocumento": "1275-05-01"
+        },
+        {
+            "documento": "H529",
+            "tipoData": "from",
+            "dataDocumento": "1275-05-01"
+        },
+        {
+            "documento": "III_32",
+            "tipoData": "when",
+            "dataDocumento": "1203-03-07"
+        },
+        {
+            "documento": "II_31",
+            "tipoData": "when",
+            "dataDocumento": "1154-03-18"
+        },
+        {
+            "documento": "IV_33",
+            "tipoData": "when",
+            "dataDocumento": "1217-03-04"
+        },
+        {
+            "documento": "IX_38",
+            "tipoData": "when",
+            "dataDocumento": "1228-12-11"
+        },
+        {
+            "documento": "I_30",
+            "tipoData": "when",
+            "dataDocumento": "1148-11-11"
+        },
+        {
+            "documento": "LIIII_81",
+            "tipoData": "when",
+            "dataDocumento": "1219-05-01"
+        },
+        {
+            "documento": "LIII_80",
+            "tipoData": "when",
+            "dataDocumento": "1219-03-08"
+        },
+        {
+            "documento": "LI_LII_79",
+            "tipoData": "when",
+            "dataDocumento": "1278-09-03"
+        },
+        {
+            "documento": "LVIIII_86",
+            "tipoData": "when",
+            "dataDocumento": "1141-01-13"
+        },
+        {
+            "documento": "LVIII_85",
+            "tipoData": "when",
+            "dataDocumento": "1254-07-29"
+        },
+        {
+            "documento": "LVII_84",
+            "tipoData": "when",
+            "dataDocumento": "1198-03-16"
+        },
+        {
+            "documento": "LVI_83",
+            "tipoData": "when",
+            "dataDocumento": "1201-06-04"
+        },
+        {
+            "documento": "LV_82",
+            "tipoData": "when",
+            "dataDocumento": "1219-04-26"
+        },
+        {
+            "documento": "LXIIII_91",
+            "tipoData": "when",
+            "dataDocumento": "1201-06-24"
+        },
+        {
+            "documento": "LXIII_90",
+            "tipoData": "notBefore",
+            "dataDocumento": "1140-07"
+        },
+        {
+            "documento": "LXII_89",
+            "tipoData": "when",
+            "dataDocumento": "1199-11-30"
+        },
+        {
+            "documento": "LXI_88",
+            "tipoData": "when",
+            "dataDocumento": "1170-08"
+        },
+        {
+            "documento": "LXVII_94",
+            "tipoData": "when",
+            "dataDocumento": "1229-06-24"
+        },
+        {
+            "documento": "LXVI_93",
+            "tipoData": "when",
+            "dataDocumento": "1255-05-16"
+        },
+        {
+            "documento": "LXV_92",
+            "tipoData": "when",
+            "dataDocumento": "1198-08-16"
+        },
+        {
+            "documento": "LXXVIIII_96",
+            "tipoData": "when",
+            "dataDocumento": "1250-01-25"
+        },
+        {
+            "documento": "LXXVIII_95",
+            "tipoData": "when",
+            "dataDocumento": "1231-08-19"
+        },
+        {
+            "documento": "LXXXIIII_101",
+            "tipoData": "when",
+            "dataDocumento": "1236-10-25"
+        },
+        {
+            "documento": "LXXXIII_100",
+            "tipoData": "when",
+            "dataDocumento": "1238-06-30"
+        },
+        {
+            "documento": "LXXXII_99",
+            "tipoData": "when",
+            "dataDocumento": "1277-04-12"
+        },
+        {
+            "documento": "LXXXI_98",
+            "tipoData": "when",
+            "dataDocumento": "1277-05-13"
+        },
+        {
+            "documento": "LXXXVIIII_106",
+            "tipoData": "when",
+            "dataDocumento": "1257-03-06"
+        },
+        {
+            "documento": "LXXXVIII_105",
+            "tipoData": "when",
+            "dataDocumento": "1206-03-31"
+        },
+        {
+            "documento": "LXXXVII_104",
+            "tipoData": "when",
+            "dataDocumento": "1193-11-05"
+        },
+        {
+            "documento": "LXXXVI_103",
+            "tipoData": "when",
+            "dataDocumento": "1237-08-22"
+        },
+        {
+            "documento": "LXXXV_102",
+            "tipoData": "when",
+            "dataDocumento": "1260-02-09"
+        },
+        {
+            "documento": "LXXXXIIII_111",
+            "tipoData": "when",
+            "dataDocumento": "1202-07-05"
+        },
+        {
+            "documento": "LXXXXIII_110",
+            "tipoData": "when",
+            "dataDocumento": "1270-11-21"
+        },
+        {
+            "documento": "LXXXXII_109",
+            "tipoData": "when",
+            "dataDocumento": "1270-11-21"
+        },
+        {
+            "documento": "LXXXXI_108",
+            "tipoData": "when",
+            "dataDocumento": "1181-03-08"
+        },
+        {
+            "documento": "LXXXXVIIII_116",
+            "tipoData": "when",
+            "dataDocumento": "1283-11-25"
+        },
+        {
+            "documento": "LXXXXVIII_115",
+            "tipoData": "when",
+            "dataDocumento": "1279-04-19"
+        },
+        {
+            "documento": "LXXXXVII_114",
+            "tipoData": "when",
+            "dataDocumento": "1228-09-24"
+        },
+        {
+            "documento": "LXXXXVI_113",
+            "tipoData": "when",
+            "dataDocumento": "1282-12-27"
+        },
+        {
+            "documento": "LXXXXV_112",
+            "tipoData": "when",
+            "dataDocumento": "1282-12-27"
+        },
+        {
+            "documento": "LXXXX_107",
+            "tipoData": "when",
+            "dataDocumento": "1200-03-15"
+        },
+        {
+            "documento": "LXXX_97",
+            "tipoData": "when",
+            "dataDocumento": "1218-05-29"
+        },
+        {
+            "documento": "LX_87",
+            "tipoData": "when",
+            "dataDocumento": "1269-11-05"
+        },
+        {
+            "documento": "L_78",
+            "tipoData": "when",
+            "dataDocumento": "1124-10-18"
+        },
+        {
+            "documento": "VIII_37",
+            "tipoData": "when",
+            "dataDocumento": "1255-04-20"
+        },
+        {
+            "documento": "VII_36",
+            "tipoData": "when",
+            "dataDocumento": "1203-10-16"
+        },
+        {
+            "documento": "VI_35",
+            "tipoData": "when",
+            "dataDocumento": "1185-06-13"
+        },
+        {
+            "documento": "V_34",
+            "tipoData": "from",
+            "dataDocumento": "1182-05-26"
+        },
+        {
+            "documento": "XIIII_43",
+            "tipoData": "when",
+            "dataDocumento": "1273-04-04"
+        },
+        {
+            "documento": "XIII_42",
+            "tipoData": "when",
+            "dataDocumento": "1253-01-25"
+        },
+        {
+            "documento": "XII_41",
+            "tipoData": "from",
+            "dataDocumento": "1186-09-10"
+        },
+        {
+            "documento": "XI_40",
+            "tipoData": "when",
+            "dataDocumento": "1228-02-26"
+        },
+        {
+            "documento": "XLVIIII_77",
+            "tipoData": "when",
+            "dataDocumento": "1196-12-05"
+        },
+        {
+            "documento": "XLVIII_76",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-15"
+        },
+        {
+            "documento": "XL_69",
+            "tipoData": "when",
+            "dataDocumento": "1276-02-14"
+        },
+        {
+            "documento": "XVIIII_48",
+            "tipoData": "when",
+            "dataDocumento": "0981-07-18"
+        },
+        {
+            "documento": "XVIII_47",
+            "tipoData": "when",
+            "dataDocumento": "0963-05-19"
+        },
+        {
+            "documento": "XVII_46",
+            "tipoData": "when",
+            "dataDocumento": "0900-05-24"
+        },
+        {
+            "documento": "XVI_45",
+            "tipoData": "when",
+            "dataDocumento": "1179-04-25"
+        },
+        {
+            "documento": "XV_44",
+            "tipoData": "when",
+            "dataDocumento": "1254-03-28"
+        },
+        {
+            "documento": "XXIIII_53",
+            "tipoData": "from",
+            "dataDocumento": "1176-04-13"
+        },
+        {
+            "documento": "XXIII_52",
+            "tipoData": "when",
+            "dataDocumento": "1285-05-15"
+        },
+        {
+            "documento": "XXII_51",
+            "tipoData": "when",
+            "dataDocumento": "1191-02-23"
+        },
+        {
+            "documento": "XXI_50",
+            "tipoData": "when",
+            "dataDocumento": "1185-07-29"
+        },
+        {
+            "documento": "XXVIIII_58",
+            "tipoData": "when",
+            "dataDocumento": "1285-04-04"
+        },
+        {
+            "documento": "XXVIII_57",
+            "tipoData": "when",
+            "dataDocumento": "1269-06-08"
+        },
+        {
+            "documento": "XXVII_56",
+            "tipoData": "from",
+            "dataDocumento": "1285-01-01"
+        },
+        {
+            "documento": "XXVI_55",
+            "tipoData": "from",
+            "dataDocumento": "1235-01-01"
+        },
+        {
+            "documento": "XXV_54",
+            "tipoData": "when",
+            "dataDocumento": "1199-06-29"
+        },
+        {
+            "documento": "XXXIIII_63",
+            "tipoData": "when",
+            "dataDocumento": "1286-03-19"
+        },
+        {
+            "documento": "XXXIII_62",
+            "tipoData": "when",
+            "dataDocumento": "1286-03-18"
+        },
+        {
+            "documento": "XXXII_61",
+            "tipoData": "when",
+            "dataDocumento": "1286-03-16"
+        },
+        {
+            "documento": "XXXI_60",
+            "tipoData": "none",
+            "dataDocumento": "none"
+        },
+        {
+            "documento": "XXXVIIII_68",
+            "tipoData": "when",
+            "dataDocumento": "1260-07-30"
+        },
+        {
+            "documento": "XXXVIII_67",
+            "tipoData": "when",
+            "dataDocumento": "1257-06"
+        },
+        {
+            "documento": "XXXVII_66",
+            "tipoData": "when",
+            "dataDocumento": "1259-06-04"
+        },
+        {
+            "documento": "XXXVI_65",
+            "tipoData": "when",
+            "dataDocumento": "1259-06-04"
+        },
+        {
+            "documento": "XXXV_64",
+            "tipoData": "when",
+            "dataDocumento": "1231-03-30"
+        },
+        {
+            "documento": "XXXXIIII_72",
+            "tipoData": "when",
+            "dataDocumento": "1230-09-03"
+        },
+        {
+            "documento": "XXXXIII_71",
+            "tipoData": "when",
+            "dataDocumento": "1203-11-11"
+        },
+        {
+            "documento": "XXXXI_XXXXII_70",
+            "tipoData": "from",
+            "dataDocumento": "1287-08-09"
+        },
+        {
+            "documento": "XXXXVII_75",
+            "tipoData": "when",
+            "dataDocumento": "1230-09-03"
+        },
+        {
+            "documento": "XXXXVI_74",
+            "tipoData": "when",
+            "dataDocumento": "1232-08-15"
+        },
+        {
+            "documento": "XXXXV_73",
+            "tipoData": "when",
+            "dataDocumento": "1245-02-28"
+        },
+        {
+            "documento": "XXX_59",
+            "tipoData": "when",
+            "dataDocumento": "1066-01-19"
+        },
+        {
+            "documento": "XX_49",
+            "tipoData": "when",
+            "dataDocumento": "1027-04-07"
+        },
+        {
+            "documento": "X_39",
+            "tipoData": "when",
+            "dataDocumento": "1183-02-06"
+        }
+    ]
+}
