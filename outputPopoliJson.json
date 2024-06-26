@@ -1,0 +1,25 @@
+{
+    "popoli": [
+        {
+            "idPopolo": "Dani",
+            "orgName": "Daci sive Dani",
+            "documentoPrimaAttestazione": "CCCXXVII_289",
+            "dataDocumentoPrimaAttestazione": "1217-10-27",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "CCCXXVII_289",
+                "C23"
+            ]
+        },
+        {
+            "idPopolo": "Franchi",
+            "orgName": "Franci",
+            "documentoPrimaAttestazione": "C23",
+            "dataDocumentoPrimaAttestazione": "none",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C23"
+            ]
+        }
+    ]
+}

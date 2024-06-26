@@ -1,0 +1,386 @@
+{
+    "famiglie": [
+        {
+            "idFamiglia": "AdelbertiFamilia",
+            "orgName": "Adelberti / Odelberti",
+            "documentoPrimaAttestazione": "CCCCLXXII_434",
+            "dataDocumentoPrimaAttestazione": "1218-08-06",
+            "numeroOccorrenze": 4,
+            "fileOccorrenza": [
+                "CCCCLXXII_434",
+                "CCCCLXXIII_435",
+                "XV_44",
+                "A01"
+            ]
+        },
+        {
+            "idFamiglia": "ActocaniFamilia",
+            "orgName": "Attocani / Actocani",
+            "documentoPrimaAttestazione": "CXLII_160",
+            "dataDocumentoPrimaAttestazione": "1259-08-17",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "CXLII_160"
+            ]
+        },
+        {
+            "idFamiglia": "AldebertiFamilia_Tivegna",
+            "orgName": "Aledeberti",
+            "documentoPrimaAttestazione": "CCCCLXXVIIII_441",
+            "dataDocumentoPrimaAttestazione": "1252-10-06",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "CCCCLXXVIIII_441",
+                "B02"
+            ]
+        },
+        {
+            "idFamiglia": "BlanciHerberiaFamilia",
+            "orgName": "Bianchi di Erberia / Herberia",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 9,
+            "fileOccorrenza": [
+                "DXXXX_501",
+                "LIII_80",
+                "CCLIIII_215",
+                "CCXLIIII_205",
+                "DXV_476",
+                "C06",
+                "C11",
+                "C05",
+                "B02"
+            ]
+        },
+        {
+            "idFamiglia": "BibolaFamilia",
+            "orgName": "Bibola, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "BriaviaFamilia",
+            "orgName": "Briavia, domini de",
+            "documentoPrimaAttestazione": "C16",
+            "dataDocumentoPrimaAttestazione": "1273-04-25",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C16"
+            ]
+        },
+        {
+            "idFamiglia": "BozanoFamilia",
+            "orgName": "Buçano / Buzano / Bozano / Buiano, domini de",
+            "documentoPrimaAttestazione": "DXVI_477",
+            "dataDocumentoPrimaAttestazione": "1160-01-26",
+            "numeroOccorrenze": 6,
+            "fileOccorrenza": [
+                "DXVI_477",
+                "DXXXX_501",
+                "C21",
+                "DXXVI_487",
+                "A01",
+                "B02"
+            ]
+        },
+        {
+            "idFamiglia": "BurcioneFamilia",
+            "orgName": "Burcione, domini de",
+            "documentoPrimaAttestazione": "DXVI_477",
+            "dataDocumentoPrimaAttestazione": "1160-01-26",
+            "numeroOccorrenze": 5,
+            "fileOccorrenza": [
+                "DXVI_477",
+                "DXXXX_501",
+                "DXXVI_487",
+                "A01",
+                "B02"
+            ]
+        },
+        {
+            "idFamiglia": "CastelloFamilia",
+            "orgName": "Castello, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "CorchiolaFamilia",
+            "orgName": "Corchiola, consortes de",
+            "documentoPrimaAttestazione": "CCCLXXXXVI_357",
+            "dataDocumentoPrimaAttestazione": "1236-02-28",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "CCCLXXXXVI_357"
+            ]
+        },
+        {
+            "idFamiglia": "CorsarellisFamilia",
+            "orgName": "Corsarellis",
+            "documentoPrimaAttestazione": "C22",
+            "dataDocumentoPrimaAttestazione": "1276-10-16",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C22"
+            ]
+        },
+        {
+            "idFamiglia": "CorvariaVallecchiaFamilia",
+            "orgName": "Corvaia e Vallecchia, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "DXXXX_501",
+                "LV_82"
+            ]
+        },
+        {
+            "idFamiglia": "DalloFamilia",
+            "orgName": "Dallo, comites et nobiles de",
+            "documentoPrimaAttestazione": "D27",
+            "dataDocumentoPrimaAttestazione": "1297-11-10",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "EstensiFamilia",
+            "orgName": "Este, famiglia",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "DXXXX_501",
+                "CCCCLXXXIIII_446"
+            ]
+        },
+        {
+            "idFamiglia": "FalcinelloFamilia",
+            "orgName": "Falcinello, nobiles de",
+            "documentoPrimaAttestazione": "D27",
+            "dataDocumentoPrimaAttestazione": "1297-11-10",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "FlumenaschisFamilia",
+            "orgName": "Flumenaschis",
+            "documentoPrimaAttestazione": "C22",
+            "dataDocumentoPrimaAttestazione": "1276-10-16",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C22"
+            ]
+        },
+        {
+            "idFamiglia": "FosdenovaFamilia",
+            "orgName": "Fosdenova, domini de",
+            "documentoPrimaAttestazione": "DXI_472",
+            "dataDocumentoPrimaAttestazione": "1197-07-15",
+            "numeroOccorrenze": 3,
+            "fileOccorrenza": [
+                "DXI_472",
+                "A01",
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "GiovagalloFamilia",
+            "orgName": "Giovagallo/Zovagallo, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "GragnanaFamilia",
+            "orgName": "Gragnana, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "DXXXX_501",
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "Groppo_Sancti_PetriFamilia",
+            "orgName": "Groppo Sancti Petri, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "MalaspinaFamilia",
+            "orgName": "Malaspina, marchiones de",
+            "documentoPrimaAttestazione": "DXVII_478",
+            "dataDocumentoPrimaAttestazione": "1181-10-17",
+            "numeroOccorrenze": 6,
+            "fileOccorrenza": [
+                "DXVII_478",
+                "DXXVIIII_490",
+                "LIII_80",
+                "DXV_476",
+                "A01",
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "MassaFamilia",
+            "orgName": "Massa, marchiones de",
+            "documentoPrimaAttestazione": "DXI_472",
+            "dataDocumentoPrimaAttestazione": "1197-07-15",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXI_472"
+            ]
+        },
+        {
+            "idFamiglia": "MontemagnoFamilia",
+            "orgName": "Montemagno, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "MoregnanoFamilia",
+            "orgName": "Moregnano, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "PallaviciniFamilia",
+            "orgName": "Palavicinorum, domus",
+            "documentoPrimaAttestazione": "E28",
+            "dataDocumentoPrimaAttestazione": "1487-08-09",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "E28"
+            ]
+        },
+        {
+            "idFamiglia": "PeregriniFamilia",
+            "orgName": "Peregrinorum",
+            "documentoPrimaAttestazione": "DXXVI_487",
+            "dataDocumentoPrimaAttestazione": "1281-05-09",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXVI_487"
+            ]
+        },
+        {
+            "idFamiglia": "PorcariFamilia",
+            "orgName": "Porcari, domini de",
+            "documentoPrimaAttestazione": "C21",
+            "dataDocumentoPrimaAttestazione": "1276-10-16",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C21"
+            ]
+        },
+        {
+            "idFamiglia": "RognosisFamilia",
+            "orgName": "Rognosis",
+            "documentoPrimaAttestazione": "C22",
+            "dataDocumentoPrimaAttestazione": "1276-10-16",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "C22"
+            ]
+        },
+        {
+            "idFamiglia": "ToranoFamilia",
+            "orgName": "Torano, nobiles de",
+            "documentoPrimaAttestazione": "A01",
+            "dataDocumentoPrimaAttestazione": "1288-09-24",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "A01"
+            ]
+        },
+        {
+            "idFamiglia": "TrebianoFamilia",
+            "orgName": "Trebiano, nobiles de",
+            "documentoPrimaAttestazione": "D27",
+            "dataDocumentoPrimaAttestazione": "1297-11-10",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "UbaldischisFamilia",
+            "orgName": "Ubaldischis, de",
+            "documentoPrimaAttestazione": "B02",
+            "dataDocumentoPrimaAttestazione": "1289-09-24",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "B02"
+            ]
+        },
+        {
+            "idFamiglia": "UbertisFamilia",
+            "orgName": "Ubertis, de",
+            "documentoPrimaAttestazione": "DXXVI_487",
+            "dataDocumentoPrimaAttestazione": "1281-05-09",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXVI_487"
+            ]
+        },
+        {
+            "idFamiglia": "VerucolaFamilia",
+            "orgName": "Verucola, domini de",
+            "documentoPrimaAttestazione": "DXXXX_501",
+            "dataDocumentoPrimaAttestazione": "1202-05-31",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "DXXXX_501"
+            ]
+        },
+        {
+            "idFamiglia": "VezzanoFamilia",
+            "orgName": "Vezzano, domini de",
+            "documentoPrimaAttestazione": "A01",
+            "dataDocumentoPrimaAttestazione": "1288-09-24",
+            "numeroOccorrenze": 2,
+            "fileOccorrenza": [
+                "A01",
+                "D27"
+            ]
+        },
+        {
+            "idFamiglia": "VianoFamilia",
+            "orgName": "Viano dicti Blanchi, nobiles de",
+            "documentoPrimaAttestazione": "D27",
+            "dataDocumentoPrimaAttestazione": "1297-11-10",
+            "numeroOccorrenze": 1,
+            "fileOccorrenza": [
+                "D27"
+            ]
+        }
+    ]
+}
