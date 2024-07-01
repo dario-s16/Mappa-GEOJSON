@@ -3,6 +3,8 @@
         {
             "idEnte": "Albiano_comune",
             "orgName": "Albiano, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#Maçoluscon, #Petrusconsul, ",
             "documentoPrimaAttestazione": "CCCCXXVII_388",
             "dataDocumentoPrimaAttestazione": "1266-07-15",
             "numeroOccorrenze": 4,
@@ -16,6 +18,8 @@
         {
             "idEnte": "Ameglia_comune",
             "orgName": "Ameglia, comune",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLXXV_337",
             "dataDocumentoPrimaAttestazione": "1199-01-01",
             "numeroOccorrenze": 1,
@@ -26,6 +30,8 @@
         {
             "idEnte": "Ameglia_S_Vincenzo",
             "orgName": "Ameglia, S. Vincenzo",
+            "desc": "Chiesa plebana di Ameglia, nominata per la prima volta nella bolla di Eugenio III\n              del 1148. Si veda ",
+            "listPerson": "#Bosusarc, #Iacopinusarc, #Mediuslombardusarc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 27,
@@ -62,6 +68,8 @@
         {
             "idEnte": "Albano_diocesi",
             "orgName": "Albano, diocesi",
+            "desc": "",
+            "listPerson": "#Iohanes_episcopus, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -70,6 +78,8 @@
         {
             "idEnte": "Albiano_S_Martino",
             "orgName": "Albiano Magra, S. Martino",
+            "desc": "Chiesa attestata per la prima volta nel 1266; negli estimi della diocesi di\n              Luni-Sarzama del XV secolo è posta sotto la pieve di S. Stefano di Cerreto (S. Stefano\n              Magra). Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCXXVII_388",
             "dataDocumentoPrimaAttestazione": "1266-07-15",
             "numeroOccorrenze": 2,
@@ -81,6 +91,8 @@
         {
             "idEnte": "Alebbio_S_Geminiano",
             "orgName": "Alebbio, S. Geminiano",
+            "desc": "Chiesa ad Alebbio, nel comune di Fivizzano, citata nelle decime bonifaciane del\n              1298/99 come cappella ",
+            "listPerson": "#RollanduspresAl, ",
             "documentoPrimaAttestazione": "DXI_472",
             "dataDocumentoPrimaAttestazione": "1197-07-15",
             "numeroOccorrenze": 1,
@@ -91,6 +103,8 @@
         {
             "idEnte": "Antoniano_S_Venerio",
             "orgName": "Antoniano, S. Venerio",
+            "desc": "Chiesa attestata fin dal 1084 come basilica nel luogo detto Antoniano, oggi in\n              località di San Venerio nel comune della Spezia. Si veda: ",
+            "listPerson": "#GerarduspresSV, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 5,
@@ -105,6 +119,8 @@
         {
             "idEnte": "Aquileia_patriarcatus",
             "orgName": "Aquileia, patriarcato",
+            "desc": "Si veda ",
+            "listPerson": "#Godefridus_patriarcha, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -113,6 +129,8 @@
         {
             "idEnte": "Arcola_S_Stefano_Margherita",
             "orgName": "Arcola, SS. Stefano e Margherita",
+            "desc": "Pieve di Arcola, attestata per la prima volta nel 1132. Si veda ",
+            "listPerson": "#Canoruscan, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 5,
@@ -127,6 +145,8 @@
         {
             "idEnte": "Asti_diocesi",
             "orgName": "Asti, diocesi",
+            "desc": "",
+            "listPerson": "#WillielmusEpAsti, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -135,6 +155,8 @@
         {
             "idEnte": "Aulla_S_Caprasio",
             "orgName": "Aulla, S. Caprasio",
+            "desc": " Monastero di S. Maria e S. Caprasio ad Aulla (MS) fondato nell'884 con la\n              titolatura a S. Maria, a cui si aggiunse quella a Caprasio probabilmente tra X e XI\n              secolo. Nel 1378 venne trasformato in commenda secolare di collazione dei Malaspina.\n              Trasformato nel 1817 in parrocchia col titolo di prepositura. Si veda ",
+            "listPerson": "#Balditio_abbas, #Benedictusabb, #Celestinus_abbas, #Gausoabbas, #Guido_presbyter_monachus, #Henricusabbas, #Iacopus_abbas, #Ildeprandusabbas, #Petrus_presbyter_monachus, #Tegrimus_monachus, #Thomasius_abbas, #Venacius, #Vernacius_monacus, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 15,
@@ -159,6 +181,8 @@
         {
             "idEnte": "Autun_diocesi",
             "orgName": "Autun, diocesi",
+            "desc": "Diocesi di Autun (Augustodunensis o Eduensis), in Francia, dipendente\n              dall'archidiocesi di Digione.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLVIbis_520",
             "dataDocumentoPrimaAttestazione": "1289-09-24",
             "numeroOccorrenze": 1,
@@ -169,6 +193,8 @@
         {
             "idEnte": "Avenza_S_Pietro",
             "orgName": "Avenza, S. Pietro",
+            "desc": "Chiesa di pertinenza dei canonici della cattedrale di Luni fino al 1201 quando\n              venne ceduta da costoro al vescovo; nel 1204 il vescovo di Luni la permuta col priore\n              di S. Frediano di Lucca in cambio della chiesa di S. Leonardo de Padule. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "LVI_83",
             "dataDocumentoPrimaAttestazione": "1201-06-04",
             "numeroOccorrenze": 4,
@@ -182,6 +208,8 @@
         {
             "idEnte": "Bagnone_ss_Ippolito_Cassiano",
             "orgName": "Bagnone, SS. Ippolito e Cassiano\"",
+            "desc": null,
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -194,6 +222,8 @@
         {
             "idEnte": "Barbazzano_comune",
             "orgName": "Barbazzano, comune",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLXXXVIII_349",
             "dataDocumentoPrimaAttestazione": "1233-01-31",
             "numeroOccorrenze": 2,
@@ -205,6 +235,8 @@
         {
             "idEnte": "Bardine_S_Terenzo",
             "orgName": "Bardine, S. Terenzo",
+            "desc": "Cappella dell'omonima località di S. Terenzo al Bardine, pieve di Viano, oggi\n              comune di Fivizzano. La prima attestazione è incerta: un tale Transualdo nel 728 o 729\n              fonda una chiesa dedicata a San Terenzio in ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXI_472",
             "dataDocumentoPrimaAttestazione": "1197-07-15",
             "numeroOccorrenze": 4,
@@ -218,6 +250,8 @@
         {
             "idEnte": "Bayern_ducato",
             "orgName": "Bayern (Baviera), ducato",
+            "desc": "",
+            "listPerson": "#OttoBawarie, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -226,6 +260,8 @@
         {
             "idEnte": "Berceto_S_Moderanno",
             "orgName": "Berceto, S. Moderanno",
+            "desc": "Chiesa attestata con questo titolo per la prima volta nel X secolo. Si veda ",
+            "listPerson": "#Sechelinus_archipresbyter, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 1,
@@ -236,6 +272,8 @@
         {
             "idEnte": "Bergamo_diocesi",
             "orgName": "Bergamo, diocesi",
+            "desc": "",
+            "listPerson": "#AmbrosiusEpBergami, #Henricus_archidyaconusBeri, #GuidoctusMediolano, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -244,6 +282,8 @@
         {
             "idEnte": "Bibola_S_Bartolomeo",
             "orgName": "Bibola, S. Bartolomeo",
+            "desc": "Chiesa attestata per la prima volta nella bolla di Anastasio IV del 1154 come\n                ",
+            "listPerson": "#Valerianuspres, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 4,
@@ -257,6 +297,8 @@
         {
             "idEnte": "Bigliolo_S_Donato",
             "orgName": "Bigliolo, S. Donato",
+            "desc": "Chiesa dipendente dalla pieve di Soliera (",
+            "listPerson": "#Tbiliolopres, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -265,6 +307,8 @@
         {
             "idEnte": "Bobbio_S_Colombano",
             "orgName": "Bobbio, S. Colombano",
+            "desc": "Monastero fondato da san Colombano nel 614 a Bobbio, in provincia di\n              Piacenza.",
+            "listPerson": "#Guinebaldus_abbas, #Tbiliolopres, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -273,6 +317,8 @@
         {
             "idEnte": "Bolano_comune",
             "orgName": "Bolano, comune",
+            "desc": "Si elencano i consoli e i podestà.",
+            "listPerson": "#Bolanelluscons, #CorvarinusPelegrini, #CorvarinusSigibaldi, #GualducciusBonafeste, #Gualduspod, #GuiscardusGerardini, #IacopinusIuncte, #MartinusSerra, #Passador, #PassavansVezano, #Spinelluscons, ",
             "documentoPrimaAttestazione": "CCCCXII_373",
             "dataDocumentoPrimaAttestazione": "1204-07-09",
             "numeroOccorrenze": 4,
@@ -286,6 +332,8 @@
         {
             "idEnte": "Bolano_S_Maria_Assunta",
             "orgName": "Bolano, Santa Maria Assunta",
+            "desc": "Pieve di Bolano attestata per la prima volta nel 1148. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -298,6 +346,8 @@
         {
             "idEnte": "Bracelli_comune",
             "orgName": "Bracelli, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#BandinacusBracelli, #Marzoluscons, #UguicionusBracelli, #VencolusBracelli, ",
             "documentoPrimaAttestazione": "CCCCLXXII_434",
             "dataDocumentoPrimaAttestazione": "1218-08-06",
             "numeroOccorrenze": 2,
@@ -309,6 +359,8 @@
         {
             "idEnte": "Brancaliano_S_Bartolomeo",
             "orgName": "Brancaliano, S. Bartolomeo",
+            "desc": null,
+            "listPerson": "",
             "documentoPrimaAttestazione": "LIII_80",
             "dataDocumentoPrimaAttestazione": "1219-03-08",
             "numeroOccorrenze": 3,
@@ -321,6 +373,8 @@
         {
             "idEnte": "Brina_comune",
             "orgName": "Brina, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#AvitusCiserani, #AvitusCigorini, #PhilippusGuiçolini, ",
             "documentoPrimaAttestazione": "DXXII_483",
             "dataDocumentoPrimaAttestazione": "1279-02-21",
             "numeroOccorrenze": 3,
@@ -333,6 +387,8 @@
         {
             "idEnte": "Brina_S_Biagio",
             "orgName": "Brina, S. Biagio",
+            "desc": "Chiesa di S. Biagio della Brina. Attestata per la prima volta nel 1279. Un estimo\n              della diocesi di Luni della seconda metà del XV la indica come di pertinenza del\n              Capitolo della Cattedrale. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXII_483",
             "dataDocumentoPrimaAttestazione": "1279-02-21",
             "numeroOccorrenze": 1,
@@ -343,6 +399,8 @@
         {
             "idEnte": "Brugnato_diocesi",
             "orgName": "Brugnato, diocesi",
+            "desc": "",
+            "listPerson": "#PhilippusEpBrug, #SigebaldusEpBrunìgnati, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -351,6 +409,8 @@
         {
             "idEnte": "Brugnato_abbazia",
             "orgName": "Brugnato, abbazia, monastero",
+            "desc": "Si vedano anche i toponimi ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 1,
@@ -361,6 +421,8 @@
         {
             "idEnte": "Bruscarolo_comune",
             "orgName": "Bruscarolo, comune",
+            "desc": null,
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXII_483",
             "dataDocumentoPrimaAttestazione": "1279-02-21",
             "numeroOccorrenze": 1,
@@ -371,6 +433,8 @@
         {
             "idEnte": "Burcione_cappella",
             "orgName": "Burcione, cappella",
+            "desc": "Cappella di Burcione, presso Aulla, territorialmente nella pieve di S. Stefano di\n              Cerreto. Attestata un'unica volta nel 1154 nella bolla di Anastasio IV assieme alla\n              cappella di Bibola, quest'ultima in seguito alle dipendenze del monastero di S.\n              Caprasio di Aulla. ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -381,6 +445,8 @@
         {
             "idEnte": "Calci_SS_Giovanni_Ermolao",
             "orgName": "Calci, SS. Giovanni ed Ermolao",
+            "desc": "Pieve di Calci, presso Pisa; attestata per la prima volta nel 1116. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCLXXXXII_453",
             "dataDocumentoPrimaAttestazione": "1217-07-26",
             "numeroOccorrenze": 1,
@@ -391,6 +457,8 @@
         {
             "idEnte": "Calice_S_Maria_Assunta",
             "orgName": "Calice al Cornoviglio, S. Maria Assunta",
+            "desc": "Chiesa dipendente direttamente dal vescovo (",
+            "listPerson": "#Odopres, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -399,6 +467,8 @@
         {
             "idEnte": "Campiliola_S_Maria",
             "orgName": "Campiliola, S. Maria di Campiliola",
+            "desc": "S. Maria di Campiliola (o Campiola) situata, già nel sec. IX, all'interno del\n              castello che, dall'alto della Pietra di Bismantova, dominava la vasta zona\n              circostante. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLVbis_518",
             "dataDocumentoPrimaAttestazione": "1237-03-05",
             "numeroOccorrenze": 4,
@@ -412,6 +482,8 @@
         {
             "idEnte": "Caprigliola_comune",
             "orgName": "Caprigliola, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#Bonvisinuscons, #Guidetuscons, #Vecladoruscons, ",
             "documentoPrimaAttestazione": "DXXII_483",
             "dataDocumentoPrimaAttestazione": "1279-02-21",
             "numeroOccorrenze": 1,
@@ -422,6 +494,8 @@
         {
             "idEnte": "Capriola_comune",
             "orgName": "Capriola, comune",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "C03",
             "dataDocumentoPrimaAttestazione": "1273-04-25",
             "numeroOccorrenze": 1,
@@ -432,6 +506,8 @@
         {
             "idEnte": "Camporgiano_S_Cristoforo",
             "orgName": "Camporgiano_S_Cristoforo",
+            "desc": "S. Cristoforo di Camporgiano (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -442,6 +518,8 @@
         {
             "idEnte": "Caprognano_cappella",
             "orgName": "Caprognano, cappella",
+            "desc": "Chiesa di cui non si conosce titolazione né collocazione. A Caprognano è attestato\n              un oratorio dedicato a S. Lucia, ma edificato nel XVII secolo. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCLXVIIII_231",
             "dataDocumentoPrimaAttestazione": "1184-04-03",
             "numeroOccorrenze": 2,
@@ -453,6 +531,8 @@
         {
             "idEnte": "Caprona_S_Giulia",
             "orgName": "Caprona, S. Giulia",
+            "desc": "Pieve di S. Giulia di Caprona, presso Pisa. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -461,6 +541,8 @@
         {
             "idEnte": "Carrellia_S_Terenzo",
             "orgName": "Carellia, S. Terenzo",
+            "desc": "Chiesa ingota. Secondo Geo Pistarino (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XVIIII_48",
             "dataDocumentoPrimaAttestazione": "0981-07-18",
             "numeroOccorrenze": 1,
@@ -471,6 +553,8 @@
         {
             "idEnte": "Carrara_comune",
             "orgName": "Carrara, comune",
+            "desc": "Si elencano i consoli e i podestà.",
+            "listPerson": "#Arduinuscons, #Bonalberguscons, #FortinusTorano, #GrillusCarr, #GuililemusRamundini, #Iacopuciuspod, #ManfredusLucapod, ",
             "documentoPrimaAttestazione": "CCCXXXIII_295",
             "dataDocumentoPrimaAttestazione": "1233-04-06",
             "numeroOccorrenze": 13,
@@ -493,6 +577,8 @@
         {
             "idEnte": "Carrara_S_Andrea",
             "orgName": "Carrara, S. Andrea Apostolo",
+            "desc": "Chiesa plebana di Carrara attestata per la prima volta nel maggio 1099 (",
+            "listPerson": "#Bartholottus_prior, #Herrigusprior, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 13,
@@ -515,6 +601,8 @@
         {
             "idEnte": "Castello_Aghinolfi_S_Vito",
             "orgName": "",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -523,6 +611,8 @@
         {
             "idEnte": "Castelnuovo_Magra_comune",
             "orgName": "Castelnuovo (Magra), comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#BlanchetusRinova, #BonaiunctaGermagnano, #IacopinusOrbus, #IacopinusOssoli, #IustamonsRaffinello, #Marabotinus_potestas, #RayneriusRustichini, #UrsusLaçarelli, ",
             "documentoPrimaAttestazione": "DVI_467",
             "dataDocumentoPrimaAttestazione": "1255-03-16",
             "numeroOccorrenze": 2,
@@ -534,6 +624,8 @@
         {
             "idEnte": "Castelnuovo_Magra_S_Maria_Maddalena",
             "orgName": "S. Maria Maddalena a Castelnuovo (Magra)",
+            "desc": "Chiesa della pieve di Luni (",
+            "listPerson": "#Rollanduspres, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -542,6 +634,8 @@
         {
             "idEnte": "Castevoli_S_Martino",
             "orgName": "",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -550,6 +644,8 @@
         {
             "idEnte": "Ceparana_S_Venanzio",
             "orgName": "Ceparana, S. Venanzio",
+            "desc": "Abbazia benedettina di S. Venanzio di Ceparana, i cui resti sono attualmente\n              inglobati nel complesso architettonico del palazzo Giustiniani, edificato nel XVIII\n              secolo. Bibliografia: ",
+            "listPerson": "#Bartholomeuspres, #Benedictusmonacus, #Bonifatius_abbas, #Guidoabb, #Iordanusmonacus, #Iohannesabbas, #Nicholausmon, #Odoabbas, #Rollandusabb, #Romanusabbas, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 21,
@@ -580,6 +676,8 @@
         {
             "idEnte": "Cerreto_S_Stefano",
             "orgName": "",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -588,6 +686,8 @@
         {
             "idEnte": "Ceserano_S_Bartolomeo",
             "orgName": "Ceserano, S. Bartolomeo",
+            "desc": "Chiesa attestata per la prima volta nelle decime bonifaciane del 1296/97 (",
+            "listPerson": "#Gpres, ",
             "documentoPrimaAttestazione": "CCL_211",
             "dataDocumentoPrimaAttestazione": "1231-09-05",
             "numeroOccorrenze": 1,
@@ -598,6 +698,8 @@
         {
             "idEnte": "Ceula_S_Siro",
             "orgName": "Ceula, S. Siro",
+            "desc": "Pieve di Ceula, attestata la prima volta nel 1148. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -610,6 +712,8 @@
         {
             "idEnte": "Chiusi_diocesis",
             "orgName": "Chiusi, diocesi",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XL_69",
             "dataDocumentoPrimaAttestazione": "1276-02-14",
             "numeroOccorrenze": 1,
@@ -620,6 +724,8 @@
         {
             "idEnte": "Como_diocesis",
             "orgName": "Como, diocesi",
+            "desc": "",
+            "listPerson": "#AnselmusEpCumanus, #Liutvardus_cancellarius, ",
             "documentoPrimaAttestazione": "CCCLXVIIII_331",
             "dataDocumentoPrimaAttestazione": "1183-06-30",
             "numeroOccorrenze": 1,
@@ -630,6 +736,8 @@
         {
             "idEnte": "Colognola_S_Prospero",
             "orgName": "Colognola, S. Prospero",
+            "desc": "pieve di Vezzano, attestata per la prima volta nel 1148. Si veda ",
+            "listPerson": "#Parenspres, #UgoarcCol, ",
             "documentoPrimaAttestazione": "CCCCX_371",
             "dataDocumentoPrimaAttestazione": "1197-01-23",
             "numeroOccorrenze": 3,
@@ -642,6 +750,8 @@
         {
             "idEnte": "Corsena_S_Pietro",
             "orgName": "Corsena, S. Pietro",
+            "desc": "San Pietro in Corsena, nel comune di Bagni di Lucca, già attestata nel 1073,\n              dipendente dalla pieve di Controne. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXXVI_497",
             "dataDocumentoPrimaAttestazione": "1211-12-19",
             "numeroOccorrenze": 1,
@@ -652,6 +762,8 @@
         {
             "idEnte": "ColleValdElsa_S_Maria",
             "orgName": "Colle Val d'Elsa, S. Maria in Canonica",
+            "desc": "",
+            "listPerson": "#Guilielmus_canonicus_Collensis, ",
             "documentoPrimaAttestazione": "DL_512",
             "dataDocumentoPrimaAttestazione": "1240-05-04",
             "numeroOccorrenze": 1,
@@ -662,6 +774,8 @@
         {
             "idEnte": "Codiponte_SS_Cornelio_Cipriano",
             "orgName": "Codiponte, SS. Cornelio e Cipriano",
+            "desc": "Pieve dei Santi Cornelio e Cipriano a Codiponte, nel comune di Casola in\n              Lunigiana, Attestata con certezza nel 1148, anche se gli scavi archeologici hanno\n              messo n luce resti pare di VIII secolo. Si veda ",
+            "listPerson": "#GuilielmusCodeponte_arc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 6,
@@ -677,6 +791,8 @@
         {
             "idEnte": "Cornia_S_Pietro",
             "orgName": "Cornia, S. Pietro",
+            "desc": "Pieve di Cornia, attestata per la prima volta nel 1148, ricostruita nel 1575 e\n              1677. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -689,6 +805,8 @@
         {
             "idEnte": "Corvaia_S_Andrea",
             "orgName": "Corvaia, S. Andrea",
+            "desc": "Cappella della pieve di Santo Stefano di Versilia nella diocesi di Luni. Si veda\n                ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "X_39",
             "dataDocumentoPrimaAttestazione": "1183-02-06",
             "numeroOccorrenze": 1,
@@ -699,6 +817,8 @@
         {
             "idEnte": "Corvo_S_Croce",
             "orgName": "Corvo, S. Croce",
+            "desc": "Monastero fondato dal vescovo di Luni Pipino nel luogo in cui sarebbe approdata la\n              reliquia del Volto Santo; venne ceduto nel 1186 dal vescovo Pietro al monastero di S.\n              Michele di Orticaria di Pisa. I monaci lo abbandonarono alla metà del XIV secolo per\n              trasferirsi nella cappella dipendente di S. Croce. Si veda ",
+            "listPerson": "#GuilielmusGragnana_monacus, #Luca_monacus, #MichaelSarzana, #Paulusmonacus, #Pax_abbas, #Symon_monacus, #Symon_prior, ",
             "documentoPrimaAttestazione": "DXLII_503",
             "dataDocumentoPrimaAttestazione": "1176-02-02",
             "numeroOccorrenze": 21,
@@ -729,6 +849,8 @@
         {
             "idEnte": "Crespiano_S_Maria_Assunta ",
             "orgName": "Crespiano, S. Maria Assunta",
+            "desc": "Pieve di Crespiano, attestata con funzioni plebane nel 1148, come edificio\n              religioso già in una epigrafe del 1079-1080. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -737,6 +859,8 @@
         {
             "idEnte": "Fabiano_S_Andrea",
             "orgName": "Fabiano, S. Andrea",
+            "desc": "Una cappella a Fabiano, senza intitolazione, è attestata nel 1128 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCI_362",
             "dataDocumentoPrimaAttestazione": "1235-01-07",
             "numeroOccorrenze": 1,
@@ -747,6 +871,8 @@
         {
             "idEnte": "Fabiano_S_Martino",
             "orgName": "Fabiano, S. Martino",
+            "desc": "Chiesa attestata solo nel privilegio di Anastasio IV del 1154, a meno che non si\n              ritenga si intitolasse a S. Martino la cappella, attestata senza specificazione nel\n              1128, quando la cappella di Fabiano passò dalle dipendenze del monastero del Tino a\n              quelle della pieve di Marinasco. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -757,6 +883,8 @@
         {
             "idEnte": "Falcinello_comune",
             "orgName": "Falcinello, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#BorlengusFal, #RomeusFal, ",
             "documentoPrimaAttestazione": "CXLIII_161",
             "dataDocumentoPrimaAttestazione": "1201-06-08",
             "numeroOccorrenze": 3,
@@ -769,6 +897,8 @@
         {
             "idEnte": "Filattiera_s_Stefano",
             "orgName": "",
+            "desc": "Si veda la pieve di ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -777,6 +907,8 @@
         {
             "idEnte": "Firenze_diocesi",
             "orgName": "Firenze, diocesi",
+            "desc": "",
+            "listPerson": "#ArdengusTrottiEp, ",
             "documentoPrimaAttestazione": "DLV_517",
             "dataDocumentoPrimaAttestazione": "1238-12-18",
             "numeroOccorrenze": 2,
@@ -788,6 +920,8 @@
         {
             "idEnte": "Flerno_ecclesia",
             "orgName": "Flerno, ecclesia",
+            "desc": "Chiesa attestata solo una volta nel 1154. Non se ne conosce l'ubicazione anche se\n              si trovava entro la pieve di Ceula (oggi Montale, comune di Levanto). Ubaldo\n              Formentini (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -798,6 +932,8 @@
         {
             "idEnte": "Francorum_regnum",
             "orgName": "Regno dei Franchi",
+            "desc": "",
+            "listPerson": "#Carolus_rex_3, #Conradusimp, ",
             "documentoPrimaAttestazione": "C23",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 1,
@@ -808,6 +944,8 @@
         {
             "idEnte": "Frascati_diocesis",
             "orgName": "Frascati, diocesi",
+            "desc": "",
+            "listPerson": "#Ymarus_episcopus, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -816,6 +954,8 @@
         {
             "idEnte": "Frigido_S_Leonardo",
             "orgName": "Figido, S. Leonardo",
+            "desc": "S. Leonardo al Frigido sorgeva nel luogo dove più autori collocano la stazione di\n              età antica di ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCXLVI_308",
             "dataDocumentoPrimaAttestazione": "1200-01-01",
             "numeroOccorrenze": 1,
@@ -826,6 +966,8 @@
         {
             "idEnte": "Frisinga_diocesi",
             "orgName": "Frisinga, diocesi",
+            "desc": "",
+            "listPerson": "#Otto_episcopusFrisinga, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -834,6 +976,8 @@
         {
             "idEnte": "Genova_comune",
             "orgName": "Genova, comune",
+            "desc": "Si elencano i capitani.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLXXXXVIII_359",
             "dataDocumentoPrimaAttestazione": "1271-08-12",
             "numeroOccorrenze": 8,
@@ -851,6 +995,8 @@
         {
             "idEnte": "Genova_comitatus",
             "orgName": "Genova, comitato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 1,
@@ -861,6 +1007,8 @@
         {
             "idEnte": "Genova_S_Lorenzo",
             "orgName": "Genova, canonica della cattedrale di S. Lorenzo",
+            "desc": "Si elencano i canonici, compresi quelli definiti di Genova senza altra\n              specificazione.",
+            "listPerson": "#Iohannes_canonicusIan, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -869,6 +1017,8 @@
         {
             "idEnte": "Genova_S_Stefano",
             "orgName": "Genova, S. Stefano",
+            "desc": "Chiesa di S. Stefano a Genova",
+            "listPerson": "#Azofra, ",
             "documentoPrimaAttestazione": "DXXIIII_485",
             "dataDocumentoPrimaAttestazione": "1281-05-08",
             "numeroOccorrenze": 1,
@@ -879,6 +1029,8 @@
         {
             "idEnte": "Iliolo_S_Martino",
             "orgName": "Iliolo, S. Martino",
+            "desc": "Cappella dipendente dal capitolo della Cattedrale, oggi S. Martino di Casano nel\n              comune di Luni. Si veda ",
+            "listPerson": "#AlbertuspresSM, ",
             "documentoPrimaAttestazione": "CCC_262",
             "dataDocumentoPrimaAttestazione": "1226-12-13",
             "numeroOccorrenze": 2,
@@ -890,6 +1042,8 @@
         {
             "idEnte": "Impero_regno",
             "orgName": "Impero, Sacro Romano",
+            "desc": "",
+            "listPerson": "#Carolus_imperator_3, #Conradusimp, #Fredericus_imperator_I, #Fredericus_imperator_II, #Gisla_imperatrix, #HenricusII, #HenricusIII, #HenricusVI, #Otto_imperator, #Otto_imperator1, #Otto_imperator2, #Otto_imperator3, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -898,6 +1052,8 @@
         {
             "idEnte": "Isola_comune",
             "orgName": "Isola, comune",
+            "desc": "",
+            "listPerson": "#Fontanelluscons, #Philippuscons, ",
             "documentoPrimaAttestazione": "CCCCXL_401",
             "dataDocumentoPrimaAttestazione": "1230-04-30",
             "numeroOccorrenze": 1,
@@ -908,6 +1064,8 @@
         {
             "idEnte": "Isola_S_Vittore",
             "orgName": "Isola, S. Vittore",
+            "desc": "Chiesa oggi scomparsa presso Monte Albano nel comune della Spezia. Si veda ",
+            "listPerson": "#Decanuspres, ",
             "documentoPrimaAttestazione": "CCCCXL_401",
             "dataDocumentoPrimaAttestazione": "1230-04-30",
             "numeroOccorrenze": 1,
@@ -918,6 +1076,8 @@
         {
             "idEnte": "Isola_Santa_SS_Iacopo_e_Cristoforo",
             "orgName": "Isola Santa, SS. Iacopo e Cristoforo",
+            "desc": "Ospedale di Isola Santam detto anche ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "X_39",
             "dataDocumentoPrimaAttestazione": "1183-02-06",
             "numeroOccorrenze": 2,
@@ -929,6 +1089,8 @@
         {
             "idEnte": "Italia_regno",
             "orgName": "Italia, regno di (Romanorum regnum)",
+            "desc": "",
+            "listPerson": "#Berengarius_rex, #Conradusimp, #HenricusVI, #Ludovicus_rex, #Radulphus_imperator, ",
             "documentoPrimaAttestazione": "DXXX_491",
             "dataDocumentoPrimaAttestazione": "1185-07-29",
             "numeroOccorrenze": 3,
@@ -941,6 +1103,8 @@
         {
             "idEnte": "Köln_diocesis",
             "orgName": "Köln (Colonia), diocesi",
+            "desc": "",
+            "listPerson": "#Philippus_arc, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -949,6 +1113,8 @@
         {
             "idEnte": "Linari_S_Bartolomeo",
             "orgName": "Linari, Santissimo Salvatore e San Bartolomeo",
+            "desc": "Abbazia attestata von certezza solo dal 1045, soppressa da papa Gregorio XIII nel\n              1583. Si veda ",
+            "listPerson": "#Rainaldus_abbas, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -957,6 +1123,8 @@
         {
             "idEnte": "Lodi_comitatus",
             "orgName": "Lodi, comitato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 1,
@@ -967,6 +1135,8 @@
         {
             "idEnte": "Lucca_comune",
             "orgName": "Lucca, comune",
+            "desc": "Si elencano i consoli e i podestà.",
+            "listPerson": "#Frughenus_consul, #GenoveseAlioti, #GlandonusMaloditi, #GuiscardusPietrasanta, #Marone_consul, #OpichoNordili, #TancredusHoneste, #TegrimusPodio, ",
             "documentoPrimaAttestazione": "DXXVIIII_490",
             "dataDocumentoPrimaAttestazione": "1206-07-22",
             "numeroOccorrenze": 66,
@@ -1042,6 +1212,8 @@
         {
             "idEnte": "Lucca_diocesis",
             "orgName": "Lucca, diocesi",
+            "desc": "Si elencano i vescovi.",
+            "listPerson": "#GregoriusepiLuc, #GuerciusepiLuc, #GuilEpLuccaII, #HenricusEpLucca, #RobertusepiLuc, ",
             "documentoPrimaAttestazione": "DLIII_515",
             "dataDocumentoPrimaAttestazione": "1241-10-21",
             "numeroOccorrenze": 3,
@@ -1054,6 +1226,8 @@
         {
             "idEnte": "Lucca_S_Alessandro",
             "orgName": "Lucca, S. Alessandro Maggiore",
+            "desc": "Chiesa di Sant'Alessandro Maggiore a Lucca. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLVbis_518",
             "dataDocumentoPrimaAttestazione": "1237-03-05",
             "numeroOccorrenze": 2,
@@ -1065,6 +1239,8 @@
         {
             "idEnte": "Lucca_S_Frediano",
             "orgName": "Lucca, S. Frediano",
+            "desc": "Chiesa oggi in stile romanico ma edificata su un luogo di culto precedente che la\n              tradizione fa risalire allo stesso Frediano, presbitero irlandese eletto vescovo di\n              Lucca tra il 560 e il 588. Intorno all chiesa si raccolse una comunità di canonici.\n              Nel 1104 papa Pasquale II confermò i canonici affidandoli al clero di San Giovanni in\n              Laterano. Si veda ",
+            "listPerson": "#Bonusprior, #IohannesLuca, #IohannesPisis, #Petruscan, ",
             "documentoPrimaAttestazione": "CCCLIIII_316",
             "dataDocumentoPrimaAttestazione": "1151-12-03",
             "numeroOccorrenze": 9,
@@ -1083,6 +1259,8 @@
         {
             "idEnte": "Lucca_S_Maria_Forisportam",
             "orgName": "Sancta Maria Forisportam",
+            "desc": "Chiesa di Santa Maria Forisportam detta anche di Santa Maria Bianca a Lucca. Si\n              veda ",
+            "listPerson": "#P_prior, #Ubertus_presbyter, ",
             "documentoPrimaAttestazione": "DLVbis_518",
             "dataDocumentoPrimaAttestazione": "1237-03-05",
             "numeroOccorrenze": 3,
@@ -1095,6 +1273,8 @@
         {
             "idEnte": "Lucca_S_Maria_Giudice",
             "orgName": "Lucca, S. Maria del Giudice",
+            "desc": "Chiesa di Santa Maria Assunta, a Santa Maria del Giudice, frazione del comune di\n              Lucca. Si veda ",
+            "listPerson": "#Ubertus_presbyter2/, ",
             "documentoPrimaAttestazione": "DLIII_515",
             "dataDocumentoPrimaAttestazione": "1241-10-21",
             "numeroOccorrenze": 1,
@@ -1105,6 +1285,8 @@
         {
             "idEnte": "Lucca_S_Martino_canonica",
             "orgName": "Lucca, S. Martino",
+            "desc": "Capitolo della cattedrale di Lucca. Si veda ",
+            "listPerson": "#Gualterotuscan, #Manducator_magister, #Martroniscan, #Paulus_canonicus, #RollandusBacciano, ",
             "documentoPrimaAttestazione": "DLIII_515",
             "dataDocumentoPrimaAttestazione": "1241-10-21",
             "numeroOccorrenze": 1,
@@ -1115,6 +1297,8 @@
         {
             "idEnte": "Lucca_S_Martino_hosp",
             "orgName": "Lucca, S. Martino",
+            "desc": "Ospedale della cattedrale di S. Martino a Lucca. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1123,6 +1307,8 @@
         {
             "idEnte": "Lucca_S_Michele_Foro",
             "orgName": "Lucca, S. Michele in Foro",
+            "desc": "Chiesa tra le più antiche e rilevanti di Lucca, attestata dal 795. Bibliografia:\n                ",
+            "listPerson": "#Ranuciusprior, #Amadorcan, ",
             "documentoPrimaAttestazione": "VIII_37",
             "dataDocumentoPrimaAttestazione": "1255-04-20",
             "numeroOccorrenze": 1,
@@ -1133,6 +1319,8 @@
         {
             "idEnte": "Luni_canonica",
             "orgName": "Luni, canonica della cattedrale",
+            "desc": "Si elencano i canonici.",
+            "listPerson": "#Albertuscan, #AlbertusVirsilia_canonicus, #Albertus_dyaconus, #AlbertusFosdenova_canonicus, #AlbertusRocha, #AlbertusVallechia_canonicus, #Antoniuscan, #AntoniusTursaccus, #Arditio_prepositus, #Baldanzacan, #BartholomeusPanicali_canonicus, #Bertoluscan, #Bonaiunctaarc, #Bonifaciuscan, #Bovisacan, #Canoruscan, #Egidiuscan, #GansapeCalderio, #Gerardinus_canonicus, #Gerarduscan, #GofredusLucanus, #Grassuscan, #GrassusLivignano, #Gualterotus_archidiaconus, #GualterotuscanL, #GualterotusBaldoini, #Guelfusarc, #Guerisius_canonicus, #Guidoarch, #GuidoPisanus_canonicus, #Guilielmus_arc, #Guilielmuscan, #Guilielmus_canonicus, #Guilielmus_prepositus, #Guilielmusprep, #GuilielmusLavania, #GuilielmusTrebiano, #Guirisiuscan, #Iacobinus_canonicus, #Iacopuscan, #IohannesCornilia_canonicus, #Mannus_canonicus, #Oncomus, #Opichus_canonicus, #Oppizuscus, #OpizusBurçiono, #OpiçusVernatio, #Peregrinuscan, #PeregrinusCar, #Philippus_canonicus_Lun, #RaimundusVallecla, #RayneriusMontemagno, #Rodulfusarc, #Rollandinuscan, #RollandinusVerugula, #Rollanduscan, #RollandusMascharus_canonicus, #Sismunduscan, #TebaldusFusichio_canonicus, #Theobaldus_canonicus, #Thomasinus_canonicus, #Tursaccus_canonicus, #Ubalduscan, #Ugolinuscan, #Vernaciuscan, #Vitalis_plebanus, #Vivasinuscan, #Vivasiuscan, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1141,6 +1329,8 @@
         {
             "idEnte": "Luni_comitatus",
             "orgName": "Luni, comitato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 29,
@@ -1179,6 +1369,8 @@
         {
             "idEnte": "Luni_diocesis",
             "orgName": "Luni, diocesi",
+            "desc": "Non si segnalano le occorrenze perché distribuite in quasi tutti i documenti del\n              codice. Elencati qui solo i vescovi citati.",
+            "listPerson": "#A.EpLuni, #AdalbertusEpi, #AlbertusEpLuni, #AndreaEpLuni, #AntoniusEp, #ButtafavaEpLuni, #GotefredEpLuni, #GotefredEpLuni2, #GalcheriusEpLuni, #GualEpLuni, #GuidoEpLuni1, #GuidoEpLuni2, #GuilEpLuni, #HenricusEpLuni, #HeribertusepLuni, #IohanMontinus_episcopus, #MarzuccusEpLuni, #NorandEpLuni, #OdelbertusEpi, #PetrusEpLuni, #PhilippusEpLuni2, #PhilippusEpLuni3, #PipEpLuni, #Raimondusep, #RollandusEpLuni, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1187,6 +1379,8 @@
         {
             "idEnte": "Luni_marca",
             "orgName": "Luni, marca (marcha de Luna)",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "LIII_80",
             "dataDocumentoPrimaAttestazione": "1219-03-08",
             "numeroOccorrenze": 1,
@@ -1197,6 +1391,8 @@
         {
             "idEnte": "Luni_S_Maria",
             "orgName": "Luni, S. Maria",
+            "desc": "La cattedrale di Luni, matrice di tutte le chiese dell'omonima diocesi, ha\n              lasciato tracce archeologiche di età paelocristiana e bizantina; la notizia\n              documentaria più antica risale tuttavia all'879; nel 1204 la sede episcopale si\n              trasferì nella chiesa di S. Maria di Sarzana. Si veda: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCLXXXXVI_258",
             "dataDocumentoPrimaAttestazione": "1055-05-05",
             "numeroOccorrenze": 7,
@@ -1213,6 +1409,8 @@
         {
             "idEnte": "Luni_S_Maurizio",
             "orgName": "Luni, S. Maurizio",
+            "desc": "Cappella e ospedale posti alla foce del Magra, prima appartenenti alL’abbazia di\n              San Venanzio di Ceparana e poi donati nel 1189 all'ospedale pisano di Santa Croce a\n              Bocca d’Arno. Si veda: ",
+            "listPerson": "#Bertramus, #Datusrect, #Gomitanusrect, #Reineriuspres, #Todescusrec, ",
             "documentoPrimaAttestazione": "CCCLXI_323",
             "dataDocumentoPrimaAttestazione": "1189-03-20",
             "numeroOccorrenze": 14,
@@ -1236,6 +1434,8 @@
         {
             "idEnte": "Luni_S_Pietro",
             "orgName": "Luni, S. Pietro",
+            "desc": "Chiesa oggi scomparsa ubicata fuori dalle mura settentrionali di Luni, nella\n              località oggi detta ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCXLII_304",
             "dataDocumentoPrimaAttestazione": "1232-10-26",
             "numeroOccorrenze": 1,
@@ -1246,6 +1446,8 @@
         {
             "idEnte": "Luni_Sarzana_diocesi",
             "orgName": "Luni - Sarzana, diocesi",
+            "desc": "Diocesi di Luni-Sarzana nata ufficialmente nel 1465 (",
+            "listPerson": "#ThomasepLuni, ",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -1256,6 +1458,8 @@
         {
             "idEnte": "Lunigiana_provincia",
             "orgName": "Lunigiana, provincia di",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CXXXI_148",
             "dataDocumentoPrimaAttestazione": "1140-02",
             "numeroOccorrenze": 92,
@@ -1357,6 +1561,8 @@
         {
             "idEnte": "Lunigiana_vicaria",
             "orgName": "Lunigiana, vicaria della provincia di, vicaria di",
+            "desc": "",
+            "listPerson": "#AlbertusMalvicinus, #AlcheriusPagani, #AldebrandinusTalliamelo, #Benettus_vicarius, #BonacursusLanfredi, #GetreduciusMalusii, #GuilielmusBrancasicce, #Henricus_doctor, #NicholausMaconisnot, #LanfredusBonacursi, #Morruellusvic, #NormanninusBernanduccisiud, #PetrusHenrighinis, #PhilippusRiccardi, #RaineriusGualteroti, #RiccomusBolgarini, #SartoriusSalamuncelli, #UbertusPelavicinus, #UgolinusCrivano, ",
             "documentoPrimaAttestazione": "LXXXXVII_114",
             "dataDocumentoPrimaAttestazione": "1228-09-24",
             "numeroOccorrenze": 18,
@@ -1384,6 +1590,8 @@
         {
             "idEnte": "Malaspina_marca",
             "orgName": "Malaspina, marca (marchionatus de Malaspina ed de Massa)",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "LIII_80",
             "dataDocumentoPrimaAttestazione": "1219-03-08",
             "numeroOccorrenze": 1,
@@ -1394,6 +1602,8 @@
         {
             "idEnte": "Marciaso_comune",
             "orgName": "Marciaso, comune",
+            "desc": "Si elencano i consoli e i podestà.",
+            "listPerson": "#GuidolinusAlberti, #RefulcusUgolini, #Rollanduspod, ",
             "documentoPrimaAttestazione": "DXIII_474",
             "dataDocumentoPrimaAttestazione": "1233-07-31",
             "numeroOccorrenze": 3,
@@ -1406,6 +1616,8 @@
         {
             "idEnte": "Marinasco_S_Stefano",
             "orgName": "Marinasco, S. Stefano",
+            "desc": "Attestata la prima volta in un documento del ",
+            "listPerson": "#Bennatusarch, #Gerardusarc, ",
             "documentoPrimaAttestazione": "CCCCXLI_402",
             "dataDocumentoPrimaAttestazione": "0950-01",
             "numeroOccorrenze": 8,
@@ -1423,6 +1635,8 @@
         {
             "idEnte": "Marola_comune",
             "orgName": "Marola, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#BonavereCepelli, #PaganinusIohannis, #TosusCalesana, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1431,6 +1645,8 @@
         {
             "idEnte": "Marola_S_Vito",
             "orgName": "Marola, S. Vito",
+            "desc": "Chiesa attestata per la prima volta nel 1235, poi menzionata nelle Decime\n              Bonifaciane della fine del XIII come dipendente dalla pieve di Marinasco. Si veda:\n                ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCI_362",
             "dataDocumentoPrimaAttestazione": "1235-01-07",
             "numeroOccorrenze": 2,
@@ -1442,6 +1658,8 @@
         {
             "idEnte": "Massa_marca",
             "orgName": "",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1450,6 +1668,8 @@
         {
             "idEnte": "Massa_S_Pietro",
             "orgName": "Massa, S. Pietro",
+            "desc": "Pieve di S. Pietro di Massa, attestata indirettamete alla fine del X, in maniera\n              palese nel 1148. Si veda: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -1462,6 +1682,8 @@
         {
             "idEnte": "Massa_S_Vitale",
             "orgName": "Massa, S. Vitale",
+            "desc": "Pieve di S. Vitale di Massa, attestata per la prima volta nel 986. Si veda: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 6,
@@ -1477,6 +1699,8 @@
         {
             "idEnte": "Massa_S_Lorenzo",
             "orgName": "Massa, S. Lorenzo di Monte Libero",
+            "desc": "Pieve di S. Lorenzo di Monte Libero, attestata per la prima volta nel 1148.",
+            "listPerson": "#Henrriguspres, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 4,
@@ -1490,6 +1714,8 @@
         {
             "idEnte": "Milano_canonica",
             "orgName": "Milano, canonica",
+            "desc": "Dai documeti non è chiaro a quale canonica ci si riferisca.",
+            "listPerson": "#Antonius_canonicusMed, #ComesCasate, #WuidoarchMediolani, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1498,6 +1724,8 @@
         {
             "idEnte": "Milano_diocesi",
             "orgName": "Milano, diocesi",
+            "desc": "",
+            "listPerson": "#WuidoarchMediolani, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1506,6 +1734,8 @@
         {
             "idEnte": "Milano_S_Lorenzo",
             "orgName": "Milano, S. Lorenzo",
+            "desc": "Basilica di S. Lorenzo Maggiore a Milano. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XXXVIIII_68",
             "dataDocumentoPrimaAttestazione": "1260-07-30",
             "numeroOccorrenze": 1,
@@ -1516,6 +1746,8 @@
         {
             "idEnte": "Minucciano_S_Lorenzo",
             "orgName": "Minucciano, S. Lorenzo",
+            "desc": "Pieve di San Lorenzo di Minucciano, detta anche di Vinacciara, attestata per la\n              prima volta nel 1148. Si veda: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -1528,6 +1760,8 @@
         {
             "idEnte": "Modena_collegium",
             "orgName": "Modena, collegio dei notai",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1536,6 +1770,8 @@
         {
             "idEnte": "Modena_comitatus",
             "orgName": "Modena, comitato, distretto, ducato, ager",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 2,
@@ -1547,6 +1783,8 @@
         {
             "idEnte": "Modena_diocesi",
             "orgName": "Modena, diocesi",
+            "desc": "",
+            "listPerson": "#Wuido_episcopusMO, #IohannesAndree, ",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -1557,6 +1795,8 @@
         {
             "idEnte": "Modolena_S_Michele",
             "orgName": "Modolena, S. Michele",
+            "desc": "San Michele Arcangelo, ora a Pieve di Modolena nel comune di Reggio Emilia. Si\n              veda ",
+            "listPerson": "#Atto_archipresbyterAttoMin, ",
             "documentoPrimaAttestazione": "DLII_514",
             "dataDocumentoPrimaAttestazione": "1238-02-06",
             "numeroOccorrenze": 1,
@@ -1567,6 +1807,8 @@
         {
             "idEnte": "Moncigoli_comune",
             "orgName": "Moncigoli, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#TiniosusMoncicolo, ",
             "documentoPrimaAttestazione": "CCLIII_214",
             "dataDocumentoPrimaAttestazione": "1232-09-10",
             "numeroOccorrenze": 1,
@@ -1577,6 +1819,8 @@
         {
             "idEnte": "Monsagrati_S_Giovanni",
             "orgName": "Monsagrati, S. Giovanni Battista",
+            "desc": "Pieve di San Giovanni Battista a Monsagrati nella diocesi di Lucca (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1585,6 +1829,8 @@
         {
             "idEnte": "Monte_Forca_hospitalis",
             "orgName": "Monte Forca, ospedale",
+            "desc": "Ospedale posto circa un chilometro sopra Castelpoggio vicino al valico detto La\n              Maestà sulla via che congiungeva la valle del torrente Carrione con quella del\n              Bardine. Dipendente inizialmente dal vescovo di Luni, nel 1151 venne da questo ceduto\n              a S. Frediano di Lucca insieme all’ospedale di S. Leonardo ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLIIII_316",
             "dataDocumentoPrimaAttestazione": "1151-12-03",
             "numeroOccorrenze": 2,
@@ -1596,6 +1842,8 @@
         {
             "idEnte": "Monte_Forca_S_Pancrazio",
             "orgName": "Monte Forca, S. Pacrazio",
+            "desc": "Cappella dipendente dall'ospedale di Monte Furca, localizzazione ignota.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLIIII_316",
             "dataDocumentoPrimaAttestazione": "1151-12-03",
             "numeroOccorrenze": 2,
@@ -1607,6 +1855,8 @@
         {
             "idEnte": "Monte_Forca_S_Sisto",
             "orgName": "Monte Forca, S. Sisto",
+            "desc": "Cappella dipendente dall'ospedale di Monte Forca, localizzazione ignota.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLIIII_316",
             "dataDocumentoPrimaAttestazione": "1151-12-03",
             "numeroOccorrenze": 2,
@@ -1618,6 +1868,8 @@
         {
             "idEnte": "Montebello_comune",
             "orgName": "Montebello, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#Mazarasuscons, ",
             "documentoPrimaAttestazione": "CCCCXXXII_393",
             "dataDocumentoPrimaAttestazione": "1259-01-18",
             "numeroOccorrenze": 2,
@@ -1629,6 +1881,8 @@
         {
             "idEnte": "Montecchio_S_Michele",
             "orgName": "Montecchio, S. Michele",
+            "desc": "Chiesa oggi scomparsa nell'abitato di Montecchio, ora comune di Castelnuovo Magara\n              (SP). ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCLXX_232",
             "dataDocumentoPrimaAttestazione": "1164-04-03",
             "numeroOccorrenze": 1,
@@ -1639,6 +1893,8 @@
         {
             "idEnte": "Montedivalli_S_Andrea",
             "orgName": "Montedivalli, S. Andrea",
+            "desc": "Detta anche pieve di Sant'Andrea di Castello, attestata per la prima volta nel\n              1148 (",
+            "listPerson": "#Tholomeusarch, #Ugolinusarc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 4,
@@ -1652,6 +1908,8 @@
         {
             "idEnte": "Montignoso_S_Vito",
             "orgName": "Montignoso, S. Vito",
+            "desc": "Pieve di S. Vito di Castello Aghinolfi, detta poi di Montignoso, attestata la\n              prima volta nel 1148 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -1664,6 +1922,8 @@
         {
             "idEnte": "Münster_diocesi",
             "orgName": "Münster (Monaco di Vestfalia), diocesi",
+            "desc": "",
+            "listPerson": "#HenrmannusEpMonasteriensis, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1672,6 +1932,8 @@
         {
             "idEnte": "Nicola_comune",
             "orgName": "Nicola, comune",
+            "desc": null,
+            "listPerson": "#BenencasaBoneti, #BurgensisBellotti, #BorgensisCapagnano, #CitellusFerrarii, #GerardinusMartini, ",
             "documentoPrimaAttestazione": "CCLXXXXVIII_260",
             "dataDocumentoPrimaAttestazione": "1237-03",
             "numeroOccorrenze": 2,
@@ -1683,6 +1945,8 @@
         {
             "idEnte": "Novara_diocesi",
             "orgName": "Novara, diocesi",
+            "desc": null,
+            "listPerson": "#Bonifacius_Episcopus_Nov, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1691,6 +1955,8 @@
         {
             "idEnte": "Offiano_s_Pietro",
             "orgName": "Offiano, S. Pietro",
+            "desc": "***",
+            "listPerson": "#Vernaciusarc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 4,
@@ -1704,6 +1970,8 @@
         {
             "idEnte": "Ortonovo_comune",
             "orgName": "Ortonovo, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#Albertuscons, #Bernardinuscons, #NigronusBonomi, #HugolinusBoncursi, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1712,6 +1980,8 @@
         {
             "idEnte": "Ostia_Velletri_diocesi",
             "orgName": "Ostia e Velletri, diocesi.",
+            "desc": "",
+            "listPerson": "#UgolinusOstiensiscard, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -1723,6 +1993,8 @@
         {
             "idEnte": "Ostia_diocesi",
             "orgName": "Ostia, diocesi.",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1731,6 +2003,8 @@
         {
             "idEnte": "Padivarma_S_Lorenzo",
             "orgName": "Padivarma, S. Lorenzo",
+            "desc": "Cappella nella pieve di Pignone",
+            "listPerson": "#Andreapres, ",
             "documentoPrimaAttestazione": "CCCCLXXII_434",
             "dataDocumentoPrimaAttestazione": "1218-08-06",
             "numeroOccorrenze": 1,
@@ -1741,6 +2015,8 @@
         {
             "idEnte": "Padule_S_Leonardo",
             "orgName": "Padule, S. Leonardo",
+            "desc": "Ospedale ai piedi del colle di Castelnuovo, tra Luni e Sarzana, nella località\n              detta ancora oggi ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLIIII_316",
             "dataDocumentoPrimaAttestazione": "1151-12-03",
             "numeroOccorrenze": 6,
@@ -1756,6 +2032,8 @@
         {
             "idEnte": "Paghezzana_S_Lorenzo",
             "orgName": "Paghezzana, S. Lorenzo",
+            "desc": "Secondo ",
+            "listPerson": "#GuilielmuspresPeg, ",
             "documentoPrimaAttestazione": "DIIII_465",
             "dataDocumentoPrimaAttestazione": "1211-08-08",
             "numeroOccorrenze": 1,
@@ -1766,6 +2044,8 @@
         {
             "idEnte": "Palestrina_diocesi",
             "orgName": "Palestrina, diocesi",
+            "desc": "",
+            "listPerson": "#Guido_episcopus, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1774,6 +2054,8 @@
         {
             "idEnte": "Parigi_Saint-Denis",
             "orgName": "Paris (Parigi), Saint-Denis",
+            "desc": null,
+            "listPerson": "",
             "documentoPrimaAttestazione": "C23",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 1,
@@ -1784,6 +2066,8 @@
         {
             "idEnte": "Parma_diocesi",
             "orgName": "Parma, diocesi",
+            "desc": "",
+            "listPerson": "#BernardusEpParma, ",
             "documentoPrimaAttestazione": "CLXIII_521",
             "dataDocumentoPrimaAttestazione": "1271-02-22",
             "numeroOccorrenze": 3,
@@ -1796,6 +2080,8 @@
         {
             "idEnte": "Parma_S_Maria",
             "orgName": "Parma, canonica della cattedrale di S. Maria Assunta ",
+            "desc": "Sono elencati i canonici; tra di essi anche i canonici detti di Parma senza\n              specificazione ulteriore.",
+            "listPerson": "#Percivalcan, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1804,6 +2090,8 @@
         {
             "idEnte": "Patrasso_arcidiaconato",
             "orgName": "Patrasso, diocesi e arcidiaconato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1812,6 +2100,8 @@
         {
             "idEnte": "Pavia_diocesi",
             "orgName": "Pavia, diocesi",
+            "desc": "",
+            "listPerson": "#Petrus_episcopus_archicancellarius, #BernardusEpParma, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1820,6 +2110,8 @@
         {
             "idEnte": "Piacenza_comitatus",
             "orgName": "Piacenza, comitato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 1,
@@ -1830,6 +2122,8 @@
         {
             "idEnte": "Piacenza_diocesi",
             "orgName": "Piacenza, diocesi",
+            "desc": "",
+            "listPerson": "#DyonisusepPlacentie, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1838,6 +2132,8 @@
         {
             "idEnte": "Piacenza_S_Antonino",
             "orgName": "Piacenza, chiesa di sant'Antonino",
+            "desc": "Basilica di S. Antonino a Piacenza, attestata già nel IV secolo, ebbe ruolo di\n              cattedrale fino al secolo XI.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XXXVIIII_68",
             "dataDocumentoPrimaAttestazione": "1260-07-30",
             "numeroOccorrenze": 1,
@@ -1848,6 +2144,8 @@
         {
             "idEnte": "Piazza_al_Serchio_S_Pietro",
             "orgName": "Piazza al Serchio, S. Pietro di Castello",
+            "desc": "Pieve di S. Pietrodi Castello, attestata dal 983 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -1860,6 +2158,8 @@
         {
             "idEnte": "Pignone_S_Maria_Assunta",
             "orgName": "Pignone, Santa Maria Assunta",
+            "desc": "Pieve di Pignone intitolata a S. Maria Assunta, attestata per la prima volta nel\n              1148 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -1872,6 +2172,8 @@
         {
             "idEnte": "Pisa_comune",
             "orgName": "Pisa, comune",
+            "desc": "Si elencano i podestà.",
+            "listPerson": "#AlexanderCalvellis, ",
             "documentoPrimaAttestazione": "CXXXI_148",
             "dataDocumentoPrimaAttestazione": "1140-02",
             "numeroOccorrenze": 8,
@@ -1889,6 +2191,8 @@
         {
             "idEnte": "Pisa_diocesi",
             "orgName": "Pisa, diocesi",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLV_517",
             "dataDocumentoPrimaAttestazione": "1238-12-18",
             "numeroOccorrenze": 4,
@@ -1902,6 +2206,8 @@
         {
             "idEnte": "Pisa_S_Croce_FoceArno",
             "orgName": "Pisa, S. Croce alla Foce dell'Arno",
+            "desc": "Ospedale e monastero cistercense presso Pisa (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLXI_323",
             "dataDocumentoPrimaAttestazione": "1189-03-20",
             "numeroOccorrenze": 5,
@@ -1916,6 +2222,8 @@
         {
             "idEnte": "Pisa_S_Maria",
             "orgName": "Pisa, capitolo della cattedrale di S. Maria\n              Assunta.",
+            "desc": "Si elencano anche i canonici detti di Pisa senza ulteriore specificazione.",
+            "listPerson": "#Grassus_canonicus_Pisa, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -1924,6 +2232,8 @@
         {
             "idEnte": "Pisa_S_Martino_Guatolongo",
             "orgName": "Pisa, S. Martino in Guatolongo",
+            "desc": "S. Martino in Guassolongo o in Chinzia, chiesa urbana di Pisa attetsta dal 1066\n                (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLIII_515",
             "dataDocumentoPrimaAttestazione": "1241-10-21",
             "numeroOccorrenze": 1,
@@ -1934,6 +2244,8 @@
         {
             "idEnte": "Pisa_S_Michele_Orticaria",
             "orgName": "Pisa, S. Michele degli Scalzi",
+            "desc": "Monasetro di S. Michele in Orticaria o degli Scalzi (",
+            "listPerson": "#Benedictus_frater, #Benettus_monacus, #Conradus_primicerius, #Iacopus_abbas2, #Luca_monacus, ",
             "documentoPrimaAttestazione": "DXXXXI_502",
             "dataDocumentoPrimaAttestazione": "1186-11-12",
             "numeroOccorrenze": 10,
@@ -1953,6 +2265,8 @@
         {
             "idEnte": "Pisa_S_Paolo_Orto",
             "orgName": "Pisa, S. Paolo all'Orto",
+            "desc": "Chiesa di S. Paolo all'Orto a Pisa, attestata per la prima volta nel 1086 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXLVII_509",
             "dataDocumentoPrimaAttestazione": "1239-06-29",
             "numeroOccorrenze": 1,
@@ -1963,6 +2277,8 @@
         {
             "idEnte": "Pisa_S_Paolo_RipaArno",
             "orgName": "Pisa, S. Paolo a Ripa d'Arno",
+            "desc": "Chiesa, monastero e ospedale a Pisa (",
+            "listPerson": "#Paulusfrater, ",
             "documentoPrimaAttestazione": "LVIII_85",
             "dataDocumentoPrimaAttestazione": "1254-07-29",
             "numeroOccorrenze": 1,
@@ -1973,6 +2289,8 @@
         {
             "idEnte": "Pisa_S_Sebastiano_Fabbriche",
             "orgName": "Pisa, S. Sebastiano alle Fabbriche Maggiori",
+            "desc": "chiesa pisana, attestata dal 1074, si trovava nell'attuale piazza dei Cavalieri\n                (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCXXXV_196",
             "dataDocumentoPrimaAttestazione": "1270-05-24",
             "numeroOccorrenze": 1,
@@ -1983,6 +2301,8 @@
         {
             "idEnte": "Pisa_S_Sisto",
             "orgName": "Pisa, S. Sisto",
+            "desc": "S. Sisto in Cortevecchia, chiesa di Pisa costruita nel 1087 (",
+            "listPerson": "#Ildebrandus_canonicus_Pisa, ",
             "documentoPrimaAttestazione": "DXLV_507",
             "dataDocumentoPrimaAttestazione": "1239-04-05",
             "numeroOccorrenze": 3,
@@ -1995,6 +2315,8 @@
         {
             "idEnte": "Pistoia_S_Zeno",
             "orgName": "Pistoia, canonica della cattedrale di S.\n              Zeno",
+            "desc": "Si elencano anche i canonici detti di Pistoia senza uteriore\n              specidicazione.",
+            "listPerson": "#Iacopus_canonicus_Pistorie, ",
             "documentoPrimaAttestazione": "DXLV_507",
             "dataDocumentoPrimaAttestazione": "1239-04-05",
             "numeroOccorrenze": 1,
@@ -2005,6 +2327,8 @@
         {
             "idEnte": "Pontetetto_S_Maria",
             "orgName": "Pontetteto, S. Maria",
+            "desc": "Ospedale suburbano di Lucca. Si veda ",
+            "listPerson": "#Hengeramusrec, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -2013,6 +2337,8 @@
         {
             "idEnte": "Pontremoli_comune",
             "orgName": "Pontremoli, comune",
+            "desc": "Si elencano i podestà.",
+            "listPerson": "#AlbertusMalnepote, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -2021,6 +2347,8 @@
         {
             "idEnte": "Pontremoli_S_Alessandro",
             "orgName": "Pontremoli, S. Alessandro",
+            "desc": "Ora intitolata anche a S. Niccolò, la chiesa di S. Alessandro dipendeva dal\n              monastero di Aulla; poi passò verso il 1202 al vescovo di Luni e fu messa alle\n              dipendenze della pieve di Saliceto (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXXVIII_499",
             "dataDocumentoPrimaAttestazione": "1202-04-30",
             "numeroOccorrenze": 5,
@@ -2035,6 +2363,8 @@
         {
             "idEnte": "Pontremoli_S_Colombano",
             "orgName": "Pontremoli, S. Colombano",
+            "desc": "Chiesa di S. Colombano di Pontremoli (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -2045,6 +2375,8 @@
         {
             "idEnte": "Ponzanello_comune",
             "orgName": "Ponzanello, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#AidansGondeti, #AmicusGerardini, #AmicusMeliorati, #FerretusPonz, #FolbertusPonz, #GuidobonusPon, #IohannesBonuscons, #OctonellusFloberti, #Savarisius, #UgolinusVenuti, #Vivalduscon, ",
             "documentoPrimaAttestazione": "CXLII_160",
             "dataDocumentoPrimaAttestazione": "1259-08-17",
             "numeroOccorrenze": 3,
@@ -2057,6 +2389,8 @@
         {
             "idEnte": "Ponzanello_S_Martino",
             "orgName": "Ponzanello, S. Martino",
+            "desc": "Cappella attestata per la prima volta nel ",
+            "listPerson": "#Bonavitapre, #GuidopresPon, #Ugopres, ",
             "documentoPrimaAttestazione": "CXLIII_161",
             "dataDocumentoPrimaAttestazione": "1201-06-08",
             "numeroOccorrenze": 23,
@@ -2089,6 +2423,8 @@
         {
             "idEnte": "Porto_S_Giuliana",
             "orgName": "Santa Giuliana, chiesa presso la corte di Porto.",
+            "desc": "Località non identificata (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XVIII_47",
             "dataDocumentoPrimaAttestazione": "0963-05-19",
             "numeroOccorrenze": 1,
@@ -2099,6 +2435,8 @@
         {
             "idEnte": "Porto_Silva_Candida_diocesi",
             "orgName": "Porto e Santa Rufina (Silva Candida), diocesi",
+            "desc": "Si veda anche ",
+            "listPerson": "#Petrus_episcopus, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -2110,6 +2448,8 @@
         {
             "idEnte": "Portovenere_S_Pietro",
             "orgName": "Portovenere, san Pietro.",
+            "desc": "Chiesa di S. Pietro a Portovenere, artchitettura romanica, conserva resti di un\n              edificio anteriore; prima attestazione documentaria 1148.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -2122,6 +2462,8 @@
         {
             "idEnte": "Pognana_s_Maria",
             "orgName": "Pognana, S. Maria.",
+            "desc": "Chiesa di Santa Maria Assunta di Pognana nel comune di Fivizzano, citata per la\n              prima volta nel 1148 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -2134,6 +2476,8 @@
         {
             "idEnte": "Pulica_comune",
             "orgName": "Pulica, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#BonaiunctaPul, #VenturaPul, ",
             "documentoPrimaAttestazione": "CXII_129",
             "dataDocumentoPrimaAttestazione": "1236-08-26",
             "numeroOccorrenze": 3,
@@ -2146,6 +2490,8 @@
         {
             "idEnte": "Pulsano_S_Maria",
             "orgName": "Pulsano sul Gargano, Santa Maria",
+            "desc": "Abbazia S. Maria di Pulsano fondata nel VI secolo.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLVbis_518",
             "dataDocumentoPrimaAttestazione": "1237-03-05",
             "numeroOccorrenze": 1,
@@ -2156,6 +2502,8 @@
         {
             "idEnte": "Ravenna_diocesi",
             "orgName": "Ravenna, diocesi",
+            "desc": "",
+            "listPerson": "#BonefaciusEpRavenna, #FiliasiusRoverelle, ",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -2166,6 +2514,8 @@
         {
             "idEnte": "Reggio_diocesi",
             "orgName": "Reggio Emila, diocesi",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -2176,6 +2526,8 @@
         {
             "idEnte": "Reggio_S_Maria_canonica",
             "orgName": "Reggio Emila, S. Maria Assunta",
+            "desc": "Cattedrale di Santa Maria Assunta di Reggio Emilia e canonica.",
+            "listPerson": "#Bernardus_canonicus, #PetrusFesso, #Philippus_canonicus, ",
             "documentoPrimaAttestazione": "DXLIIIIbis_506",
             "dataDocumentoPrimaAttestazione": "1237-06-12",
             "numeroOccorrenze": 4,
@@ -2189,6 +2541,8 @@
         {
             "idEnte": "Regnano_S_Margherita",
             "orgName": "Regnano, S. Margherita",
+            "desc": "Chiesa di S. Margherita a Regnano, dipendente dalla pieva di Offiano (",
+            "listPerson": "#GuilielmusRegnano_presbyter, #GuilielmusRolandini_pres, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -2197,6 +2551,8 @@
         {
             "idEnte": "Roccalberti_S_Stefano",
             "orgName": "Roccalberti, S. Stefano",
+            "desc": "S. Stefano di Roccalberti (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -2207,6 +2563,8 @@
         {
             "idEnte": "Roggiano_S_Maria",
             "orgName": "Roggiano, S. Maria ",
+            "desc": "Pieve di S. Maria e S. Marco di Roggiano, ora comune di Sesta Godano, nominata per\n              la prima volta nel 1148 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -2219,6 +2577,8 @@
         {
             "idEnte": "Roma_curia_Romana",
             "orgName": "Roma, curia, camera pontificia",
+            "desc": "Complesso di organi e autorità che costituiscono l'apparato amministrativo della\n              Santa Sede. Dall'inizio del pontificato di Innocenzo III fino alla morte di Benedetto\n              XI (1198-1304) Viterbo fu una delle sedi provilegiate (",
+            "listPerson": "#Albertus_cardinalis, #AlexanderpontifexIII, #AlexanderpontifexIV, #Anastasius_pontifexIV, #BonifaciusVIII_pontifex, #ClemenspontifexIV, #EugeniuspontifexIII, #GreoriuspontifexIX, #GreoriuspontifexX, #Guido_cancellarius, #Honorius_pontifexIII, #InnocentiuspontifexII, #InnocentiuspontifexIII, #InnocentiuspontifexIV, #InnocentiuspontifexV, #InnocentiuspontifexVIII, #IohannespontifexXXI, #Lucius_pontifex_III, #Rolandus_cancellarius, #Urbanus_pontifex_III, ",
             "documentoPrimaAttestazione": "C11",
             "dataDocumentoPrimaAttestazione": "1273-04-25",
             "numeroOccorrenze": 5,
@@ -2233,6 +2593,8 @@
         {
             "idEnte": "Roma_S_Adriano_Foro",
             "orgName": "Roma, S. Adriano in Foro",
+            "desc": "Chiesa costruita nell'area del Foro a Roma, nella sede della Curia Iulia, nel 680,\n              oggi sconsacrata; titolo cardinalizio (cardinale diacono) oggi soppresso (",
+            "listPerson": "#Gerardus_cardinalis, #Ottobonuscard, #Raynerius_cardinalis, #Stephanus_cardinalis, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 9,
@@ -2251,6 +2613,8 @@
         {
             "idEnte": "Roma_S_Angelo_Pescheria",
             "orgName": "Roma, Sant'Angelo in Pescheria",
+            "desc": "Sant'Angelo in Pescheria a Roma, chiesa con titolo cardinalizio (cardinale\n              presbitero), il titolo fu eretto dato da papa Stefano II nel 755 con il nome di San\n              Paolo Apostolo; nome cambiato nell'806 in ",
+            "listPerson": "#Gregorius_cardinalis3, #Gregorius_cardinalis7, #Iohannes_cardinalis4, #Romanus_cardinalis, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 6,
@@ -2266,6 +2630,8 @@
         {
             "idEnte": "Roma_S_Anastasia",
             "orgName": "Roma, Sant'Anastasia",
+            "desc": "La chiesa di Sant'Anastasia a Roma, ai piedi del Palatino, con titolo cardinalizio\n              (cardinale presbitero) di antica origine, già attestato nel V secolo (",
+            "listPerson": "#Aribertus_cardinalis, #Gregorius_cardinalis4, #Iohannes_cardinalis2, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 3,
@@ -2278,6 +2644,8 @@
         {
             "idEnte": "Roma_S_Cecilia_Trastevere",
             "orgName": "Roma, S. Cecilia in Trastevere",
+            "desc": "Basilica di Santa Cecilia in Trastevere, a Roma, con titolo cardinalizio\n              (cardinale presbitero) dal IV secolo. Si veda ",
+            "listPerson": "#Cintheus_cardinalis, #Petrus_cardinalis6, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 4,
@@ -2291,6 +2659,8 @@
         {
             "idEnte": "Roma_S_Clemente_Laterano",
             "orgName": "Roma, S. Clemente in Laterano",
+            "desc": " Basilica di San Clemente in Laterano, a Roma, con titolo cardinalizio (cardinale\n              presbitero) menzionato per la prima volta da san Gerolamo nel IV secolo. Si veda ",
+            "listPerson": "#Bernardus_cardinalis2, #Iohannes_presbyter, #Hugo_cardinalis3, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 4,
@@ -2304,6 +2674,8 @@
         {
             "idEnte": "Roma_SS_Cosma_Damiano",
             "orgName": "Roma, SS. Cosma e Damiano",
+            "desc": "Basilica dei Santi Cosma e Damiano, a Roma, titolo cardinalizio (cardinale\n              diacono) attribuito al papa Adriano I (",
+            "listPerson": "#Gratianus_cardinalis, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 4,
@@ -2317,6 +2689,8 @@
         {
             "idEnte": "Roma_S_Crisogono",
             "orgName": "Roma, S. Crisogono",
+            "desc": " Chiesa di S. Crisogono a Toma, titolo cardinalizio (cardinale presbitero)\n              menzionato nel V secolo (",
+            "listPerson": "#Petrus_cardinalis3, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 1,
@@ -2327,6 +2701,8 @@
         {
             "idEnte": "Roma_S_Croce",
             "orgName": "Roma, S. Croce in Gerusalemme",
+            "desc": " Chiesa di S. Croce in Gerusalemme, titolo cardinalizio (cardinale presbitero)\n              istituito da Gregorio Magno (",
+            "listPerson": "#Arduinus_cardinalis, #Leo_cardinalis, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 2,
@@ -2338,6 +2714,8 @@
         {
             "idEnte": "Roma_S_Eusebio_Esquilino",
             "orgName": "Roma, S. Eusebio all'Esquilino",
+            "desc": "Chiesa di S. Eusebio a Roma con titolo cardinalizio (cardinale presbitero)\n              attestato dalla fine del V secolo, detta nel codice ",
+            "listPerson": "#Iohannes_magister, ",
             "documentoPrimaAttestazione": "DLIII_515",
             "dataDocumentoPrimaAttestazione": "1241-10-21",
             "numeroOccorrenze": 1,
@@ -2348,6 +2726,8 @@
         {
             "idEnte": "Roma_S_Eustachio",
             "orgName": "Roma, S. Eustachio",
+            "desc": "Chiesa di Sant'Eustachio ",
+            "listPerson": "#Aldebrandinus_cardinalis, Hugo_cardinalis2, ",
             "documentoPrimaAttestazione": "III_32",
             "dataDocumentoPrimaAttestazione": "1203-03-07",
             "numeroOccorrenze": 2,
@@ -2359,6 +2739,8 @@
         {
             "idEnte": "Roma_S_Giorgio_Velabro",
             "orgName": "Roma, S. Giorgio al Velabro",
+            "desc": "Chiesa di San Giorgio al Velabro a Roma; titolo cardinalizio (cardinale diacono)\n              dal secolo VI. (",
+            "listPerson": "#Gregorius_cardinalis2, #Odo_cardinalis, #Rainerius_cardinalis2, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 5,
@@ -2373,6 +2755,8 @@
         {
             "idEnte": "Roma_S_Giovanni_Paolo",
             "orgName": "Roma, Santi Giovanni e Paolo titulus\n              Pammachii",
+            "desc": "Basilica dei Santi Giovanni e Paolo a Roma sul monte Celio, titolo cardinalizio\n              (cardinale presbitero) istituito verso la fine del V secolo (",
+            "listPerson": "#Iohannes_cardinalis1, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -2384,6 +2768,8 @@
         {
             "idEnte": "Roma_S_Giovanni_Laterano",
             "orgName": "Roma, S. Giovanni in Laterano",
+            "desc": "Basilica e cattedrale della diocesi di Roma. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCLXXXXII_453",
             "dataDocumentoPrimaAttestazione": "1217-07-26",
             "numeroOccorrenze": 1,
@@ -2394,6 +2780,8 @@
         {
             "idEnte": "Roma_S_Lorenzo_Lucina",
             "orgName": "Roma, San Lorenzo in Lucina",
+            "desc": "Chiesa di S. Lorenzo in Lucina, sorta in età tardo antica; titolo cardinalizio\n              (cardinale presbitero) attestato dal VII secolo (",
+            "listPerson": "#Cinthus_cardinalis, ",
             "documentoPrimaAttestazione": "III_32",
             "dataDocumentoPrimaAttestazione": "1203-03-07",
             "numeroOccorrenze": 2,
@@ -2405,6 +2793,8 @@
         {
             "idEnte": "Roma_S_Lorenzo_Damaso",
             "orgName": "Roma, S. Lorenzo in Damaso",
+            "desc": "Chiesa di S. Lorenzo in Damaso, probabilmente edificata poresso le rovine del\n              teatro di Pompeo da papa Damaso. titolo cardinalizio (cardinale presbitero) dal sinodo\n              di Simmaco (499) (",
+            "listPerson": "#Guido_cardinalis4, #Petrus_cardinalis4, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -2416,6 +2806,8 @@
         {
             "idEnte": "Roma_S_Lucia_Orphea",
             "orgName": "Roma, Santa Lucia in Silice",
+            "desc": "Santa Lucia in Silice o in Orphea a Roma, titolo cardinalizio (cardinale diacono)\n              dal secolo V (",
+            "listPerson": "#Centius_cardinalis, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -2427,6 +2819,8 @@
         {
             "idEnte": "Roma_S_Lucia_Septisolio",
             "orgName": "Roma, Santa Lucia in Septisolio",
+            "desc": "Santa Lucia in Septisolio a Roma, costruita tra il circo Massimo ed il Settizonio,\n              titolo cardinalizio (cardinale diacono), soppressa nel 1587 (",
+            "listPerson": "#Rodulfus_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -2437,6 +2831,8 @@
         {
             "idEnte": "Roma_S_Marcello",
             "orgName": "Roma, S. Marcello al Corso",
+            "desc": " Chiesa di S. Marcello a Roma, titolo cardinalizio (cardinale presbitero) dal V\n              secolo ( ",
+            "listPerson": "#Matheus_cardinalis2, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -2448,6 +2844,8 @@
         {
             "idEnte": "Roma_S_Marco",
             "orgName": "Roma, S. Marco",
+            "desc": "Chiesa di S. Marcello a Roma, titolo cardinalizio (cardinale presbitero) dal V\n              secolo (",
+            "listPerson": "#Guifredus_cardinalis, #Iohannes_cardinalis3, #IohannesAnagninus, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 2,
@@ -2459,6 +2857,8 @@
         {
             "idEnte": "Roma_S_Maria_Aquiro",
             "orgName": "S. Maria in Aquiro",
+            "desc": "Santa Maria in Aquiro a Roma, titolo cardinalizio (cardinale diacono) dal VII\n              secolo (",
+            "listPerson": "#Gregorius_cardinalis, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -2470,6 +2870,8 @@
         {
             "idEnte": "Roma_S_Maria_Cosmedin",
             "orgName": "Roma, S. Maria in Cosmedin",
+            "desc": "Santa Maria in Cosmedin a Roma, diaconia dall'inizio del VII secolo (",
+            "listPerson": "#Nicholaus_cardinalis, #Raynerius_cardinalis3, #Sadiac_cardinalis, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 4,
@@ -2483,6 +2885,8 @@
         {
             "idEnte": "Roma_S_Maria_Nuova",
             "orgName": "S. Maria Nuova",
+            "desc": "Santa Maria Nuova a Roma, oggi comunemente chimata S. Francesca romana,\n              ricostruita da papa Leone IV in sostituzione di quella di Santa Maria Antiqua\n              (esistente dall'VIII secolo). Soppressa nel 1661 da papa Alessandro VII. Nel 1887\n              riammesso il titolo come titolo presbiterale di Santa Maria Nuova (",
+            "listPerson": "#Matheus_cardinalis1, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -2494,6 +2898,8 @@
         {
             "idEnte": "Roma_S_Maria_in_Portico_Octaviae",
             "orgName": "Roma, S. Maria in Portico Octaviae",
+            "desc": "chiesa di Santa Maria in Porticu Octaviae, diaconia eretta intorno al 590 da papa\n              Gregorio I; nel 1662 Alessandro VII soppresse il titolo e lo trasferì a Santa Maria in\n              Portico Campitelli (",
+            "listPerson": "#Guido_cardinalis3, #Laborans_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 2,
@@ -2505,6 +2911,8 @@
         {
             "idEnte": "Roma_S_Maria_Trastevere",
             "orgName": "Roma, S. Maria in Trastevere",
+            "desc": "Chiesa di S. Maria in Trastevere, titolo cardinalizio (cardinale presbitero) detto\n              anche di Giulio e Callisto (",
+            "listPerson": "#Gregorius_cardinalis8, #Guido_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 2,
@@ -2516,6 +2924,8 @@
         {
             "idEnte": "Roma_S_Maria_ViaLata",
             "orgName": "Roma, S. Maria in Via Lata",
+            "desc": "Chiesa di Santa Maria in Via Lata a Roma, diaconia palatina (cardinale diacono).\n                (",
+            "listPerson": "#Petrus_cardinalis, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -2527,6 +2937,8 @@
         {
             "idEnte": "Roma_SS_Nereo_Achilleo",
             "orgName": "Roma, SS. Nereo e Achilleo",
+            "desc": "Titolo cardinalizio (cardinale presbitero) detto di Fasciola, attestato nel V\n              secolo (",
+            "listPerson": "#Henricus_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -2537,6 +2949,8 @@
         {
             "idEnte": "Roma_S_Nicola_Carcere",
             "orgName": "Roma, S. Nicola in Carcere",
+            "desc": "Chiesa di San Nicola in Carcere a roma (detta in Carcere Tulliano), diaconia\n              (cardinale diacono) (",
+            "listPerson": "#Bernardus_cardinalis, #Guido_cardinalis2, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -2549,6 +2963,8 @@
         {
             "idEnte": "Roma_S_Pietro",
             "orgName": "Roma, S. Pietro",
+            "desc": "Basilica di San Pietro in Vaticano.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
             "numeroOccorrenze": 1,
@@ -2559,6 +2975,8 @@
         {
             "idEnte": "Roma_S_Prassede",
             "orgName": "Roma, S. Prassede",
+            "desc": "Basilica di Santa Prassede a Roma, titolo cardinalizio (cardinale presbitero)\n              attestato dal V secolo (",
+            "listPerson": "#Iohannes_cardinalis5, #Soffredus_presbyter, #Hubaldus_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 4,
@@ -2572,6 +2990,8 @@
         {
             "idEnte": "Roma_S_Prisca",
             "orgName": "Roma, S. Prisca",
+            "desc": "Chiesa di S. Prisca a Roma, titolo cardinalizio (cardinale presbitero) dal V\n              secolo (",
+            "listPerson": "#Iohannes_cardinalis6, ",
             "documentoPrimaAttestazione": "III_32",
             "dataDocumentoPrimaAttestazione": "1203-03-07",
             "numeroOccorrenze": 1,
@@ -2582,6 +3002,8 @@
         {
             "idEnte": "Roma_S_Pudenziana",
             "orgName": "Roma, S. Pudenziana ",
+            "desc": "Basilica di Santa Pudenziana a Roma con titolo cardinalizio (cardinale presbitero)\n              dal IV secolo (",
+            "listPerson": "#Iordanus_presbyter, #Petrus_cardinalis5, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 4,
@@ -2595,6 +3017,8 @@
         {
             "idEnte": "Roma_S_Sabina",
             "orgName": "Roma, S. Sabina ",
+            "desc": "Chiesa di S. Sabina a Roma, titolo cardinalizio (cardinale presbitero) dal V\n              secolo (",
+            "listPerson": "#Manfredus_cardinalis, #Thomas_cardinalis, ",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 2,
@@ -2606,6 +3030,8 @@
         {
             "idEnte": "Roma_SS_Sergio_Bacco",
             "orgName": "Roma, SS. Sergio e Bacco",
+            "desc": "Chiesa dei santi Sergio e Bacco al Foro Romano oggi scomparsa; diaconia\n              (cardibnale diacono) dalla fine del VII secolo ( ",
+            "listPerson": "#Octavianus_cardinalis, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -2617,6 +3043,8 @@
         {
             "idEnte": "Roma_SS_Silvestro_Martino",
             "orgName": "Roma, SS. Silvestro e Martino ai Monti",
+            "desc": ".Basilica dei Santi Silvestro e Martino ai Monti a Roma, dotata di titolo\n              cardinalizio, anticamente conosciuto come ",
+            "listPerson": "#Hugo_cardinalis, #Hugo_presbyter, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 3,
@@ -2629,6 +3057,8 @@
         {
             "idEnte": "Roma_S_Stefano_Celio",
             "orgName": "Roma, S. Stefano Rotondo",
+            "desc": "Basilica di Santo Stefano Rotondo al Celio, Roma, dotata di titolo cardinalizio\n              almeno dal V secolo (",
+            "listPerson": "#Iohannes_presbyter2, #Robertus_cardinalis, ",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 3,
@@ -2641,6 +3071,8 @@
         {
             "idEnte": "Roma_S_Susanna",
             "orgName": "Roma, S. Susanna",
+            "desc": "Chiesa di Santa Susanna, tutolo cardinalizio (cardinale presbitero) dal V secolo.\n                (",
+            "listPerson": "#Benedictus_cardinalis, #Petrus_cardinalis2, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 2,
@@ -2652,6 +3084,8 @@
         {
             "idEnte": "Roma_S_Teodoro",
             "orgName": "Roma, S. Teodoro",
+            "desc": "Chiesa di S. Teodoro al Palatino, diaconia (cardinale diacono) eretta da papa\n              Agatone intorno al 678. Soppressa nel 1587, ripristinata nel 1959, spppressa\n              nuovamente nel 2004 quando la chiesa fu donata alla Chiesa ortodossa (",
+            "listPerson": "#Arditio_cardinalis, #Gregorius_cardinalis5, #Matheus_cardinalis3, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 3,
@@ -2664,6 +3098,8 @@
         {
             "idEnte": "Roma_S_Vitale",
             "orgName": "Roma, S. Vitale",
+            "desc": " Chiesa e titolo di S. Vitale attestato dal VI secolo, ora titolo cardinalizio dei\n              Santi Vitale, Valeria, Gervasio e Protasio in Vestina (",
+            "listPerson": "#Gregorius_cardinalis6, #Teodinus_cardinalis, ",
             "documentoPrimaAttestazione": "XVI_45",
             "dataDocumentoPrimaAttestazione": "1179-04-25",
             "numeroOccorrenze": 2,
@@ -2675,6 +3111,8 @@
         {
             "idEnte": "Rubiera_S_Faustino_Giovita",
             "orgName": "Rubiera (Erberia/Herberia), S. Faustino e\n              Giovita",
+            "desc": "Pieve di San Faustino e Giovita a Rubiera (Reggio Emilia), citata come cappella\n              nel X secolo e come pieve nel 1186 (",
+            "listPerson": "#PetrusFesso, ",
             "documentoPrimaAttestazione": "DLII_514",
             "dataDocumentoPrimaAttestazione": "1238-02-06",
             "numeroOccorrenze": 1,
@@ -2685,6 +3123,8 @@
         {
             "idEnte": "Sabina_diocesi",
             "orgName": "Sabina, diocesi",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXIII_484",
             "dataDocumentoPrimaAttestazione": "1281-05-06",
             "numeroOccorrenze": 3,
@@ -2697,6 +3137,8 @@
         {
             "idEnte": "Sala_S_Giorgio",
             "orgName": "Sala, S. Giorgio",
+            "desc": "Cappella della pieve di S. Pietro di Castello (Piazza al Serchio). Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -2707,6 +3149,8 @@
         {
             "idEnte": "S_Andrea_Vetere",
             "orgName": "S. Andrea Vetere",
+            "desc": "La chiesa di Sant'Andrea \"vecchia\", per Elio Gentili da identificarsi con l'antica\n              pieve di S. Andrea, si trovava in località Monterosso, lungo la strada che collega a\n              valle Sarzana a Santo Stefano Magra. (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XXV_54",
             "dataDocumentoPrimaAttestazione": "1199-06-29",
             "numeroOccorrenze": 1,
@@ -2717,6 +3161,8 @@
         {
             "idEnte": "S_Colombano",
             "orgName": "S. Colombano",
+            "desc": "Intitolazione che può essere attribuita a diversi enti religiosi tra cui la chiesa\n              del monastero di Brugnato; probabile il riferimento alla cappella di S. Colombano di\n              Pontremoli. Si veda ",
+            "listPerson": "#Peregrinus_syndicus, ",
             "documentoPrimaAttestazione": "DXXXVI_497",
             "dataDocumentoPrimaAttestazione": "1211-12-19",
             "numeroOccorrenze": 1,
@@ -2727,6 +3173,8 @@
         {
             "idEnte": "S_Iacopo",
             "orgName": "S. Iacopo",
+            "desc": "Ente religioso non identificato.",
+            "listPerson": "#Henricus_canonicus, ",
             "documentoPrimaAttestazione": "DXLIII_504",
             "dataDocumentoPrimaAttestazione": "1237-06-12",
             "numeroOccorrenze": 1,
@@ -2737,6 +3185,8 @@
         {
             "idEnte": "S_Michele",
             "orgName": "S. Michele",
+            "desc": "Ente religioso non identificato.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXLIII_504",
             "dataDocumentoPrimaAttestazione": "1237-06-12",
             "numeroOccorrenze": 2,
@@ -2748,6 +3198,8 @@
         {
             "idEnte": "S_Pietro",
             "orgName": "S. Pietro",
+            "desc": "Ente religioso non identificato, forse S. Pietro di Luni.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCXXI_182",
             "dataDocumentoPrimaAttestazione": "1021-01",
             "numeroOccorrenze": 2,
@@ -2759,6 +3211,8 @@
         {
             "idEnte": "S_Sila",
             "orgName": "S. Sila",
+            "desc": "Ente religioso non identificato.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCLXXIIII_336",
             "dataDocumentoPrimaAttestazione": "1197-05-13",
             "numeroOccorrenze": 1,
@@ -2769,6 +3223,8 @@
         {
             "idEnte": "S_Stefano_Magra",
             "orgName": "S. Stefano a Santo Stefano Magra",
+            "desc": "Attestata la prima volta nel diploma di Ottone II del 981, citata nelle bolle\n              pontificie del XII secolo come Santo Stefano ",
+            "listPerson": "#GerardusclerSS, #GuidoarchSS, #Iacopuscan, #Ughitiusarc, ",
             "documentoPrimaAttestazione": "XVIIII_48",
             "dataDocumentoPrimaAttestazione": "0981-07-18",
             "numeroOccorrenze": 17,
@@ -2795,6 +3251,8 @@
         {
             "idEnte": "S_Stefano_Magra_comune",
             "orgName": "Santo Stefano (Magra), comune",
+            "desc": "Si elencano i consoli e i rettori.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCV_366",
             "dataDocumentoPrimaAttestazione": "1257-04-10",
             "numeroOccorrenze": 2,
@@ -2806,6 +3264,8 @@
         {
             "idEnte": "S_Terenzo_comune",
             "orgName": "San Terenzo al Bardine, comune",
+            "desc": "Si elencano i consoli.",
+            "listPerson": "#AldebrandusBrici, #AldeprandusColdesorbo, #IacopinusAlbertini, ",
             "documentoPrimaAttestazione": "CXXXVIIII_156",
             "dataDocumentoPrimaAttestazione": "1260-04-21",
             "numeroOccorrenze": 3,
@@ -2818,6 +3278,8 @@
         {
             "idEnte": "S_Terenzo_ecclesia",
             "orgName": "S. Terenzo",
+            "desc": "Chiesa di S. Terenzo nella località di San Terenzo Monti o al Bardine, nel comune\n              di Fivizzano. attestata con certezza nel 981 (",
+            "listPerson": "#Dutius, #Iacopuspresb, #RollanduspresTer, ",
             "documentoPrimaAttestazione": "CXXXVIIII_156",
             "dataDocumentoPrimaAttestazione": "1260-04-21",
             "numeroOccorrenze": 2,
@@ -2829,6 +3291,8 @@
         {
             "idEnte": "S_Vitale",
             "orgName": "S. Vitale",
+            "desc": "Ente religioso non identificato, forse pieve di S. Vitale presso Massa.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCXLII_304",
             "dataDocumentoPrimaAttestazione": "1232-10-26",
             "numeroOccorrenze": 1,
@@ -2839,6 +3303,8 @@
         {
             "idEnte": "SanGimignano_S_Maria_Assunta",
             "orgName": "San Gimignano, S. Maria Assunta",
+            "desc": " basilica di Santa Maria Assunta, a San Gimignano, oggi nell'arcidiocesi di\n              Siena-Colle di Val d'Elsa-Montalcino, nel XIII secolo pieve della diocesi di Volterra\n                (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DLV_517",
             "dataDocumentoPrimaAttestazione": "1238-12-18",
             "numeroOccorrenze": 7,
@@ -2855,6 +3321,8 @@
         {
             "idEnte": "Sarzana_comune",
             "orgName": "Sarzana, comune",
+            "desc": "Si elencano consoli e podestà.",
+            "listPerson": "#Aldeprandusvic2, #AttolinusCacti, #Aquilante_potestas, #Bastardus_consul, #BononcontrusMelia, #BonencontrusSarzana, #BonencontrusSarzanacons, #Bonrognosus_con, #Bottonis_consul, #Bollione_consul, #Carentius_consul, #Caruncius_consul, #GerardusIusfredo, #GibertinusMabilia, #GidinusSymoneti, #Gidormus, #Guido_potestas, #GuidoHubaldipod, #GuidoViviano_potestas, #GuilielmusPodio, #IacopusCorviaco, #Lealiscons, #Marabotinus_potestas, #MontonariusParisii, #Petrus_potestas, #RayneriusRussi, #RanutiusLiene, #RollandusSalomone, #SygeriusSassecta, #Tepertus_potestas, #UbaldusCustor, #UbertusCatrengnella, ",
             "documentoPrimaAttestazione": "LXI_88",
             "dataDocumentoPrimaAttestazione": "1170-08",
             "numeroOccorrenze": 30,
@@ -2894,6 +3362,8 @@
         {
             "idEnte": "Sarzana_S_Andrea",
             "orgName": "Sarzana, S. Andrea",
+            "desc": "Chiesa attestata con certezza la prima volta il 3 giugno 1137 (",
+            "listPerson": "#Raimundus_arch, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 14,
@@ -2917,6 +3387,8 @@
         {
             "idEnte": "Sarzana_S_Francesco",
             "orgName": "Sarzana, S. Francesco",
+            "desc": "Chiesa e convento di S. Francesco dei Frati Minori di Sarzana. (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "LXXXIII_100",
             "dataDocumentoPrimaAttestazione": "1238-06-30",
             "numeroOccorrenze": 6,
@@ -2932,6 +3404,8 @@
         {
             "idEnte": "Sarzana_SS_Maria_Basilio",
             "orgName": "Sarzana, SS. Maria e Basilio",
+            "desc": "Chiesa cattedrale e pieve attestata per la prima volta nella bolla di Eugenio III\n              del 1148 (con titolazione a S. Maria) e nelle bolle successive. Gli studiosi non sono\n              concordi nello stabilire quando la chiesa avrebbe assunto il ruolo di pieve rispetto\n              alla vicina pieve di S. Andrea di Sarzana. Bibliografia: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 17,
@@ -2958,6 +3432,8 @@
         {
             "idEnte": "Sarzana_S_Bartolomeo",
             "orgName": "Sarzana, S. Bartolomeo",
+            "desc": "Ospedale di S. Bartolomeo di Sarana attestato dal 1189 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "LVIIII_86",
             "dataDocumentoPrimaAttestazione": "1141-01-13",
             "numeroOccorrenze": 3,
@@ -2970,6 +3446,8 @@
         {
             "idEnte": "Sarzana_S_Lazzaro_Silvaricia",
             "orgName": "Sarzana, Silvaricia",
+            "desc": "Ospedale presso Sarzana, nell'odierna località di San Lazzaro, ricordato dal 1228\n              e in diversi testamenti del 1262 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "IX_38",
             "dataDocumentoPrimaAttestazione": "1228-12-11",
             "numeroOccorrenze": 2,
@@ -2981,6 +3459,8 @@
         {
             "idEnte": "Sarzanello_comune",
             "orgName": "Castrum Sarzane (Sarzanello), comune",
+            "desc": "Si elencano i consoli",
+            "listPerson": "#CodadorgiusBiancheti, #Cursus, #CursusAlberti, #PlebanetusAldebertini, ",
             "documentoPrimaAttestazione": "CII_119",
             "dataDocumentoPrimaAttestazione": "1235-03-23",
             "numeroOccorrenze": 3,
@@ -2993,6 +3473,8 @@
         {
             "idEnte": "Sarzanello_S_Martino",
             "orgName": "Castrum Sarzane (Sarzanello), S. Martino",
+            "desc": "Cappella del Capitolo dei Canonici della cattedrale di Sarzana (",
+            "listPerson": "#Albertuscapp, #Bonaiunctapresb, #IacopuspresbcastriSarzane, ",
             "documentoPrimaAttestazione": "DXXXIII_494",
             "dataDocumentoPrimaAttestazione": "1174-02-11",
             "numeroOccorrenze": 6,
@@ -3008,6 +3490,8 @@
         {
             "idEnte": "Sassalbo_S_Michele",
             "orgName": "Sassalbo, S. Michele",
+            "desc": "S. Michele a Sassalbo, nel comune di Fivizzano attestata per la prima volta nel\n              1137 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -3020,6 +3504,8 @@
         {
             "idEnte": "Scongnavarano_ospedale",
             "orgName": "Scongnavarano, ospedale",
+            "desc": "Ospedale, sorgeva presso Ponzano, tra Santo Stefano e Sarzana. È ricordato in un\n              documento del 1198 nel ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCVII_368",
             "dataDocumentoPrimaAttestazione": "1279-07-30",
             "numeroOccorrenze": 1,
@@ -3030,6 +3516,8 @@
         {
             "idEnte": "Serravalle_comune",
             "orgName": "Serravalle, comune",
+            "desc": "Si elencano i podestà.",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXII_483",
             "dataDocumentoPrimaAttestazione": "1279-02-21",
             "numeroOccorrenze": 1,
@@ -3040,6 +3528,8 @@
         {
             "idEnte": "Serravalle_ecclesia",
             "orgName": "Serravalle, chiesa",
+            "desc": "Chiesa di Serravalle, presso Luni. Non si conosce né ubicazione né\n              titolazione",
+            "listPerson": "#Conraduspres, ",
             "documentoPrimaAttestazione": "CCCII_264",
             "dataDocumentoPrimaAttestazione": "1283-09-12",
             "numeroOccorrenze": 1,
@@ -3050,6 +3540,8 @@
         {
             "idEnte": "Sicilia_regno",
             "orgName": "Sicilia, regno di",
+            "desc": null,
+            "listPerson": "#Carolusrex, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3058,6 +3550,8 @@
         {
             "idEnte": "Soissons_canonica",
             "orgName": "Soissons, canonica della cattedrale",
+            "desc": "",
+            "listPerson": "#AndreaGavio, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3066,6 +3560,8 @@
         {
             "idEnte": "Sesto_S_Salvatore",
             "orgName": "Sesto, S. Salvatore",
+            "desc": "Abbazia di S. Salvatore di Sesto (",
+            "listPerson": "#Atto_abbas, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3074,6 +3570,8 @@
         {
             "idEnte": "Soliera_comune",
             "orgName": "Soliera, comune",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCLVIIII_220",
             "dataDocumentoPrimaAttestazione": "1231-09-05",
             "numeroOccorrenze": 2,
@@ -3085,6 +3583,8 @@
         {
             "idEnte": "Soliera_S_Maria",
             "orgName": "Soliera, S. Maria Assunta",
+            "desc": "Chiesa plebana attestata per la prima volta nel ",
+            "listPerson": "#BonfiliusarcSol, #Peregrinusarc, #Petruspres, ",
             "documentoPrimaAttestazione": "CCXXIIII_185",
             "dataDocumentoPrimaAttestazione": "0998-07-26",
             "numeroOccorrenze": 12,
@@ -3106,6 +3606,8 @@
         {
             "idEnte": "Spineta_S_Trinita",
             "orgName": "Spineta, Santissima Trinità",
+            "desc": "Abbazia cistercense fondata nel 1085, oggi nel comune di Sarteano in provincia di\n              Siena (",
+            "listPerson": "#Ventura_abbas, ",
             "documentoPrimaAttestazione": "XL_69",
             "dataDocumentoPrimaAttestazione": "1276-02-14",
             "numeroOccorrenze": 1,
@@ -3116,6 +3618,8 @@
         {
             "idEnte": "Stadano_comune",
             "orgName": "Stadano, comune",
+            "desc": "Si elencano i consoli e i podestà.",
+            "listPerson": "#GibertinusCodeFal, #GuiçolinusMonegelli, ",
             "documentoPrimaAttestazione": "CCCCXXXVII_398",
             "dataDocumentoPrimaAttestazione": "1230-06-20",
             "numeroOccorrenze": 2,
@@ -3127,6 +3631,8 @@
         {
             "idEnte": "Sorano_s_Stefano",
             "orgName": "Sorano, Santo Stefano",
+            "desc": "Pieve di S, Stefano di Sorano poi detta di Filattiera attestata per la prima volta\n              nel 1148 ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3135,6 +3641,8 @@
         {
             "idEnte": "Taranto_principato",
             "orgName": "Taranto, principato",
+            "desc": "",
+            "listPerson": "#Manfrediprinc, ",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3143,6 +3651,8 @@
         {
             "idEnte": "Tivegna_S_Lorenzo",
             "orgName": "Tivegna, S. Lorenzo",
+            "desc": "Cappella dipendente dalla pieve di Sant’Andrea di Montedivalli. (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3151,6 +3661,8 @@
         {
             "idEnte": "Thérouanne_diocesi",
             "orgName": "Thérouanne, diocesi (Morinensis diocesis)",
+            "desc": "La diocesi di Thérouanne (Morinensis diocesis) è attestata dal VII secolo ed è\n              stata soppressa nella seconda metà del XVI secolo. Si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XIIII_43",
             "dataDocumentoPrimaAttestazione": "1273-04-04",
             "numeroOccorrenze": 1,
@@ -3161,6 +3673,8 @@
         {
             "idEnte": "Thérouanne_Sant_Audomaro",
             "orgName": "Thérouanne, chiesa e canonica di Sant'Audomaro o\n              Sant'Omero",
+            "desc": "Chiesa cattedrale della diocesi di Thérouanne (Morinensis diocesis), ruderi\n              visibili nel sito archeologico dell'antica città di Thérouanne. Si veda ",
+            "listPerson": "#HenricusEpLuni, ",
             "documentoPrimaAttestazione": "XIIII_43",
             "dataDocumentoPrimaAttestazione": "1273-04-04",
             "numeroOccorrenze": 1,
@@ -3171,6 +3685,8 @@
         {
             "idEnte": "Tortona_diocesi",
             "orgName": "Tortona, diocesi",
+            "desc": "",
+            "listPerson": "#PetrusFesso, ",
             "documentoPrimaAttestazione": "DLVbis_518",
             "dataDocumentoPrimaAttestazione": "1237-03-05",
             "numeroOccorrenze": 2,
@@ -3182,6 +3698,8 @@
         {
             "idEnte": "Trebiano_comune",
             "orgName": "Trebiano, comune",
+            "desc": "Si elencano i consoli",
+            "listPerson": "#GerardusTrebiano, #ParentinusVallecla, #Romelettuscons, ",
             "documentoPrimaAttestazione": "CCCCLXXXXIII_454",
             "dataDocumentoPrimaAttestazione": "1218-03-24",
             "numeroOccorrenze": 2,
@@ -3193,6 +3711,8 @@
         {
             "idEnte": "Trebiano_S_Michele",
             "orgName": "Trebiano, S. Michele",
+            "desc": "Pieve di Trebiano, attestata per la prima volta dalla bolla di Eugenio III del\n              1148 (",
+            "listPerson": "#Nicholauspres, #Sismundusarc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 5,
@@ -3207,6 +3727,8 @@
         {
             "idEnte": " Riva_Trigoso_ecclesia",
             "orgName": "Riva Trigoso, ecclesia",
+            "desc": "Nominata come ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3215,6 +3737,8 @@
         {
             "idEnte": "Urceola_s_Cassiano",
             "orgName": "Urceola, S. Cassiano e Sant’Ippolito",
+            "desc": "La pieve di San Cassiano e Sant’Ippolito di Urceola, ora nota come pieve di\n              Saliceto, è citata per la prima volta nel 981 (",
+            "listPerson": "#Saradus_archipresbyter, ",
             "documentoPrimaAttestazione": "XVIIII_48",
             "dataDocumentoPrimaAttestazione": "0981-07-18",
             "numeroOccorrenze": 4,
@@ -3228,6 +3752,8 @@
         {
             "idEnte": "Vagli_Sotto_S_Maria",
             "orgName": "Vagli Sotto, S. Maria",
+            "desc": "S. Maria nel castello di Vagli (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -3238,6 +3764,8 @@
         {
             "idEnte": "Vallecchia_cappella",
             "orgName": "Vallecchia, cappella",
+            "desc": "Chiesa di cui non si conosce titolazione né collocazione entro l'abitato di\n              Vallecchia (comune di Castelnuovo Magra, provincia della Spezia).",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -3250,6 +3778,8 @@
         {
             "idEnte": "Vallecchia_cappella2",
             "orgName": "Vallecchia, cappella",
+            "desc": "Chiesa sottoposta alla pieve di S. Stefano di Versilia (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -3261,6 +3791,8 @@
         {
             "idEnte": "Variano_S_Giorgio",
             "orgName": "S. Giorgio, ",
+            "desc": "Per Geo Pistarino (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XVIIII_48",
             "dataDocumentoPrimaAttestazione": "0981-07-18",
             "numeroOccorrenze": 1,
@@ -3271,6 +3803,8 @@
         {
             "idEnte": "Vendaso_S_Paolo",
             "orgName": "Vendaso, S. Paolo",
+            "desc": "Pieve attestata per la prima volta nella bolla di Eugenio III del 1148, si trova\n              anche oggi in posizione isolata nella località ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 6,
@@ -3286,6 +3820,8 @@
         {
             "idEnte": "Venelia_S_Maria",
             "orgName": "Venelia, S. Maria Assunta",
+            "desc": "Pieve di S. Maria Assunta di Venelia attestata per la prima volta nel 998 (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCXXIIII_185",
             "dataDocumentoPrimaAttestazione": "0998-07-26",
             "numeroOccorrenze": 4,
@@ -3299,6 +3835,8 @@
         {
             "idEnte": "Verpiana_S_Vittore",
             "orgName": "Verpiana, S. Vittore",
+            "desc": "Cappella oggi scomparsa, localizzabile alla confluenza del torrente Arcinasso\n              vicino alla confluenza con l'Aulella, dove è il toponimo Chiesaccia (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3307,6 +3845,8 @@
         {
             "idEnte": "Verrucola_s_Margherita",
             "orgName": "Verrucola, S. Margherita in castello",
+            "desc": "Chiesa di S. Margherita della Verrucola de' Bosi, attestata per la prima volta nel\n              1137 (",
+            "listPerson": "#RollanduspresVerr, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -3319,6 +3859,8 @@
         {
             "idEnte": "Versilia_S_Stefano",
             "orgName": "Versilia, S. Stefano",
+            "desc": "Pieve di Santo Stefano di Versilia, detta poi di Corvaia o di Vallecchia,\n              attestata per la prima volta nell'881(",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 3,
@@ -3331,6 +3873,8 @@
         {
             "idEnte": "Viano_S_Martino",
             "orgName": "Viano, S. Martino",
+            "desc": "La pieve di Viano, intitolata a san Martino, è attestata per la prima nel 1140 e\n              poi nelle bolle pontificie di conferma al vescovo di Luni. sorge isolata nel comune di\n              Fivizzano in località ",
+            "listPerson": "#Guilielmusarc, #Saladinusarc, ",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 6,
@@ -3346,6 +3890,8 @@
         {
             "idEnte": "Vico_S_Martino",
             "orgName": "Vico di Castevoli, S. Martino",
+            "desc": "La pieve di S. Martino di Vico attestata per la prima volta nel 998 (",
+            "listPerson": "#Romeuspres, ",
             "documentoPrimaAttestazione": "CCXXIIII_185",
             "dataDocumentoPrimaAttestazione": "0998-07-26",
             "numeroOccorrenze": 4,
@@ -3359,6 +3905,8 @@
         {
             "idEnte": "Vicopisano_S_Maria_Vicopisano",
             "orgName": "Vicopisano, S. Maria",
+            "desc": "Pieve di Vicopisano, diocesi di Pisa, attestata nel 934. Bibliografia: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "none",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 0,
@@ -3367,6 +3915,8 @@
         {
             "idEnte": "Vitoio_S_Maria",
             "orgName": "Vitoio, S. Maria",
+            "desc": "S. Maria di Vitoio (",
+            "listPerson": "",
             "documentoPrimaAttestazione": "II_31",
             "dataDocumentoPrimaAttestazione": "1154-03-18",
             "numeroOccorrenze": 1,
@@ -3377,6 +3927,8 @@
         {
             "idEnte": "Vezzano_comune",
             "orgName": "Vezzano, comune",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCVII_368",
             "dataDocumentoPrimaAttestazione": "1279-07-30",
             "numeroOccorrenze": 1,
@@ -3387,6 +3939,8 @@
         {
             "idEnte": "Vezzano_S_Maria",
             "orgName": "Vezzano, S. Maria",
+            "desc": "Chiesa nel borgo di Vezzano basso ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCXXXVIII_399",
             "dataDocumentoPrimaAttestazione": "1203-08-17",
             "numeroOccorrenze": 3,
@@ -3399,6 +3953,8 @@
         {
             "idEnte": "Vezzano_S_Prospero",
             "orgName": "",
+            "desc": "Pieve di Vezzano, si veda ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 2,
@@ -3410,6 +3966,8 @@
         {
             "idEnte": "Vignola_s_Pancrazio",
             "orgName": "Vignola, S. Pancrazio",
+            "desc": null,
+            "listPerson": "",
             "documentoPrimaAttestazione": "I_30",
             "dataDocumentoPrimaAttestazione": "1148-11-11",
             "numeroOccorrenze": 4,
@@ -3423,6 +3981,8 @@
         {
             "idEnte": "Viterbo_Tuscania_diocesi",
             "orgName": "Viterbo e Tuscania, diocesi.",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "DXXVIII_489",
             "dataDocumentoPrimaAttestazione": "1198-03-16",
             "numeroOccorrenze": 2,
@@ -3434,6 +3994,8 @@
         {
             "idEnte": "Volterra_comitatus",
             "orgName": "Volterra, comitato",
+            "desc": "",
+            "listPerson": "",
             "documentoPrimaAttestazione": "XX_49",
             "dataDocumentoPrimaAttestazione": "1027-04-07",
             "numeroOccorrenze": 1,
@@ -3444,6 +4006,8 @@
         {
             "idEnte": "Volterra_diocesi",
             "orgName": "Volterra, diocesi",
+            "desc": "",
+            "listPerson": "#Hildebrandus_episcopus, ",
             "documentoPrimaAttestazione": "DXLVII_509",
             "dataDocumentoPrimaAttestazione": "1239-06-29",
             "numeroOccorrenze": 1,
@@ -3454,6 +4018,8 @@
         {
             "idEnte": "Zulliano_S_Giacomo",
             "orgName": "Zulliano, S. Giacomo",
+            "desc": "Ospedale sulla via Aurelia tra Ceparana e la pieve di sant'Andrea, nella località\n              di Ospedaletto***. Bibliografia: ",
+            "listPerson": "",
             "documentoPrimaAttestazione": "CCCCLXXIII_435",
             "dataDocumentoPrimaAttestazione": "1222-01-25",
             "numeroOccorrenze": 2,

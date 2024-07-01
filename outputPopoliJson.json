@@ -3,6 +3,7 @@
         {
             "idPopolo": "Dani",
             "orgName": "Daci sive Dani",
+            "desc": "Nome dato ai Normanni che attaccarono Luni.",
             "documentoPrimaAttestazione": "CCCXXVII_289",
             "dataDocumentoPrimaAttestazione": "1217-10-27",
             "numeroOccorrenze": 2,
@@ -14,6 +15,7 @@
         {
             "idPopolo": "Franchi",
             "orgName": "Franci",
+            "desc": "I Franchi furono uno dei popoli germanici occidentali che entrarono nel tardo\n              Impero romano come federati e stabilirono un reame duraturo, in Gallia, da loro\n              chiamata Francia, e in parte dell'attuale Germania.",
             "documentoPrimaAttestazione": "C23",
             "dataDocumentoPrimaAttestazione": "none",
             "numeroOccorrenze": 1,
