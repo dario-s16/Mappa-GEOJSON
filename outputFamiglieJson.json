@@ -3,7 +3,7 @@
         {
             "idFamiglia": "AdelbertiFamilia",
             "orgName": "Adelberti / Odelberti",
-            "desc": "Famiglia del ceto dirigente di Pontremoli. Si veda ",
+            "desc": "Famiglia del ceto dirigente di Pontremoli. Si veda FERRARI 1938",
             "person": "",
             "documentoPrimaAttestazione": "CCCCLXXII_434",
             "dataDocumentoPrimaAttestazione": "1218-08-06",
@@ -63,7 +63,7 @@
         {
             "idFamiglia": "BibolaFamilia",
             "orgName": "Bibola, domini de",
-            "desc": "Consorzio familiare dei domini di Bibola. Sono qui elencati di seguito personaggi\n              detti nel Codice ",
+            "desc": "Consorzio familiare dei domini di Bibola. Sono qui elencati di seguito personaggi detti nel Codice de Bibola anche se non è certa l'appartenenza al consorzio.",
             "person": "#ConradusBibola, #EzoBibola, #OdoBibola, #PaganinusBibola, #ParensPatrisii, #RollandusAlberti, #VitaPetri, ",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -87,7 +87,7 @@
         {
             "idFamiglia": "BozanoFamilia",
             "orgName": "Buçano / Buzano / Bozano / Buiano, domini de",
-            "desc": "Consorzio familiare dei domini di Bozano / da Buggiano. Sono qui elencati di\n              seguito personaggi detti nel Codice ",
+            "desc": "Consorzio familiare dei domini di Bozano / da Buggiano. Sono qui elencati di seguito personaggi detti nel Codice de Buçano / Buzano / Bozano anche se non è certa l'appartenenza al consorzio.",
             "person": "#BonacursusBuiano, #BonacursusLevacastelli, #CatiaRegis, #DavellusBozano, #GerardusCanichia, #GregoriusBuzano, #GuidoCanichia, #GuiliemusBuçano, #LevacastellusBuzano, #RofinusBoz, #SyfreduciusBu, #Tedalasius, ",
             "documentoPrimaAttestazione": "DXVI_477",
             "dataDocumentoPrimaAttestazione": "1160-01-26",
@@ -104,7 +104,7 @@
         {
             "idFamiglia": "BurcioneFamilia",
             "orgName": "Burcione, domini de",
-            "desc": "Consorzio familiare dei domini di Burcione. Sono qui elencati di seguito\n              personaggi detti nel Codice ",
+            "desc": "Consorzio familiare dei domini di Burcione. Sono qui elencati di seguito personaggi detti nel Codice de Burcione anche se non è certa l'appartenenza al consorzio.",
             "person": "#AlbertusGuilielmiBurçono, #BlancusGuilielmiBurçono, #BonfidelisBurçono, #BuldroneBur, #BusdroHenrici, #Codeiudeus, #GibertinusCodeFal, #GuibertusBurcione, #GuiliemusBurçono, #HenricusGuilielmiBurçono, #OddoBurcione, #PeregrinusGotezonis, #RollandinusStadano, #RollandusBurcione, #RolandusGuilielmiBurçono, #UbertusBurcione, #UrsolusBur, ",
             "documentoPrimaAttestazione": "DXVI_477",
             "dataDocumentoPrimaAttestazione": "1160-01-26",
@@ -156,7 +156,7 @@
         {
             "idFamiglia": "CorvariaVallecchiaFamilia",
             "orgName": "Corvaia e Vallecchia, domini de",
-            "desc": "Consorzio familiare dei domini di Corvaia e Vallecchia. Sono qui elencati di\n              seguito personaggi detti nel Codice ",
+            "desc": "Consorzio familiare dei domini di Corvaia e Vallecchia. Sono qui elencati di seguito personaggi detti nel Codice de Corvaria o de Vallechia anche se non è certa l'appartenenza al consorzio.",
             "person": "#AlbertusVallechia_canonicus, #BonifaciusVallecchia, #ArduinusVallecla, #BaldinotusVallecla, #BernardusVallecla, #BonifaciusVallecchia, #CiconusVallecla, #GerardusVallecla, #GiliolusVallechia, #GrumpusVallecla, #GualteroneVallechia, #GuidoVal, #GuilielmusVallechia, #LambernonusVallecla, #MarchesinusVallecla, #MimonusVallecla, #OppicinusVallechia, #HormannusVallechia, #PanicaciusVallecla, #ParensVallecla, #ParentinusVallecla, #PlacentinusVallecla, #RaimundusVallecla, #RetondolusVallecla, #RollandusBonifacii, #SegnoretusVallecla, #SegnorinusVallecla, #TancredinusVal, #TrumpusVallecla, #UbaldusVallecla, #UbertinusVallechia, #VillanellusVallecla, #VillanusVallecla, #AldebrandinusVeltri, #ConradusCorvaria, #ParensCorvaria, #RaineriusCorvaria, #TodescusRoffin, #UgoCorvaria, #VeltusCorvaria, #VeltrusCorvaria, #VeltroGuilielmiCorvaria, ",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -169,7 +169,7 @@
         {
             "idFamiglia": "DalloFamilia",
             "orgName": "Dallo, comites et nobiles de",
-            "desc": "Nell'unico documento in cui sono citati collettivamente sono detti ",
+            "desc": "Nell'unico documento in cui sono citati collettivamente sono detti comites ac nobiles de Dallo Viano dictis Blanchis",
             "person": "#BernardusBertoldi, #BonacursusDallo, #LombardusSymonis, #SymonDallo, ",
             "documentoPrimaAttestazione": "D27",
             "dataDocumentoPrimaAttestazione": "1297-11-10",
@@ -218,7 +218,7 @@
         {
             "idFamiglia": "FosdenovaFamilia",
             "orgName": "Fosdenova, domini de",
-            "desc": "Consorzio familiare dei domini di Fosdinovo. ",
+            "desc": "Consorzio familiare dei domini di Fosdinovo.",
             "person": "",
             "documentoPrimaAttestazione": "DXI_472",
             "dataDocumentoPrimaAttestazione": "1197-07-15",
@@ -232,7 +232,7 @@
         {
             "idFamiglia": "GiovagalloFamilia",
             "orgName": "Giovagallo/Zovagallo, domini de",
-            "desc": "Consorzio familiare dei domini di Giovagallo. ",
+            "desc": "Consorzio familiare dei domini di Giovagallo.",
             "person": "",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -298,7 +298,7 @@
         {
             "idFamiglia": "MontemagnoFamilia",
             "orgName": "Montemagno, domini de",
-            "desc": "Consorzio familiare dei domini di Monte Magno. ",
+            "desc": "Consorzio familiare dei domini di Monte Magno.",
             "person": "",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -310,7 +310,7 @@
         {
             "idFamiglia": "MoregnanoFamilia",
             "orgName": "Moregnano, domini de",
-            "desc": "Consorzio familiare dei domini di Moregnano. ",
+            "desc": "Consorzio familiare dei domini di Moregnano.",
             "person": "",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -322,7 +322,7 @@
         {
             "idFamiglia": "PallaviciniFamilia",
             "orgName": "Palavicinorum, domus",
-            "desc": "Pallavicini, ramo degli Obertenghi. ",
+            "desc": "Pallavicini, ramo degli Obertenghi.",
             "person": "#ObertusPelavicinus, ",
             "documentoPrimaAttestazione": "E28",
             "dataDocumentoPrimaAttestazione": "1487-08-09",
@@ -334,7 +334,7 @@
         {
             "idFamiglia": "PeregriniFamilia",
             "orgName": "Peregrinorum",
-            "desc": "Discendenti di Peregrino de Burcione. ",
+            "desc": "Discendenti di Peregrino de Burcione.",
             "person": "",
             "documentoPrimaAttestazione": "DXXVI_487",
             "dataDocumentoPrimaAttestazione": "1281-05-09",
@@ -346,7 +346,7 @@
         {
             "idFamiglia": "PorcariFamilia",
             "orgName": "Porcari, domini de",
-            "desc": "Consorzio familiare dei domini da Porcari. ",
+            "desc": "Consorzio familiare dei domini da Porcari.",
             "person": "#GerardusCanichia, #GuidoCanichia, #PaganellusPorcari, #UgolinusPorcari, #Tedalasius, ",
             "documentoPrimaAttestazione": "C21",
             "dataDocumentoPrimaAttestazione": "1276-10-16",
@@ -418,7 +418,7 @@
         {
             "idFamiglia": "VerucolaFamilia",
             "orgName": "Verucola, domini de",
-            "desc": "Consorzio familiare dei domini della Verrucola dei Bosi. ",
+            "desc": "Consorzio familiare dei domini della Verrucola dei Bosi.",
             "person": "",
             "documentoPrimaAttestazione": "DXXXX_501",
             "dataDocumentoPrimaAttestazione": "1202-05-31",
@@ -430,7 +430,7 @@
         {
             "idFamiglia": "VezzanoFamilia",
             "orgName": "Vezzano, domini de",
-            "desc": "Consorzio familiare dei domini di Vezzano. ",
+            "desc": "Consorzio familiare dei domini di Vezzano.",
             "person": "",
             "documentoPrimaAttestazione": "A01",
             "dataDocumentoPrimaAttestazione": "1288-09-24",

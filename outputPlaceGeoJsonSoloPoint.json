@@ -100,7 +100,7 @@
                 "settlement": "Alekiethem",
                 "placeName": "Altenheim",
                 "district": "Bas-Rhin (France)",
-                "note": "Identificazione di ",
+                "note": "Identificazione di BÖHMER 1898, p. 415, n. 1898",
                 "longitudine": 7.4639413,
                 "latitudine": 48.7190639,
                 "documentoPrimaAttestazione": "XXIII_52",
@@ -125,7 +125,7 @@
                 "settlement": "Alione / Allione",
                 "placeName": "Aglione",
                 "district": "Castelnuovo Magra",
-                "note": "Si può identificare nella attuale locus Aglione, oggi parte del comune di\n              Castelnuovo Magra (SP), situata a nord di Luni Mare, a nord-ovest di\n              Colombiera-Molicciara. Si veda ",
+                "note": "Si può identificare nella attuale locus Aglione, oggi parte del comune di Castelnuovo Magra (SP), situata a nord di Luni Mare, a nord-ovest di Colombiera-Molicciara. Si veda SALVATORI 2007, p. 9. Segnalazione di Sergio Mussi.",
                 "longitudine": 10.0014636,
                 "latitudine": 44.0929083,
                 "documentoPrimaAttestazione": "CCLXXXXVII_259",
@@ -378,7 +378,7 @@
                 "settlement": "Antognolo",
                 "placeName": "Giucano, MS",
                 "district": "Fosdinovo",
-                "note": " Sebbene il contesto dei documenti non consenta una localizzazione certa, è molto\n              probabile che si tratti della attuale locus di Antoniolo, a sud-est di Carignano e a\n              nord-ovest di Giucano (comune di Fosdinovo, MS). Si veda ",
+                "note": "Sebbene il contesto dei documenti non consenta una localizzazione certa, è molto probabile che si tratti della attuale locus di Antoniolo, a sud-est di Carignano e a nord-ovest di Giucano (comune di Fosdinovo, MS). Si veda BALDASSARRI - ANDREAZZOLI 2007, p. 9, r.10. Segnalazione di Sergio Mussi.",
                 "longitudine": 9.9984612,
                 "latitudine": 44.1438314,
                 "documentoPrimaAttestazione": "CXLV_163",
@@ -405,7 +405,7 @@
                 "settlement": "Antoniano",
                 "placeName": "Antoniano",
                 "district": "La Spezia",
-                "note": "Si tratta molto probabilmente dell'area dove sorge la pieve di S. Venerio detta\n              appunto ",
+                "note": "Si tratta molto probabilmente dell'area dove sorge la pieve di S. Venerio detta appunto in Antoniano a La Spezia. Si veda VECCHI 1986.",
                 "longitudine": 11.3593961,
                 "latitudine": 44.4863554,
                 "documentoPrimaAttestazione": "CCXXVI_187",
@@ -436,7 +436,7 @@
                 "settlement": "Apognana",
                 "placeName": "Pognana",
                 "district": "Fivizzano",
-                "note": "Ipotesi di identificazione in Pognana, frazione di Fivizzano di Sergio\n              Mussi.",
+                "note": "Ipotesi di identificazione in Pognana, frazione di Fivizzano di Sergio Mussi.",
                 "longitudine": 10.1275243,
                 "latitudine": 44.2486146,
                 "documentoPrimaAttestazione": "CXLVIII_166",
@@ -477,8 +477,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3695896,
-                    45.7669576
+                    13.3679722,
+                    45.7715619
                 ]
             },
             "properties": {
@@ -487,8 +487,8 @@
                 "placeName": "Aquileia",
                 "district": "Aquileia",
                 "note": "",
-                "longitudine": 13.3695896,
-                "latitudine": 45.7669576,
+                "longitudine": 13.3679722,
+                "latitudine": 45.7715619,
                 "documentoPrimaAttestazione": "XXII_51",
                 "dataDocumentoPrimaAttestazione": "1191-02-23",
                 "numeroOccorrenze": 1,
@@ -600,7 +600,7 @@
                 "settlement": "Argentina",
                 "placeName": "Strasburg",
                 "district": "Bas-Rhin (France)",
-                "note": "Dal toponimo antico ",
+                "note": "Dal toponimo antico Argentoratum.",
                 "longitudine": 7.7507127,
                 "latitudine": 48.584614,
                 "documentoPrimaAttestazione": "DXXX_491",
@@ -672,8 +672,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9673023,
-                    44.2087491
+                    9.9672903,
+                    44.2092398
                 ]
             },
             "properties": {
@@ -682,8 +682,8 @@
                 "placeName": "Aulla",
                 "district": "Aulla",
                 "note": "",
-                "longitudine": 9.9673023,
-                "latitudine": 44.2087491,
+                "longitudine": 9.9672903,
+                "latitudine": 44.2092398,
                 "documentoPrimaAttestazione": "DXXXIII_494",
                 "dataDocumentoPrimaAttestazione": "1174-02-11",
                 "numeroOccorrenze": 37,
@@ -831,8 +831,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9889143,
-                    44.311996
+                    9.99551,
+                    44.3209352
                 ]
             },
             "properties": {
@@ -841,8 +841,8 @@
                 "placeName": "Bagnone",
                 "district": "Bagnone",
                 "note": "",
-                "longitudine": 9.9889143,
-                "latitudine": 44.311996,
+                "longitudine": 9.99551,
+                "latitudine": 44.3209352,
                 "documentoPrimaAttestazione": "L_78",
                 "dataDocumentoPrimaAttestazione": "1124-10-18",
                 "numeroOccorrenze": 6,
@@ -870,7 +870,7 @@
                 "settlement": "Baiano",
                 "placeName": "Bazzano",
                 "district": "Tivegna",
-                "note": "Su questo toponimo si veda ",
+                "note": "Su questo toponimo si veda GRECO 1984.",
                 "longitudine": 11.0821527,
                 "latitudine": 44.5040658,
                 "documentoPrimaAttestazione": "XVIII_47",
@@ -886,8 +886,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.9617688,
-                    44.418814
+                    8.9629223,
+                    44.4185078
                 ]
             },
             "properties": {
@@ -896,8 +896,8 @@
                 "placeName": "Bracelli",
                 "district": "Bracelli",
                 "note": "",
-                "longitudine": 8.9617688,
-                "latitudine": 44.418814,
+                "longitudine": 8.9629223,
+                "latitudine": 44.4185078,
                 "documentoPrimaAttestazione": "CCCCLXXVII_439",
                 "dataDocumentoPrimaAttestazione": "1221-08-02",
                 "numeroOccorrenze": 2,
@@ -1038,8 +1038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5808655,
-                    48.1461886
+                    11.5690311,
+                    48.1440669
                 ]
             },
             "properties": {
@@ -1048,8 +1048,8 @@
                 "placeName": "Bayerns",
                 "district": "Bayerns",
                 "note": "",
-                "longitudine": 11.5808655,
-                "latitudine": 48.1461886,
+                "longitudine": 11.5690311,
+                "latitudine": 48.1440669,
                 "documentoPrimaAttestazione": "CCCLXVIIII_331",
                 "dataDocumentoPrimaAttestazione": "1183-06-30",
                 "numeroOccorrenze": 1,
@@ -1186,7 +1186,7 @@
                 "settlement": "Beriola / Berzola / Berçola",
                 "placeName": "Bergiola Foscalina",
                 "district": "Carrara",
-                "note": "Probabilmente da identificarsi con l'attuale Bergiola Foscalina, sopra Carrara\n              unita un tempo a Bergiola Maggiore nel comune di Massa da un sentiero nel\n              bosco.",
+                "note": "Probabilmente da identificarsi con l'attuale Bergiola Foscalina, sopra Carrara unita un tempo a Bergiola Maggiore nel comune di Massa da un sentiero nel bosco.",
                 "longitudine": 10.124116,
                 "latitudine": 44.0670865,
                 "documentoPrimaAttestazione": "CCCXLVIIII_311",
@@ -1217,7 +1217,7 @@
                 "settlement": "Beriola maior",
                 "placeName": "Bergiola Maggiore",
                 "district": "Massa",
-                "note": "Unita un tempo a Bergiola Foscalina nel comune di Carrara da un sentiero nel\n              bosco.",
+                "note": "Unita un tempo a Bergiola Foscalina nel comune di Carrara da un sentiero nel bosco.",
                 "longitudine": 10.1429788,
                 "latitudine": 44.0537762,
                 "documentoPrimaAttestazione": "CCCXLVI_308",
@@ -1242,7 +1242,7 @@
                 "settlement": "Bertenme / Bertani (porta)",
                 "placeName": "Lago di Porta",
                 "district": "Montignoso",
-                "note": "Località oggi identificabile con Lago di Porta, come si evince da ",
+                "note": "Località oggi identificabile con Lago di Porta, come si evince da REPETTI_1846. La torre detta Porta Betrame o Porta Bertrami, oggi scomparsa, si trovava in località Salto della Cervia (oggi comune di Pietrasanta), segnalata come ancora esistente alla data del 1810 dal Repetti. La torre era situata sull'antico confine che correva tra il Lago di Porta e Monte della Rocca di Montignoso, precisamente nel distretto di Castel Aghinolfi, sulla strada romana che da Massa conduceva a Lucca. La prima attestazione del toponimo si trova in un placito di Enrico III emanato il 15 maggio 1055 a favore del vescovo di Luni che rivendicava alcuni possedimenti in quella zona.",
                 "longitudine": 10.167086774105943,
                 "latitudine": 43.9945445,
                 "documentoPrimaAttestazione": "CCLXXXXVI_258",
@@ -1270,7 +1270,7 @@
                 "settlement": "Betigna",
                 "placeName": "Bettigna",
                 "district": "La Spezia",
-                "note": " Il torrente Bettigna nasce dal monte Bastione (m 698) ed è affluente di sinistra\n              del fiume Magra presso la sua foce.",
+                "note": "Il torrente Bettigna nasce dal monte Bastione (m 698) ed è affluente di sinistra del fiume Magra presso la sua foce.",
                 "longitudine": 9.9999966,
                 "latitudine": 44.0741958,
                 "documentoPrimaAttestazione": "CCLXVII_229",
@@ -1423,8 +1423,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0163012,
-                    44.1270755
+                    10.0120631,
+                    44.1260523
                 ]
             },
             "properties": {
@@ -1432,9 +1432,9 @@
                 "settlement": "Boccognano",
                 "placeName": "Boccognano",
                 "district": "Fosdinovo",
-                "note": "Si veda ",
-                "longitudine": 10.0163012,
-                "latitudine": 44.1270755,
+                "note": "Si veda MORADEI 2018, p. 26.",
+                "longitudine": 10.0120631,
+                "latitudine": 44.1260523,
                 "documentoPrimaAttestazione": "CCLXXV_237",
                 "dataDocumentoPrimaAttestazione": "1209-03-05",
                 "numeroOccorrenze": 1,
@@ -1574,8 +1574,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9419199,
-                    44.1277329
+                    9.9415453,
+                    44.1275578
                 ]
             },
             "properties": {
@@ -1584,8 +1584,8 @@
                 "placeName": "Boettola (via)",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.9419199,
-                "latitudine": 44.1277329,
+                "longitudine": 9.9415453,
+                "latitudine": 44.1275578,
                 "documentoPrimaAttestazione": "XXV_54",
                 "dataDocumentoPrimaAttestazione": "1199-06-29",
                 "numeroOccorrenze": 4,
@@ -1881,7 +1881,7 @@
                 "settlement": "Burcione / Burçone / Burçiono / Burçono / Burtione /\n              Burzone / Burzono",
                 "placeName": "Burcione",
                 "district": "Aulla",
-                "note": "Insediamento, ora scomparso, sopra il colle della Liccia, alla confluenza\n              dell’Aulella nel Magra di fronte all’abitato ancora esistente di Bibola. Sono oggi\n              visibili rovine di una fortificazione. Si veda: ",
+                "note": "Insediamento, ora scomparso, sopra il colle della Liccia, alla confluenza dell’Aulella nel Magra di fronte all’abitato ancora esistente di Bibola. Sono oggi visibili rovine di una fortificazione. Si veda: CONTI 1986, FERRARI et alii 2003.",
                 "longitudine": 9.9718096,
                 "latitudine": 44.2003013,
                 "documentoPrimaAttestazione": "CCCXXIIII_286",
@@ -1980,8 +1980,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.5159179,
-                    43.7258231
+                    10.5160194,
+                    43.7257491
                 ]
             },
             "properties": {
@@ -1990,8 +1990,8 @@
                 "placeName": "Calci",
                 "district": "Calci",
                 "note": "",
-                "longitudine": 10.5159179,
-                "latitudine": 43.7258231,
+                "longitudine": 10.5160194,
+                "latitudine": 43.7257491,
                 "documentoPrimaAttestazione": "CCCCLXXXXII_453",
                 "dataDocumentoPrimaAttestazione": "1217-07-26",
                 "numeroOccorrenze": 2,
@@ -2035,8 +2035,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9634434,
-                    44.0714528
+                    9.9623961,
+                    44.0715079
                 ]
             },
             "properties": {
@@ -2045,8 +2045,8 @@
                 "placeName": "Camisano",
                 "district": "Ameglia",
                 "note": "",
-                "longitudine": 9.9634434,
-                "latitudine": 44.0714528,
+                "longitudine": 9.9623961,
+                "latitudine": 44.0715079,
                 "documentoPrimaAttestazione": "CCXXIII_184",
                 "dataDocumentoPrimaAttestazione": "1084-06",
                 "numeroOccorrenze": 1,
@@ -2060,8 +2060,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9703449,
-                    44.0995613
+                    9.973097,
+                    44.1000909
                 ]
             },
             "properties": {
@@ -2070,8 +2070,8 @@
                 "placeName": "Camponesto (via)",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.9703449,
-                "latitudine": 44.0995613,
+                "longitudine": 9.973097,
+                "latitudine": 44.1000909,
                 "documentoPrimaAttestazione": "CCLXXXXVII_259",
                 "dataDocumentoPrimaAttestazione": "0998-03-30",
                 "numeroOccorrenze": 2,
@@ -2229,7 +2229,7 @@
                 "settlement": "Capo Corvo / Corbo",
                 "placeName": "Punta Corvo",
                 "district": "nei pressi di Ameglia e Lerici",
-                "note": "detta anche punta Corvo, è la propaggine sul mar Ligure del monte Marcello tra\n              Bocca di Magra e il golfo della Spezia. Il promontorio costituisce il limite orientale\n              della Riviera Ligure, andando a dividerla geograficamente dalla costa apuana. ",
+                "note": "detta anche punta Corvo, è la propaggine sul mar Ligure del monte Marcello tra Bocca di Magra e il golfo della Spezia. Il promontorio costituisce il limite orientale della Riviera Ligure, andando a dividerla geograficamente dalla costa apuana.",
                 "longitudine": 9.96062818445146,
                 "latitudine": 44.040091700000005,
                 "documentoPrimaAttestazione": "CCCLXXXVI_347",
@@ -2437,8 +2437,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.947917263661303,
-                    44.11160495
+                    9.9381951,
+                    44.1082939
                 ]
             },
             "properties": {
@@ -2447,8 +2447,8 @@
                 "placeName": "Calcandola",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.947917263661303,
-                "latitudine": 44.11160495,
+                "longitudine": 9.9381951,
+                "latitudine": 44.1082939,
                 "documentoPrimaAttestazione": "LXXXXI_108",
                 "dataDocumentoPrimaAttestazione": "1181-03-08",
                 "numeroOccorrenze": 8,
@@ -2469,8 +2469,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.947917263661303,
-                    44.11160495
+                    9.9381951,
+                    44.1082939
                 ]
             },
             "properties": {
@@ -2478,9 +2478,9 @@
                 "settlement": "Carcandola / Carcamdula",
                 "placeName": "Calcandola",
                 "district": "Sarzana",
-                "note": "La piazza Carcandola corrispondeva più o meno all'attuale piazza Matteotti a\n              Sarzana.",
-                "longitudine": 9.947917263661303,
-                "latitudine": 44.11160495,
+                "note": "La piazza Carcandola corrispondeva più o meno all'attuale piazza Matteotti a Sarzana.",
+                "longitudine": 9.9381951,
+                "latitudine": 44.1082939,
                 "documentoPrimaAttestazione": "XXIIII_53",
                 "dataDocumentoPrimaAttestazione": "1176-04-13",
                 "numeroOccorrenze": 22,
@@ -2770,7 +2770,7 @@
                 "settlement": ">Casapoci / Casaposi / Casapoli /\n              Casapoçi",
                 "placeName": "Castelpoggio",
                 "district": "Carrara",
-                "note": "Identificazione con Castelpoggio proposta sulla base del ",
+                "note": "Identificazione con Castelpoggio proposta sulla base del REPETTI_1846, I, p. 580. Segnalazione di Sergio Mussi.",
                 "longitudine": 10.0748761,
                 "latitudine": 44.1122631,
                 "documentoPrimaAttestazione": "CCLXXXXVII_259",
@@ -3232,7 +3232,7 @@
                 "settlement": "Civiie",
                 "placeName": "torrente Civiglia",
                 "district": "Terrarossa",
-                "note": "Il torrente Civiglia nasce dal monte Barca a 925 mt nel comune di Bagnone,\n              attraversa la parte meridionale del comune di Villafranca, si getta a sinistra nel\n              fiume Magra, in cui sfocia a Terrarossa appena prima del torrente Taverone.",
+                "note": "Il torrente Civiglia nasce dal monte Barca a 925 mt nel comune di Bagnone, attraversa la parte meridionale del comune di Villafranca, si getta a sinistra nel fiume Magra, in cui sfocia a Terrarossa appena prima del torrente Taverone.",
                 "longitudine": 9.9707431,
                 "latitudine": 44.2422031,
                 "documentoPrimaAttestazione": "CLXVIII_526",
@@ -3365,7 +3365,7 @@
                 "settlement": "Colignola ",
                 "placeName": "Bradia",
                 "district": "Sarzana e Fosdinovo",
-                "note": " In località Bradia, corrisponde a Colignola degli Statuti del 1330 (",
+                "note": "In località Bradia, corrisponde a Colignola degli Statuti del 1330 (GIANFRANCESCHI 1965, pag 45).",
                 "longitudine": 9.9672939,
                 "latitudine": 44.1202081,
                 "documentoPrimaAttestazione": "XXVII_56",
@@ -3489,7 +3489,7 @@
                 "settlement": "Colognola / Colungnola",
                 "placeName": "Corongiola",
                 "district": "Vezzano Ligure",
-                "note": "Bibliografia: ",
+                "note": "Bibliografia: PISTARINO 1961a, FRANCHI LALLAI 2000, I, p. 208-211.",
                 "longitudine": 9.8840577,
                 "latitudine": 44.1480736,
                 "documentoPrimaAttestazione": "CCCCX_371",
@@ -4191,7 +4191,7 @@
                 "settlement": "Felicina / Filicina",
                 "placeName": "Ponzanello",
                 "district": "Fosdinovo",
-                "note": " Località poco sopra Ponzanello presso Foresto.",
+                "note": "Località poco sopra Ponzanello presso Foresto.",
                 "longitudine": 10.0002595,
                 "latitudine": 44.1655762,
                 "documentoPrimaAttestazione": "CLV_173",
@@ -4317,8 +4317,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0902974,
-                    44.0669196
+                    10.0937525,
+                    44.0678558
                 ]
             },
             "properties": {
@@ -4327,8 +4327,8 @@
                 "placeName": "Ficola",
                 "district": "Carrara",
                 "note": "",
-                "longitudine": 10.0902974,
-                "latitudine": 44.0669196,
+                "longitudine": 10.0937525,
+                "latitudine": 44.0678558,
                 "documentoPrimaAttestazione": "CCCXLVIIII_311",
                 "dataDocumentoPrimaAttestazione": "1150-01-01",
                 "numeroOccorrenze": 7,
@@ -4446,8 +4446,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9655334,
-                    44.0993122
+                    9.9648387,
+                    44.1008754
                 ]
             },
             "properties": {
@@ -4456,8 +4456,8 @@
                 "placeName": "Fondamento",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.9655334,
-                "latitudine": 44.0993122,
+                "longitudine": 9.9648387,
+                "latitudine": 44.1008754,
                 "documentoPrimaAttestazione": "LX_87",
                 "dataDocumentoPrimaAttestazione": "1269-11-05",
                 "numeroOccorrenze": 1,
@@ -5251,8 +5251,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9568375,
-                    44.1051609
+                    9.9590393,
+                    44.1064991
                 ]
             },
             "properties": {
@@ -5261,8 +5261,8 @@
                 "placeName": "Giuncaro",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.9568375,
-                "latitudine": 44.1051609,
+                "longitudine": 9.9590393,
+                "latitudine": 44.1064991,
                 "documentoPrimaAttestazione": "LX_87",
                 "dataDocumentoPrimaAttestazione": "1269-11-05",
                 "numeroOccorrenze": 1,
@@ -5447,8 +5447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0801895,
-                    44.039545
+                    10.0604141,
+                    44.0294826
                 ]
             },
             "properties": {
@@ -5457,8 +5457,8 @@
                 "placeName": "Lavello",
                 "district": "Carrara",
                 "note": "",
-                "longitudine": 10.0801895,
-                "latitudine": 44.039545,
+                "longitudine": 10.0604141,
+                "latitudine": 44.0294826,
                 "documentoPrimaAttestazione": "DXXX_491",
                 "dataDocumentoPrimaAttestazione": "1185-07-29",
                 "numeroOccorrenze": 6,
@@ -5535,8 +5535,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9727177,
-                    44.2290927
+                    10.0142345,
+                    44.2515687
                 ]
             },
             "properties": {
@@ -5545,8 +5545,8 @@
                 "placeName": "Licciana Nardi",
                 "district": "Licciana Nardi (MS)",
                 "note": "",
-                "longitudine": 9.9727177,
-                "latitudine": 44.2290927,
+                "longitudine": 10.0142345,
+                "latitudine": 44.2515687,
                 "documentoPrimaAttestazione": "LXXXXVIIII_116",
                 "dataDocumentoPrimaAttestazione": "1283-11-25",
                 "numeroOccorrenze": 2,
@@ -6325,7 +6325,7 @@
                 "settlement": "Macra / Magra",
                 "placeName": "Magra",
                 "district": "",
-                "note": "La Magra è il principale fiume della Liguria per portata media alla foce, nasce\n              tra il Monte Borgognone ed il Monte Tavola e scorre tra Toscana e Liguria bagnando le\n              province della Spezia e di Massa-Carrara.",
+                "note": "La Magra è il principale fiume della Liguria per portata media alla foce, nasce tra il Monte Borgognone ed il Monte Tavola e scorre tra Toscana e Liguria bagnando le province della Spezia e di Massa-Carrara.",
                 "longitudine": 9.9450185,
                 "latitudine": 44.2512783,
                 "documentoPrimaAttestazione": "CCCLIIII_316",
@@ -6983,8 +6983,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9633103,
-                    44.1074633
+                    9.9661722,
+                    44.1064691
                 ]
             },
             "properties": {
@@ -6993,8 +6993,8 @@
                 "placeName": "Mazzincollo",
                 "district": "Sarzana",
                 "note": "",
-                "longitudine": 9.9633103,
-                "latitudine": 44.1074633,
+                "longitudine": 9.9661722,
+                "latitudine": 44.1064691,
                 "documentoPrimaAttestazione": "LX_87",
                 "dataDocumentoPrimaAttestazione": "1269-11-05",
                 "numeroOccorrenze": 1,
@@ -7055,7 +7055,7 @@
                 "settlement": "Moneta",
                 "placeName": "Moneta",
                 "district": "Carrara",
-                "note": "Il resti del castello di Moneta sono ancora ben visibili sul crinale che divide la\n              valle di Carrara da quella di Ortonovo, sopra Fossola ed in vista di Fontia. Si veda\n              in proposito ",
+                "note": "Il resti del castello di Moneta sono ancora ben visibili sul crinale che divide la valle di Carrara da quella di Ortonovo, sopra Fossola ed in vista di Fontia. Si veda in proposito AMBROSI CARROZZI 1985.",
                 "longitudine": 10.078293,
                 "latitudine": 44.0794108,
                 "documentoPrimaAttestazione": "CCCXII_274",
@@ -7103,8 +7103,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9672903,
-                    44.2092398
+                    9.9673023,
+                    44.2087491
                 ]
             },
             "properties": {
@@ -7113,8 +7113,8 @@
                 "placeName": "Aulla",
                 "district": "Aulla",
                 "note": "",
-                "longitudine": 9.9672903,
-                "latitudine": 44.2092398,
+                "longitudine": 9.9673023,
+                "latitudine": 44.2087491,
                 "documentoPrimaAttestazione": "C12",
                 "dataDocumentoPrimaAttestazione": "1273-04-25",
                 "numeroOccorrenze": 1,
@@ -7237,7 +7237,7 @@
                 "settlement": "monte Ferestti",
                 "placeName": "Montefeltro",
                 "district": "",
-                "note": "Regione storica che si estende tra Marche, Emilia-Romagna, Repubblica di San\n              Marino e Toscana.",
+                "note": "Regione storica che si estende tra Marche, Emilia-Romagna, Repubblica di San Marino e Toscana.",
                 "longitudine": 9.6216844,
                 "latitudine": 44.9032427,
                 "documentoPrimaAttestazione": "XVIII_47",
@@ -7319,7 +7319,7 @@
                 "settlement": "monte Fulculi / monte Furculi",
                 "placeName": "monte Forca",
                 "district": "",
-                "note": "Il Monte Forca, già citato dal ",
+                "note": "Il Monte Forca, già citato dal REPETTI 1846, I p. 486, va identificato con l'attuale Monte Pizzacuto secondo il CONTI 1976.",
                 "longitudine": 9.0802047,
                 "latitudine": 44.5692098,
                 "documentoPrimaAttestazione": "CCCLIIII_316",
@@ -7496,7 +7496,7 @@
                 "settlement": "Monte Rubeo",
                 "placeName": "Monterosso",
                 "district": "Sarzana",
-                "note": "Località collocabile tra Sarzana e Santo Stefano Magra, comunemente indicato come\n              Frazione S. Caterina. Si veda ",
+                "note": "Località collocabile tra Sarzana e Santo Stefano Magra, comunemente indicato come Frazione S. Caterina. Si veda COPPEDE 1987, pp. 178-181 e nota 7 a p. 180 e anche GENTILI 1997. Si veda anche Archivio di Stato di Genova, Catasto napoleonico, Sarzana, Section A de Monte Rosso.",
                 "longitudine": 9.9480504,
                 "latitudine": 44.1301397,
                 "documentoPrimaAttestazione": "LX_87",
@@ -7565,8 +7565,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9640947,
-                    44.1196554
+                    9.966433,
+                    44.1237545
                 ]
             },
             "properties": {
@@ -7574,9 +7574,9 @@
                 "settlement": "Montexello",
                 "placeName": "Monticello",
                 "district": "Sarzana",
-                "note": "Attestato negli statuti di Sarzana del 1331 (",
-                "longitudine": 9.9640947,
-                "latitudine": 44.1196554,
+                "note": "Attestato negli statuti di Sarzana del 1331 (GIANFRANCESCHI 1965, p. 44).",
+                "longitudine": 9.966433,
+                "latitudine": 44.1237545,
                 "documentoPrimaAttestazione": "LIII_80",
                 "dataDocumentoPrimaAttestazione": "1219-03-08",
                 "numeroOccorrenze": 3,
@@ -7977,7 +7977,7 @@
                 "settlement": "Nicola / Nichola Niçola",
                 "placeName": "Nicola",
                 "district": "Luni",
-                "note": "Micoarra-Nicola. Nel VII secolo Giorgio di Cipro nella ",
+                "note": "Micoarra-Nicola. Nel VII secolo Giorgio di Cipro nella Descriptio orbis romani, trattando delle fortificazioni della zona nella pianura lunense e aree limitrofe, cita il kastron di Mikaurìa, che Ubaldo Formentini (FORMENTINI 1936) ha identificato nell’attuale abitato di Nicola (Luni). Nel Codice Pelavicino il toponimo Micoria - Micoarra si trova in due atti, rispettivamente del (1096 e del (1226, mentre il toponimo Nicola è già attestato in uso nel 1219: questa apparente contraddizione ha spinto Mario Niccolò Conti (CONTI 1960) ha criticare l’ipotesi, che tuttavia pare confremata da ulteriori studi (GENTILI 1988 e ZOPPI 2008).",
                 "longitudine": 10.0396371,
                 "latitudine": 44.0782469,
                 "documentoPrimaAttestazione": "LIII_80",
@@ -8213,7 +8213,7 @@
                 "settlement": "Orticaria",
                 "placeName": "Orticaia",
                 "district": "",
-                "note": "Toponimo ora scomparso attestato a Pisa, presso le sponde dell'Arno, dove oggi si\n              trova la chiesa di San Michele degli Scalzi.",
+                "note": "Toponimo ora scomparso attestato a Pisa, presso le sponde dell'Arno, dove oggi si trova la chiesa di San Michele degli Scalzi.",
                 "longitudine": 11.6096617,
                 "latitudine": 44.1144915,
                 "documentoPrimaAttestazione": "DXXXXI_502",
@@ -8314,7 +8314,7 @@
                 "settlement": "Oserone",
                 "placeName": "Isolone",
                 "district": "",
-                "note": "Si tratta probabilente dell'attuale torrente Isolone (MS-SP), che nasce dal monte\n              La Foce presso Fosdinovo e affluisce nel Magra a sinistra presso la foce.",
+                "note": "Si tratta probabilente dell'attuale torrente Isolone (MS-SP), che nasce dal monte La Foce presso Fosdinovo e affluisce nel Magra a sinistra presso la foce.",
                 "longitudine": 9.9829655,
                 "latitudine": 44.0957675,
                 "documentoPrimaAttestazione": "CCLVI_217",
@@ -8400,8 +8400,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.169909,
-                    44.3275219
+                    10.1634605,
+                    44.3207365
                 ]
             },
             "properties": {
@@ -8410,8 +8410,8 @@
                 "placeName": "Paleroso",
                 "district": "Soliera",
                 "note": "",
-                "longitudine": 10.169909,
-                "latitudine": 44.3275219,
+                "longitudine": 10.1634605,
+                "latitudine": 44.3207365,
                 "documentoPrimaAttestazione": "CCXXVII_188",
                 "dataDocumentoPrimaAttestazione": "1189-05-01",
                 "numeroOccorrenze": 7,
@@ -8431,8 +8431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9449523,
-                    44.1104191
+                    9.9425295,
+                    44.1094779
                 ]
             },
             "properties": {
@@ -8441,8 +8441,8 @@
                 "placeName": "Pallodola (via)",
                 "district": "Trebiano e Sarzana",
                 "note": "",
-                "longitudine": 9.9449523,
-                "latitudine": 44.1104191,
+                "longitudine": 9.9425295,
+                "latitudine": 44.1094779,
                 "documentoPrimaAttestazione": "CCCCLXXXXIIII_455",
                 "dataDocumentoPrimaAttestazione": "1257-08-12",
                 "numeroOccorrenze": 1,
@@ -8740,7 +8740,7 @@
                 "settlement": "Pegazana / Pegaçana",
                 "placeName": "Paghezzana",
                 "district": "Fosdinovo",
-                "note": "Si veda: ",
+                "note": "Si veda: FORMENTINI 1953, p. 7; PISTARINO 1961, p. 112.",
                 "longitudine": 9.9842223,
                 "latitudine": 44.1268714,
                 "documentoPrimaAttestazione": "CCXXIII_184",
@@ -8786,8 +8786,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0529038,
-                    44.152988
+                    10.0476248,
+                    44.1655262
                 ]
             },
             "properties": {
@@ -8796,8 +8796,8 @@
                 "placeName": "Pesciola",
                 "district": "Fosdinovo",
                 "note": "",
-                "longitudine": 10.0529038,
-                "latitudine": 44.152988,
+                "longitudine": 10.0476248,
+                "latitudine": 44.1655262,
                 "documentoPrimaAttestazione": "CCLXVII_229",
                 "dataDocumentoPrimaAttestazione": "1096-03",
                 "numeroOccorrenze": 1,
@@ -9532,7 +9532,7 @@
                 "settlement": "Portesone / Portasione / Portexono / Portoxone /\n              Portexone",
                 "placeName": "Portesone",
                 "district": "Lerici",
-                "note": "Villaggio abbandonato nel comune di Lerici, sopra Tellaro, presso\n              Barbazzano.",
+                "note": "Villaggio abbandonato nel comune di Lerici, sopra Tellaro, presso Barbazzano.",
                 "longitudine": 9.9345241,
                 "latitudine": 44.0612191,
                 "documentoPrimaAttestazione": "CCCLXXVI_338",
@@ -9892,7 +9892,7 @@
                 "settlement": "Ragnara",
                 "placeName": "Ragnara",
                 "district": "Arcola",
-                "note": "Ragnara si trova sotto Trebiano, presso Romito Magra, la strada omonima, Via\n              Ragnara, conduce da Romito a Trebiano.",
+                "note": "Ragnara si trova sotto Trebiano, presso Romito Magra, la strada omonima, Via Ragnara, conduce da Romito a Trebiano.",
                 "longitudine": 9.9247012,
                 "latitudine": 44.0983331,
                 "documentoPrimaAttestazione": "C03",
@@ -9908,8 +9908,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9672903,
-                    44.2092398
+                    9.967392,
+                    44.2098409
                 ]
             },
             "properties": {
@@ -9918,8 +9918,8 @@
                 "placeName": "Aulla",
                 "district": "Aulla",
                 "note": "",
-                "longitudine": 9.9672903,
-                "latitudine": 44.2092398,
+                "longitudine": 9.967392,
+                "latitudine": 44.2098409,
                 "documentoPrimaAttestazione": "CCXLVIII_209",
                 "dataDocumentoPrimaAttestazione": "1225-03-06",
                 "numeroOccorrenze": 2,
@@ -10295,8 +10295,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.2544928,
-                    43.9370097
+                    10.2520413,
+                    43.9389861
                 ]
             },
             "properties": {
@@ -10305,8 +10305,8 @@
                 "placeName": "Rotaio",
                 "district": "Camaiore",
                 "note": "",
-                "longitudine": 10.2544928,
-                "latitudine": 43.9370097,
+                "longitudine": 10.2520413,
+                "latitudine": 43.9389861,
                 "documentoPrimaAttestazione": "CCCCLXXXXV_456",
                 "dataDocumentoPrimaAttestazione": "1259-10-27",
                 "numeroOccorrenze": 1,
@@ -10462,7 +10462,7 @@
                 "settlement": "Sancto Genesio",
                 "placeName": "San Genesio",
                 "district": "San Miniato",
-                "note": "Borgo oggi scomparso, noto anche come Vico Wallari. Si veda ",
+                "note": "Borgo oggi scomparso, noto anche come Vico Wallari. Si veda CANTINI SALVASTRINI 2010.",
                 "longitudine": 10.88340543992636,
                 "latitudine": 43.69180025,
                 "documentoPrimaAttestazione": "XXII_51",
@@ -10508,8 +10508,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8250868,
-                    43.697233
+                    11.3282451,
+                    43.3485178
                 ]
             },
             "properties": {
@@ -10518,8 +10518,8 @@
                 "placeName": "San Miniato",
                 "district": "San Miniato",
                 "note": "",
-                "longitudine": 10.8250868,
-                "latitudine": 43.697233,
+                "longitudine": 11.3282451,
+                "latitudine": 43.3485178,
                 "documentoPrimaAttestazione": "CCCLIIII_316",
                 "dataDocumentoPrimaAttestazione": "1151-12-03",
                 "numeroOccorrenze": 5,
@@ -11743,8 +11743,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.086863,
-                    44.074439
+                    10.0878644,
+                    44.0728279
                 ]
             },
             "properties": {
@@ -11753,8 +11753,8 @@
                 "placeName": "Stabbio",
                 "district": "Carrara",
                 "note": "",
-                "longitudine": 10.086863,
-                "latitudine": 44.074439,
+                "longitudine": 10.0878644,
+                "latitudine": 44.0728279,
                 "documentoPrimaAttestazione": "CCCXLVIIII_311",
                 "dataDocumentoPrimaAttestazione": "1150-01-01",
                 "numeroOccorrenze": 6,
@@ -12064,7 +12064,7 @@
                 "settlement": "Teura",
                 "placeName": "Tea",
                 "district": "Regnano (MS)",
-                "note": "L'itinerario che conduce a Tea passa dalla strada per il passo dei Carpinelli dal\n              quale si devia per il santuario del monte Argegna. Da qui, prendendo la strada statale\n              che porta a Giuncugnano, si arriva alla Maestà di Tea posta all'incrocio di tre\n              selciati ed indicante la mulattiera che raggiunge la sommità dell'altopiano. Dal\n              pascolo che si trova sul crinale del valico, guardando il versante meridionale si\n              giunge ai ruderi dell'ospedale di S. Nicolao di Tea. Cfr. ",
+                "note": "L'itinerario che conduce a Tea passa dalla strada per il passo dei Carpinelli dal quale si devia per il santuario del monte Argegna. Da qui, prendendo la strada statale che porta a Giuncugnano, si arriva alla Maestà di Tea posta all'incrocio di tre selciati ed indicante la mulattiera che raggiunge la sommità dell'altopiano. Dal pascolo che si trova sul crinale del valico, guardando il versante meridionale si giunge ai ruderi dell'ospedale di S. Nicolao di Tea. Cfr. QUIROS CASTILLO 2000",
                 "longitudine": 11.6546786,
                 "latitudine": 46.7177027,
                 "documentoPrimaAttestazione": "XXX_59",
@@ -12080,8 +12080,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.0446124,
-                    43.7539257
+                    12.0435424,
+                    43.7537903
                 ]
             },
             "properties": {
@@ -12090,8 +12090,8 @@
                 "placeName": "Tevere",
                 "district": "",
                 "note": "",
-                "longitudine": 12.0446124,
-                "latitudine": 43.7539257,
+                "longitudine": 12.0435424,
+                "latitudine": 43.7537903,
                 "documentoPrimaAttestazione": "DXXVIII_489",
                 "dataDocumentoPrimaAttestazione": "1198-03-16",
                 "numeroOccorrenze": 2,
@@ -12288,8 +12288,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9502908,
-                    44.2397416
+                    9.9051713,
+                    44.2536054
                 ]
             },
             "properties": {
@@ -12298,8 +12298,8 @@
                 "placeName": "Tresana",
                 "district": "Tresana",
                 "note": "",
-                "longitudine": 9.9502908,
-                "latitudine": 44.2397416,
+                "longitudine": 9.9051713,
+                "latitudine": 44.2536054,
                 "documentoPrimaAttestazione": "DXXXX_501",
                 "dataDocumentoPrimaAttestazione": "1202-05-31",
                 "numeroOccorrenze": 1,
@@ -12338,8 +12338,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.874338904943222,
-                    42.42395965
+                    11.906687604845999,
+                    42.423951900000006
                 ]
             },
             "properties": {
@@ -12348,8 +12348,8 @@
                 "placeName": "Tuscania",
                 "district": "Tuscania",
                 "note": "",
-                "longitudine": 11.874338904943222,
-                "latitudine": 42.42395965,
+                "longitudine": 11.906687604845999,
+                "latitudine": 42.423951900000006,
                 "documentoPrimaAttestazione": "DXXVIII_489",
                 "dataDocumentoPrimaAttestazione": "1198-03-16",
                 "numeroOccorrenze": 2,
@@ -12405,7 +12405,7 @@
                 "settlement": "Tuscolo",
                 "placeName": "Frascati",
                 "district": "Frascati",
-                "note": "Antica città latina che sorgeva nei Colli Albani, presso l’odierna\n              Frascati.",
+                "note": "Antica città latina che sorgeva nei Colli Albani, presso l’odierna Frascati.",
                 "longitudine": 12.6779673,
                 "latitudine": 41.8069602,
                 "documentoPrimaAttestazione": "II_31",
@@ -12473,8 +12473,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.7986246,
-                    42.0882924
+                    11.798473,
+                    42.088109
                 ]
             },
             "properties": {
@@ -12483,8 +12483,8 @@
                 "placeName": "Civitavecchia",
                 "district": "Civitavecchia",
                 "note": "",
-                "longitudine": 11.7986246,
-                "latitudine": 42.0882924,
+                "longitudine": 11.798473,
+                "latitudine": 42.088109,
                 "documentoPrimaAttestazione": "XIIII_43",
                 "dataDocumentoPrimaAttestazione": "1273-04-04",
                 "numeroOccorrenze": 5,
@@ -12648,8 +12648,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9097302,
-                    44.0698058
+                    9.9111402,
+                    44.0737061
                 ]
             },
             "properties": {
@@ -12657,9 +12657,9 @@
                 "settlement": "Valle Stephani",
                 "placeName": "Lerici",
                 "district": "Lerici",
-                "note": "Nel dialetto locale è conosciuto come Vastei, dove Va= valle e Ste=\n              Stefano/i.",
-                "longitudine": 9.9097302,
-                "latitudine": 44.0698058,
+                "note": "Nel dialetto locale è conosciuto come Vastei, dove Va= valle e Ste= Stefano/i.",
+                "longitudine": 9.9111402,
+                "latitudine": 44.0737061,
                 "documentoPrimaAttestazione": "CCCLXXIIII_336",
                 "dataDocumentoPrimaAttestazione": "1197-05-13",
                 "numeroOccorrenze": 7,
@@ -12815,8 +12815,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1045556,
-                    44.0823098
+                    10.1047594,
+                    44.0824136
                 ]
             },
             "properties": {
@@ -12825,8 +12825,8 @@
                 "placeName": "Vezzala",
                 "district": "Carrara",
                 "note": "",
-                "longitudine": 10.1045556,
-                "latitudine": 44.0823098,
+                "longitudine": 10.1047594,
+                "latitudine": 44.0824136,
                 "documentoPrimaAttestazione": "CCCXLVIIII_311",
                 "dataDocumentoPrimaAttestazione": "1150-01-01",
                 "numeroOccorrenze": 29,
@@ -13135,7 +13135,7 @@
                 "settlement": "Vexano / Vezano / Veçano",
                 "placeName": "Vezzano",
                 "district": "Vezzano Ligure",
-                "note": "Si veda anche ",
+                "note": "Si veda anche Vechano.",
                 "longitudine": 9.8815435,
                 "latitudine": 44.1415975,
                 "documentoPrimaAttestazione": "CCXXIII_184",
@@ -13488,8 +13488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.9111402,
-                    44.0737061
+                    9.9097302,
+                    44.0698058
                 ]
             },
             "properties": {
@@ -13498,8 +13498,8 @@
                 "placeName": "Lerici",
                 "district": "Lerici",
                 "note": "",
-                "longitudine": 9.9111402,
-                "latitudine": 44.0737061,
+                "longitudine": 9.9097302,
+                "latitudine": 44.0698058,
                 "documentoPrimaAttestazione": "DXXX_491",
                 "dataDocumentoPrimaAttestazione": "1185-07-29",
                 "numeroOccorrenze": 12,
